@@ -1,0 +1,51 @@
+============================================================
+      GLUCOGUIDE MODEL PERFORMANCE EVALUATION REPORT
+============================================================
+Loading Dataset: synthetic_data.csv
+Total Records: 10000
+------------------------------------------------------------
+
+[MODULE 1A] Smart Meal Recommender
+Type: Constraint Satisfaction & Semantic Search
+Metric: N/A (Rule-Based Logic)
+Validation strategy: Deterministic enforcement of 'Kerala Valid Combinations'.
+    - If input is 'Puttu', output MUST contain 'Kadala' or approved side.
+    - Accuracy is effectively 100% with respect to the programmed cultural rules.
+------------------------------------------------------------
+
+[MODULE 1B] Meal Risk Analysis Model
+Type: Linear Regression
+Input: Total Glycemic Load (total_GL)
+Target: 2-Hour Glucose Spike (glucose_120min)
+Performance Metrics (Test Set):
+  > R-Squared (R²): 0.0403 (Higher is better, max 1.0)
+  > RMSE:           34.21 mg/dL
+  > MAE:            28.74 mg/dL
+------------------------------------------------------------
+
+[MODULE 2] Glucose Spike Prediction Model
+Type: Random Forest Regressor
+Input: 16 Features (Glucose, GI, GL, BMI, Age, etc.)
+Targets: 30min, 60min, 90min, 120min Glucose Levels
+Performance Metrics (Test Set - Average across 4 timepoints):
+  > Mean R-Squared: 0.9376
+  > Mean RMSE:      8.52 mg/dL
+  > Mean MAE:       6.63 mg/dL
+
+  Detailed Accuracy (R²) per Timepoint:
+    - 30 min:  0.9738
+    - 60 min:  0.9454
+    - 90 min:  0.9253
+    - 120 min: 0.9061
+------------------------------------------------------------
+
+[MODULE 3] Diabetic Complication Risk
+Type: Clinical Heuristic / Rule-Based
+Metric: Probability Assessment based on Medical Thresholds
+Note: Not an ML model (No Training Loss to report). Evaluated by clinical validity.
+
+[MODULE 4] Disease Progress Tracker
+Type: Longitudinal Tracking Engine
+Metric: Symptom Score Normalization & Trend Analysis
+Note: Deterministic logic. 100% Accuracy for stored logic.
+============================================================

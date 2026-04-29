@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+matplotlib
+sqlalchemy
+pydantic
+googletrans==4.0.0-rc1
+torch
+scikit-learn
+numpy
+easyocr
+python-multipart
+sentence-transformers

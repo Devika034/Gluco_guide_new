@@ -1,0 +1,1028 @@
+food,carbs_g,protein_g,fat_g,fiber_g,calories,calories.1,GI,GI_band,GI_source,GI_confidence,GL_per_serving,Veg/Non-veg
+Hot tea (Garam Chai),2.58,0.39,0.53,0.0,16.14,16.14,40.1,Low,Estimated(Nutrient),Low,1.03,Veg
+Instant coffee,3.65,0.64,0.75,0.0,23.16,23.16,42.3,Low,Estimated(Nutrient),Low,1.54,Veg
+Espreso coffee,6.62,1.75,2.14,0.0,51.54,51.54,40.3,Low,Estimated(Nutrient),Low,2.67,Veg
+Iced tea,2.7,0.03,0.01,0.0,10.34,10.34,50.5,Low,Estimated(Nutrient),Low,1.36,Veg
+Raw mango drink (Aam panna),9.05,0.16,0.03,0.61,35.92,35.92,45.0,Low,Estimated(Category),Medium,4.07,Veg
+Fruit Punch (with fresh juices),9.38,0.14,0.03,0.06,36.12,36.12,45.0,Low,Estimated(Category),Medium,4.22,Veg
+Fruit Punch (with squashes),5.99,0.07,0.02,0.17,23.13,23.13,45.0,Low,Estimated(Category),Medium,2.7,Veg
+Lemonade,5.48,0.03,0.01,0.02,20.8,20.8,45.0,Low,Estimated(Category),Medium,2.47,Veg
+Lem-o-gin,5.55,0.08,0.03,0.13,21.52,21.52,58.3,Medium,Estimated(Nutrient),Low,3.24,Veg
+Cumin infused water (Jeere/Zeere ka pani),1.86,0.17,0.11,0.46,9.09,9.09,41.5,Low,Estimated(Nutrient),Low,0.77,Veg
+Coco pine cooler,5.72,0.56,1.0,0.26,32.75,32.75,48.4,Low,Estimated(Nutrient),Low,2.77,Veg
+Summer cooler,5.43,0.37,0.04,0.2,22.43,22.43,55.6,Medium,Estimated(Nutrient),Low,3.02,Veg
+Hot cocoa,9.23,3.36,4.56,0.0,90.1,90.1,35.6,Low,Estimated(Nutrient),Low,3.29,Veg
+Cold coffee with ice cream,11.24,1.57,2.11,0.01,67.85,67.85,63.0,Medium,Estimated(Category),Medium,7.08,Veg
+Banana milkshake (Kele milkshake),9.15,1.84,2.37,0.26,65.31,65.31,63.0,Medium,Estimated(Category),Medium,5.76,Veg
+Mango milkshake (Aam milkshake),7.23,1.73,2.35,0.26,56.9,56.9,45.0,Low,Estimated(Category),Medium,3.25,Veg
+Pineapple milkshake (Ananas milkshake),7.62,1.66,2.23,0.0,55.72,55.72,45.0,Low,Estimated(Category),Medium,3.43,Veg
+Orange milkshake (Narangi milkshake),7.11,1.86,2.52,0.0,57.42,57.42,45.0,Low,Estimated(Category),Medium,3.2,Veg
+Egg nog,8.15,4.78,5.11,0.02,97.14,97.14,30.0,Low,Estimated(Nutrient),Low,2.44,Non-Veg
+Sweet Lassi (Meethi lassi),6.51,1.29,0.68,0.0,35.66,35.66,35.0,Low,Estimated(Category),Medium,2.28,Veg
+Lassi (salted),1.86,1.35,0.72,0.02,18.84,18.84,25.0,Low,Measured,High,0.46,Veg
+Cheese and chilli sandwich ,27.4,6.8,9.78,2.08,218.11,218.11,42.6,Low,Estimated(Nutrient),Low,11.67,Veg
+Egg sandwich (Ande ka sandwich),29.16,8.69,15.8,1.88,285.96,285.96,32.4,Low,Estimated(Nutrient),Low,9.45,Non-Veg
+Cucumber sandwich (Kheere ka sandwich),25.77,4.8,8.0,2.45,188.6,188.6,45.6,Low,Estimated(Nutrient),Low,11.75,Veg
+Cheese and pineapple sandwich (Cheese aur ananas ka sandwich),29.1,8.2,12.8,2.33,257.71,257.71,45.0,Low,Estimated(Category),Medium,13.1,Veg
+Cheese and tomato sandwich (Cheese aur tamatar ke sandwich),26.92,7.92,12.27,1.97,243.32,243.32,45.0,Low,Estimated(Category),Medium,12.11,Veg
+Chicken sandwich,25.38,13.12,11.75,1.64,253.27,253.27,29.7,Low,Estimated(Nutrient),Low,7.54,Non-Veg
+Peanut and tomato sandwich (Moongfali aur tamatar ka sandwich),28.54,9.53,16.14,4.03,291.43,291.43,45.0,Low,Estimated(Category),Medium,12.84,Veg
+Rainbow sandwich,34.26,7.75,12.54,2.1,272.75,272.75,38.2,Low,Estimated(Nutrient),Low,13.09,Veg
+Club sandwich ,18.51,7.31,15.12,1.81,235.32,235.32,25.9,Low,Estimated(Nutrient),Low,4.79,Veg
+Vegetarian club sandwich,19.68,5.45,11.33,2.06,198.33,198.33,31.8,Low,Estimated(Nutrient),Low,6.26,Veg
+Pin wheel sandwich,14.0,8.77,24.93,0.93,311.52,311.52,25.0,Low,Estimated(Nutrient),Low,3.5,Veg
+Carrot apple sandwich (Gajar aur seb ka sandwich),29.04,5.3,9.12,3.66,214.11,214.11,45.0,Low,Estimated(Category),Medium,13.07,Veg
+Salami sandwich,21.54,8.7,15.51,1.97,255.59,255.59,27.3,Low,Estimated(Nutrient),Low,5.88,Veg
+Vegetable and mayonnaise sandwich,23.2,4.47,15.4,2.35,244.26,244.26,35.0,Low,Estimated(Category),Medium,8.12,Veg
+Egg and tomato sandwich (Ande aur tamatar ka sandwich),25.9,7.66,10.51,1.77,222.11,222.11,45.0,Low,Estimated(Category),Medium,11.66,Non-Veg
+Sweet open sandwich,39.24,4.99,8.15,2.36,244.25,244.25,90.0,High,Estimated(Category),Medium,35.32,Veg
+Mushroom and cheese sandwich (toasted),21.01,7.79,13.01,2.28,227.42,227.42,45.0,Low,Estimated(Category),Medium,9.45,Veg
+Cheese and tomato sandwich (toasted) (Cheese aur tamatar ke sandwich (toasted)),21.42,6.82,12.95,1.78,224.58,224.58,45.0,Low,Estimated(Category),Medium,9.64,Veg
+Pea potato sandwich (toasted) (Matar aloo ka sandwich),25.17,4.6,5.43,2.89,164.9,164.9,80.0,High,Estimated(Category),Medium,20.14,Veg
+Paneer pea sandwich (toasted) (Paneer matar ka sandwich),24.05,12.4,11.98,2.12,249.56,249.56,35.0,Low,Estimated(Category),Medium,8.42,Veg
+Chicken sandwich (toasted),18.82,12.08,5.32,1.64,167.37,167.37,35.4,Low,Estimated(Nutrient),Low,6.66,Non-Veg
+Pea keema sandwich (toasted) (Matar aur keema ka sandwich),20.26,11.06,5.61,2.45,171.78,171.78,37.4,Low,Estimated(Nutrient),Low,7.58,Veg
+Classic club sandwich,18.49,6.74,11.56,1.62,200.83,200.83,35.0,Low,Estimated(Category),Medium,6.47,Veg
+Sesame toast,11.15,1.9,49.38,1.32,495.19,495.19,25.0,Low,Estimated(Nutrient),Low,2.79,Veg
+Cracked wheat porridge (Meetha daliya),8.87,2.64,4.08,0.62,81.57,81.57,30.0,Low,Estimated(Category),Medium,2.66,Veg
+Semolina porridge (Suji/Rava daliya),12.39,3.75,4.08,0.7,100.89,100.89,30.0,Low,Estimated(Category),Medium,3.72,Veg
+Oatmeal Porridge,8.77,2.6,3.22,0.39,72.85,72.85,45.0,Low,Estimated(Category),Medium,3.95,Veg
+Cornflakes with milk,14.95,3.59,5.12,0.78,117.33,117.33,45.0,Low,Estimated(Category),Medium,6.73,Veg
+Rice flakes (Chiwda/Aval),15.57,3.62,3.99,0.37,112.44,112.44,75.0,High,Estimated(Category),Medium,11.68,Veg
+Wheat flakes,15.57,3.62,3.99,0.37,112.44,112.44,45.1,Low,Estimated(Nutrient),Low,7.02,Veg
+Murmura (Puffed rice),15.67,3.62,4.04,0.28,113.32,113.32,75.0,High,Estimated(Category),Medium,11.75,Veg
+Puffed wheat (Murmure/Moori),15.67,3.62,4.04,0.28,113.32,113.32,45.1,Low,Estimated(Nutrient),Low,7.07,Veg
+Boiled egg (Ubla anda),0.12,4.43,3.04,0.11,45.35,45.35,25.0,Low,Estimated(Nutrient),Low,0.03,Non-Veg
+Fried Egg ,0.31,11.59,19.62,0.29,223.67,223.67,25.0,Low,Estimated(Nutrient),Low,0.08,Non-Veg
+Poached egg,0.37,11.98,8.19,0.3,123.87,123.87,25.0,Low,Estimated(Nutrient),Low,0.09,Non-Veg
+Scrambled egg (Ande ki bhurji),1.35,10.29,12.21,0.24,155.97,155.97,25.0,Low,Estimated(Nutrient),Low,0.34,Non-Veg
+Baked egg ,15.42,11.88,12.65,1.03,218.85,218.85,25.0,Low,Estimated(Nutrient),Low,3.86,Non-Veg
+Plain omelette/omlet,0.64,9.66,25.74,0.12,272.41,272.41,25.0,Low,Estimated(Nutrient),Low,0.16,Veg
+Stuffed egg omelette/omlet,2.3,8.6,17.77,0.75,203.51,203.51,25.0,Low,Estimated(Nutrient),Low,0.57,Non-Veg
+Pancake,20.49,5.68,10.82,0.65,203.36,203.36,32.8,Low,Estimated(Nutrient),Low,6.72,Veg
+Keema pancake,9.56,9.01,11.25,0.84,176.27,176.27,25.0,Low,Estimated(Nutrient),Low,2.39,Veg
+Vegetable pancake,12.24,3.87,6.57,2.48,125.18,125.18,35.0,Low,Estimated(Category),Medium,4.28,Veg
+Jam and fruit pancake,20.73,3.79,7.01,1.21,162.02,162.02,45.0,Low,Estimated(Category),Medium,9.33,Veg
+Khoa and coconut pancake,27.32,6.98,15.29,1.65,271.98,271.98,32.8,Low,Estimated(Nutrient),Low,8.96,Veg
+Brown stock,0.25,1.95,1.38,0.09,21.32,21.32,25.0,Low,Estimated(Nutrient),Low,0.06,Veg
+Vegetable stock,0.96,0.3,1.38,0.38,17.6,17.6,35.0,Low,Estimated(Category),Medium,0.34,Veg
+Chicken stock,0.37,3.69,1.51,0.1,29.88,29.88,25.0,Low,Estimated(Nutrient),Low,0.09,Non-Veg
+Clear tomato soup (Tamatar ka soup),3.45,4.79,12.22,1.96,80.07,80.07,45.0,Low,Estimated(Category),Medium,1.55,Veg
+Lentil soup,3.94,9.65,11.68,2.57,31.17,31.17,44.0,Low,Measured,High,1.73,Veg
+Lentil soup,3.94,9.65,11.68,2.57,31.17,31.17,35.0,Low,Measured,High,1.38,Veg
+Chicken consomme (Clear chicken soup),1.19,11.47,12.02,1.57,47.94,47.94,25.0,Low,Estimated(Nutrient),Low,0.3,Non-Veg
+Cream of tomato soup,3.93,4.61,13.12,1.38,97.81,97.81,45.0,Low,Estimated(Category),Medium,1.77,Veg
+Cream of green peas soup,6.75,7.13,14.78,2.95,127.84,127.84,25.0,Low,Estimated(Nutrient),Low,1.69,Veg
+Cream of spinach soup,3.45,5.21,13.31,1.74,100.54,100.54,25.0,Low,Estimated(Nutrient),Low,0.86,Veg
+Cream of mixed vegetable soup,4.93,6.84,9.05,2.14,59.65,59.65,35.0,Low,Estimated(Category),Medium,1.73,Veg
+Cream of mushroom soup,3.74,6.64,15.5,1.34,117.28,117.28,45.0,Low,Estimated(Category),Medium,1.68,Veg
+Chicken sweet corn soup,1.63,14.48,12.59,0.47,28.32,28.32,90.0,High,Estimated(Category),Medium,1.47,Non-Veg
+Minestrone soup,3.71,9.3,11.09,1.92,42.66,42.66,25.0,Low,Estimated(Nutrient),Low,0.93,Veg
+Egg drop soup,1.1,12.93,13.52,0.81,26.64,26.64,25.0,Low,Estimated(Nutrient),Low,0.28,Non-Veg
+Chinese cabbage and meat ball soup,1.43,5.21,56.57,0.57,484.31,484.31,35.0,Low,Estimated(Category),Medium,0.5,Non-Veg
+French onion soup,4.28,11.41,14.39,1.01,55.61,55.61,25.0,Low,Estimated(Nutrient),Low,1.07,Veg
+Hot and sour soup,1.78,3.12,1.31,0.6,31.51,31.51,25.0,Low,Estimated(Nutrient),Low,0.44,Veg
+Talaumein soup,4.17,10.12,12.78,1.94,35.63,35.63,25.0,Low,Estimated(Nutrient),Low,1.04,Veg
+Cold cucumber soup (Thanda kheere ka soup),4.58,2.99,1.99,0.88,48.03,48.03,30.4,Low,Estimated(Nutrient),Low,1.39,Veg
+Cold summer garden soup,2.65,8.57,14.08,1.86,49.19,49.19,25.0,Low,Estimated(Nutrient),Low,0.66,Veg
+Chapati/Roti,35.65,5.88,3.56,6.31,202.31,202.31,55.0,Low,Estimated(Category),Medium,19.61,Veg
+Plain parantha/paratha,30.69,5.06,16.86,5.43,298.3,298.3,55.0,Low,Estimated(Category),Medium,16.88,Veg
+Potato parantha/paratha (Aloo ka parantha/paratha),23.92,3.7,10.22,4.18,205.04,205.04,80.0,High,Estimated(Category),Medium,19.14,Veg
+Radish parantha/paratha (Mooli ka parantha/paratha),20.54,3.3,9.53,4.32,183.52,183.52,55.0,Low,Estimated(Category),Medium,11.3,Veg
+Cauliflower parantha/paratha (Phoolgobhi ka parantha/paratha),18.84,3.73,9.47,4.68,178.07,178.07,55.0,Low,Estimated(Category),Medium,10.36,Veg
+Dal parantha/paratha,30.03,6.78,13.05,6.46,268.24,268.24,55.0,Low,Estimated(Category),Medium,16.52,Veg
+Sprouted moong parantha/paratha,24.31,4.29,12.43,4.49,228.59,228.59,55.0,Low,Estimated(Category),Medium,13.37,Veg
+Pea parantha/paratha (Matar ka parantha/paratha),21.51,5.59,8.8,5.61,190.73,190.73,55.0,Low,Estimated(Category),Medium,11.83,Veg
+Keema parantha/paratha,18.36,9.41,13.91,3.44,238.09,238.09,55.0,Low,Estimated(Category),Medium,10.1,Veg
+Paneer parantha/paratha,24.33,7.98,14.62,4.0,262.97,262.97,55.0,Low,Estimated(Category),Medium,13.38,Veg
+Besan and spinach parantha/paratha (Besan aur palak ka parantha/paratha),21.39,5.54,12.09,4.39,216.49,216.49,55.0,Low,Estimated(Category),Medium,11.76,Veg
+Poori,8.22,1.35,77.61,1.46,737.63,737.63,55.0,Low,Estimated(Category),Medium,4.52,Veg
+Spinach poori (Palak poori),7.76,1.42,71.86,1.55,684.25,684.25,55.0,Low,Estimated(Category),Medium,4.27,Veg
+Methi poori,7.98,1.45,74.6,1.61,710.02,710.02,55.0,Low,Estimated(Category),Medium,4.39,Veg
+Dal stuffed poori,10.14,2.08,81.69,1.96,785.16,785.16,55.0,Low,Estimated(Category),Medium,5.58,Veg
+Potato stuffed poori (Aloo ki poori),9.4,1.52,81.35,1.64,776.74,776.74,80.0,High,Estimated(Category),Medium,7.52,Veg
+Tandoori parantha/paratha,30.74,5.08,16.51,5.44,295.37,295.37,55.0,Low,Estimated(Category),Medium,16.91,Veg
+Boiled rice (Uble chawal),25.72,2.6,0.18,1.25,117.19,117.19,75.0,High,Estimated(Category),Medium,19.29,Veg
+Plain pulao,21.82,2.34,4.62,1.69,140.21,140.21,51.3,Low,Estimated(Nutrient),Low,11.19,Veg
+Mixed vegetable pulao,17.49,2.72,3.33,2.67,113.05,113.05,35.0,Low,Estimated(Category),Medium,6.12,Veg
+Mushroom pulao,19.02,2.52,4.03,1.88,124.29,124.29,45.0,Low,Estimated(Category),Medium,8.56,Veg
+Sprouted moong pulao,17.49,2.19,3.61,1.78,112.97,112.97,30.0,Low,Estimated(Category),Medium,5.25,Veg
+Paneer pulao,8.76,1.98,59.81,0.62,581.91,581.91,35.0,Low,Estimated(Category),Medium,3.07,Veg
+Peanut pulao ,21.18,5.32,9.51,2.9,193.28,193.28,45.0,Low,Estimated(Category),Medium,9.53,Veg
+Navratan pulao,36.98,6.2,9.45,3.82,261.71,261.71,48.3,Low,Estimated(Nutrient),Low,17.86,Veg
+Green chickpeas pulao (Choliya pulao/Hare chane ka pulao),27.57,4.88,4.82,3.15,173.43,173.43,45.0,Low,Estimated(Category),Medium,12.41,Veg
+Mutton biryani/biriyani,22.5,7.38,7.72,2.42,190.76,190.76,40.8,Low,Estimated(Nutrient),Low,9.18,Non-Veg
+Vegetable biryani/biriyani,18.56,3.16,9.51,3.31,174.61,174.61,35.0,Low,Estimated(Category),Medium,6.5,Veg
+"Lemon rice (Pulihora, Elumichai sadam, Chitranna)",21.62,4.26,7.88,2.52,176.3,176.3,50.0,Low,Measured,High,10.81,Veg
+Sweet rice (Meethe chawal),42.59,2.1,4.57,1.13,215.41,215.41,75.0,High,Estimated(Category),Medium,31.94,Veg
+Curd rice (Dahi bhaat/Dahi chawal/ Perugu annam/Daddojanam/Thayir saadam),32.93,5.75,4.32,2.13,195.74,195.74,75.0,High,Estimated(Category),Medium,24.7,Veg
+Tamarind rice (Chintapandu pulihora/Puliyodharai/Puli sadam/Huli anna),65.08,7.45,8.53,5.12,373.04,373.04,75.0,High,Estimated(Category),Medium,48.81,Veg
+Spanish rice,31.1,4.19,2.23,2.78,164.24,164.24,75.0,High,Estimated(Category),Medium,23.32,Veg
+Chinese fried rice,13.4,4.05,5.43,2.31,120.58,120.58,75.0,High,Estimated(Category),Medium,10.05,Veg
+Macroni cheese pie,21.1,5.85,7.48,0.4,170.63,170.63,41.7,Low,Estimated(Nutrient),Low,8.8,Veg
+Vegetable chowmein,15.44,3.07,6.36,1.86,129.71,129.71,35.0,Low,Estimated(Category),Medium,5.4,Veg
+Chicken chowmein,13.3,6.33,8.23,1.64,151.33,151.33,32.3,Low,Estimated(Nutrient),Low,4.3,Non-Veg
+Cheese noodle ring,13.96,6.22,6.12,1.27,133.67,133.67,35.8,Low,Estimated(Nutrient),Low,5.0,Veg
+Spaghetti and cheese balls in tomato sauce,7.82,2.41,52.08,0.59,508.32,508.32,45.0,Low,Estimated(Category),Medium,3.52,Veg
+Penne platter,20.87,5.04,8.71,1.09,177.4,177.4,41.0,Low,Estimated(Nutrient),Low,8.56,Veg
+Pasta hot pot,11.6,5.84,6.47,0.8,125.17,125.17,45.0,Low,Estimated(Category),Medium,5.22,Veg
+Chicken lasagne,13.9,10.45,10.36,0.11,187.49,187.49,25.0,Low,Estimated(Nutrient),Low,3.48,Non-Veg
+Fettuccine with spinach sauce,12.19,3.1,7.83,0.77,129.21,129.21,35.4,Low,Estimated(Nutrient),Low,4.32,Veg
+Naan,51.75,8.05,4.99,1.91,286.45,286.45,55.1,Medium,Estimated(Nutrient),Low,28.51,Veg
+Bhatura,10.73,1.63,82.56,0.38,793.2,793.2,25.0,Low,Estimated(Nutrient),Low,2.68,Veg
+Idli,28.18,4.64,0.33,2.31,137.54,137.54,85.0,High,Measured,High,23.95,Veg
+Masala dosa,19.57,3.29,7.84,2.52,164.58,164.58,75.0,High,Estimated(Category),Medium,14.68,Veg
+Semolina dosa (Suji/Rava dosa),32.84,7.3,7.12,4.04,227.05,227.05,75.0,High,Estimated(Category),Medium,24.63,Veg
+Onion tomato uttapam,11.32,1.91,45.3,1.26,462.02,462.02,45.0,Low,Estimated(Category),Medium,5.09,Veg
+Paneer kaathi roll,20.1,6.92,19.55,2.4,285.94,285.94,35.0,Low,Estimated(Category),Medium,7.04,Veg
+Makki ki roti,24.19,3.49,16.85,5.19,263.97,263.97,55.0,Low,Estimated(Category),Medium,13.3,Veg
+Washed moong dal (Dhuli moong ki dal),5.91,2.68,1.68,1.17,50.0,50.0,30.0,Low,Estimated(Category),Medium,1.77,Veg
+Washed urad dal (Dhuli urad ki dal),5.84,2.51,2.98,1.53,61.32,61.32,30.0,Low,Estimated(Category),Medium,1.75,Veg
+Split bengal gram with bottle gourd (Channa dal with ghiya/lauki),7.1,2.79,3.6,2.72,73.25,73.25,30.0,Low,Estimated(Category),Medium,2.13,Veg
+Dry washed urad,15.66,6.85,3.5,4.06,124.71,124.71,40.6,Low,Estimated(Nutrient),Low,6.36,Veg
+Mixed dal,5.79,2.51,3.1,1.62,61.93,61.93,30.0,Low,Estimated(Category),Medium,1.74,Veg
+Whole moong (Moong ki dal),5.22,2.25,2.56,2.02,53.7,53.7,30.0,Low,Estimated(Category),Medium,1.57,Veg
+Whole masoor (Masoor ki dal),5.37,2.28,2.52,1.98,54.05,54.05,30.0,Low,Estimated(Category),Medium,1.61,Veg
+Whole moth (Moth ki dal),5.74,2.01,2.62,1.85,55.0,55.0,30.0,Low,Estimated(Category),Medium,1.72,Veg
+Whole urad (Urad ki dal),5.05,2.21,2.62,2.32,53.8,53.8,30.0,Low,Estimated(Category),Medium,1.52,Veg
+Moti mahal dal (Urad rajmah mix dal),8.74,3.93,5.66,3.38,103.13,103.13,30.0,Low,Estimated(Category),Medium,2.62,Veg
+Black channa curry/Bengal gram curry (Kale chane ki curry),14.11,5.67,6.61,7.99,140.68,140.68,40.0,Low,Estimated(Category),Medium,5.64,Veg
+Chickpeas curry (Safed channa curry),19.98,6.1,6.84,4.73,163.43,163.43,45.0,Low,Estimated(Category),Medium,8.99,Veg
+Lobia curry,17.88,6.06,5.62,4.57,148.99,148.99,40.0,Low,Estimated(Category),Medium,7.15,Veg
+Soyabean curry,6.76,10.43,10.19,7.34,163.28,163.28,40.0,Low,Estimated(Category),Medium,2.7,Veg
+Kidney bean curry (Rajmah curry),16.38,5.95,5.77,5.83,143.73,143.73,40.0,Low,Estimated(Category),Medium,6.55,Veg
+Sambar,10.57,3.35,4.38,3.52,96.92,96.92,40.0,Low,Estimated(Category),Medium,4.23,Veg
+Besan kadhi with pakodies,3.56,1.64,42.59,0.81,403.35,403.35,25.0,Low,Estimated(Nutrient),Low,0.89,Veg
+Khatta channa,21.14,6.3,10.56,5.26,202.57,202.57,55.0,Low,Estimated(Category),Medium,11.63,Veg
+Sprouted moong dal chat,6.01,1.35,0.32,1.35,32.47,32.47,30.0,Low,Estimated(Category),Medium,1.8,Veg
+Potato cauliflower (Aloo gobhi),5.99,1.9,8.13,3.02,106.18,106.18,80.0,High,Estimated(Category),Medium,4.79,Veg
+Potato capsicum (Shimla mirch aloo),8.72,1.41,9.33,2.02,125.53,125.53,80.0,High,Estimated(Category),Medium,6.98,Veg
+Cabbage and peas (Pattagobhi aur matar),6.24,3.24,2.64,3.99,63.88,63.88,55.0,Low,Estimated(Category),Medium,3.43,Veg
+Carrot and fenugreek leaves (Gajar methi),4.17,2.1,3.81,4.43,61.92,61.92,45.0,Low,Estimated(Category),Medium,1.88,Veg
+Potato fenugreek (Aloo methi),8.47,2.25,10.04,2.93,135.15,135.15,80.0,High,Estimated(Category),Medium,6.78,Veg
+Brinjal bhartha (Baingan ka bhartha),4.4,1.38,4.48,3.27,65.12,65.12,35.0,Low,Estimated(Category),Medium,1.54,Veg
+Dry potato (Sookhe aloo),14.38,1.62,4.18,1.88,103.15,103.15,80.0,High,Estimated(Category),Medium,11.5,Veg
+Beans with coconut (Nariyal aur sem/phali; Beans thoran),4.39,2.62,11.39,5.59,131.63,131.63,45.0,Low,Estimated(Category),Medium,1.98,Veg
+Cauliflower with coconut (Nariyal ke saath phoolgobhi),3.99,2.64,11.56,5.27,132.11,132.11,35.0,Low,Estimated(Category),Medium,1.4,Veg
+Carrot and cabbage with coconut (Nariyal ke saath pattagobhi aur gajar),4.99,1.82,8.62,4.52,106.61,106.61,45.0,Low,Estimated(Category),Medium,2.25,Veg
+Raw turnip with coconut ,5.78,1.8,11.47,2.79,132.15,132.15,25.0,Low,Estimated(Nutrient),Low,1.44,Veg
+Raw papaya with coconut (Papaya thoran),5.58,1.54,11.42,4.31,132.75,132.75,40.0,Low,Estimated(Category),Medium,2.23,Veg
+Stuffed okra (Bharwa bhindi),3.85,2.08,7.66,4.15,94.34,94.34,35.0,Low,Estimated(Category),Medium,1.35,Veg
+Stuffed round gourd (Bharwa tinde),4.02,1.1,5.75,2.1,72.8,72.8,25.0,Low,Estimated(Nutrient),Low,1.0,Veg
+Stuffed capsicum (Bharwa shimla mirch),8.26,1.34,5.7,2.01,90.94,90.94,35.5,Low,Estimated(Nutrient),Low,2.93,Veg
+Stuffed brinjal (Bharwa baingan),3.96,1.53,7.73,4.09,93.0,93.0,35.0,Low,Estimated(Category),Medium,1.39,Veg
+Stuffed tomatoes (Bharwa tamatar),6.19,3.28,6.06,2.2,93.35,93.35,45.0,Low,Estimated(Category),Medium,2.79,Veg
+Pea potato curry (Aloo matar),9.74,3.48,5.13,3.61,100.92,100.92,80.0,High,Estimated(Category),Medium,7.79,Veg
+Pea paneer curry (Matar paneer),9.29,6.61,7.75,3.3,134.83,134.83,40.0,Low,Estimated(Category),Medium,3.72,Veg
+Pea mushroom curry (Matar mushroom),7.41,3.87,5.16,3.86,93.3,93.3,45.0,Low,Estimated(Category),Medium,3.33,Veg
+Pea curry (Matar ki sabzi),9.2,4.51,5.11,4.44,102.99,102.99,40.0,Low,Estimated(Category),Medium,3.68,Veg
+Pea vadi curry,8.9,4.64,5.08,4.28,101.95,101.95,40.0,Low,Estimated(Category),Medium,3.56,Veg
+Paneer curry,8.4,7.8,12.38,1.4,176.52,176.52,40.0,Low,Estimated(Category),Medium,3.36,Veg
+Lotus stem curry (Kamal kakdi curry),9.24,1.53,7.25,3.14,110.34,110.34,40.0,Low,Estimated(Category),Medium,3.7,Veg
+Gravy for kofta,6.31,1.75,10.35,1.96,125.59,125.59,25.0,Low,Estimated(Nutrient),Low,1.58,Veg
+Pea kofta curry (Matar kofta curry),4.17,2.01,63.39,1.7,595.66,595.66,40.0,Low,Estimated(Category),Medium,1.67,Veg
+Spinach kofta curry (Palak kofta curry),3.56,1.09,61.49,0.92,571.78,571.78,40.0,Low,Estimated(Category),Medium,1.42,Veg
+Paneer kofta curry,3.27,2.39,72.06,0.4,670.91,670.91,40.0,Low,Estimated(Category),Medium,1.31,Veg
+Lotus stem kofta curry (Kamal kakdi kofta curry),5.01,0.96,67.76,1.01,633.56,633.56,40.0,Low,Estimated(Category),Medium,2.0,Veg
+Raw banana kofta curry (Kela kofta curry),3.4,0.62,67.98,0.59,627.27,627.27,63.0,Medium,Estimated(Category),Medium,2.14,Veg
+Cauliflower kofta curry (Phoolgobhi kofta curry),2.62,1.04,69.62,1.0,641.1,641.1,40.0,Low,Estimated(Category),Medium,1.05,Veg
+Cabbage kofta curry (Pattagobhi kofta curry),2.87,0.98,69.4,0.9,639.81,639.81,55.0,Low,Estimated(Category),Medium,1.58,Veg
+Ghiya/Lauki Kofta Curry,2.71,0.89,69.4,0.83,638.71,638.71,40.0,Low,Estimated(Category),Medium,1.08,Veg
+Spinach paneer kofta curry (Palak paneer kofta curry),2.94,1.43,65.41,0.75,606.03,606.03,40.0,Low,Estimated(Category),Medium,1.18,Veg
+Vegetarian egg kofta curry,4.26,1.33,67.24,0.64,627.41,627.41,40.0,Low,Estimated(Category),Medium,1.7,Non-Veg
+Baked vegetables,8.44,3.67,4.44,2.34,88.99,88.99,35.0,Low,Estimated(Category),Medium,2.95,Veg
+Cauliflower musallam (Phoolgobhi musallam),4.48,1.89,3.55,3.06,58.83,58.83,35.0,Low,Estimated(Category),Medium,1.57,Veg
+Baked vegetables with spinach ,6.93,3.22,4.03,2.33,77.79,77.79,35.0,Low,Estimated(Category),Medium,2.43,Veg
+Baked potato with skin ,11.11,3.43,8.5,1.2,135.77,135.77,80.0,High,Estimated(Category),Medium,8.89,Veg
+Shepherd's pie (vegetarian),12.03,5.04,7.3,2.23,135.63,135.63,33.2,Low,Estimated(Nutrient),Low,3.99,Veg
+Baked brinjal in tomato sauce,4.13,1.58,1.62,2.34,38.63,38.63,45.0,Low,Estimated(Category),Medium,1.86,Veg
+Dum aloo,3.33,0.7,74.01,0.68,682.33,682.33,25.0,Low,Estimated(Nutrient),Low,0.83,Veg
+Spinach paneer (Palak paneer),4.43,4.03,4.76,1.91,77.68,77.68,35.0,Low,Estimated(Category),Medium,1.55,Veg
+Methi chaman,2.78,1.54,50.91,0.53,475.62,475.62,25.0,Low,Estimated(Nutrient),Low,0.7,Veg
+Sarson ka saag,5.33,3.0,5.86,3.69,87.84,87.84,25.0,Low,Estimated(Nutrient),Low,1.33,Veg
+Jackfruit sabzi (Kathal ki sabzi),3.4,0.69,67.6,1.02,625.4,625.4,45.0,Low,Estimated(Category),Medium,1.53,Veg
+Avial,8.47,2.46,8.94,5.44,124.56,124.56,40.0,Low,Estimated(Category),Medium,3.39,Veg
+Al yakhani,4.65,2.86,13.14,1.27,147.54,147.54,25.0,Low,Estimated(Nutrient),Low,1.16,Veg
+Shahi paneer,6.64,5.06,12.34,1.4,156.5,156.5,20.0,Low,Measured,High,1.33,Veg
+Paneer in butter sauce,9.7,6.99,8.81,1.5,145.61,145.61,35.0,Low,Estimated(Category),Medium,3.4,Veg
+Methi malai paneer,8.15,7.34,14.76,1.47,194.98,194.98,35.0,Low,Estimated(Category),Medium,2.85,Veg
+Chilli paneer,3.31,2.1,84.01,0.5,777.51,777.51,35.0,Low,Estimated(Category),Medium,1.16,Veg
+Paneer makhana korma,4.63,3.24,82.76,0.21,775.82,775.82,35.0,Low,Estimated(Category),Medium,1.62,Veg
+Kadhai Paneer,7.34,4.33,6.81,2.07,107.99,107.99,35.0,Low,Estimated(Category),Medium,2.57,Veg
+Roghan josh,4.93,9.56,9.02,2.08,139.59,139.59,25.0,Low,Estimated(Nutrient),Low,1.23,Veg
+Spinach mutton (Palak mutton),3.45,5.74,4.71,2.23,80.32,80.32,25.0,Low,Estimated(Nutrient),Low,0.86,Non-Veg
+Pea keema curry (Matar keema ki sabzi),6.24,8.43,8.14,2.96,133.0,133.0,40.0,Low,Estimated(Category),Medium,2.5,Veg
+Keema kofta curry,5.64,9.77,10.39,1.51,154.45,154.45,40.0,Low,Estimated(Category),Medium,2.26,Veg
+Kashmiri mutton koftas (Gushtaba),3.04,6.33,6.77,0.62,97.42,97.42,25.0,Low,Estimated(Nutrient),Low,0.76,Non-Veg
+Mutton yakhni,0.84,8.27,7.7,0.67,104.13,104.13,25.0,Low,Estimated(Nutrient),Low,0.21,Non-Veg
+Chicken yakhni,0.78,10.66,6.1,0.62,99.0,99.0,25.0,Low,Estimated(Nutrient),Low,0.2,Non-Veg
+Mutton do piaza,4.14,9.39,14.41,1.93,183.3,183.3,25.0,Low,Estimated(Nutrient),Low,1.03,Non-Veg
+Mutton chops,1.48,4.03,71.31,0.17,663.64,663.64,25.0,Low,Estimated(Nutrient),Low,0.37,Non-Veg
+Shammi kebab,3.54,4.52,72.61,1.05,685.69,685.69,25.0,Low,Estimated(Nutrient),Low,0.88,Veg
+Scotch egg,1.91,4.05,72.62,0.36,676.89,676.89,25.0,Low,Estimated(Nutrient),Low,0.48,Non-Veg
+Shepherd's pie (with minced meat),8.06,7.45,8.88,1.05,142.78,142.78,25.0,Low,Estimated(Nutrient),Low,2.02,Non-Veg
+Chicken curry,3.38,11.79,7.57,1.41,129.22,129.22,0.0,Low,Measured,High,0.0,Non-Veg
+Chicken curry,3.38,11.79,7.57,1.41,129.22,129.22,0.0,Low,Measured,High,0.0,Non-Veg
+Chicken curry,3.38,11.79,7.57,1.41,129.22,129.22,0.0,Low,Measured,High,0.0,Non-Veg
+Chicken curry,3.38,11.79,7.57,1.41,129.22,129.22,0.0,Low,Measured,High,0.0,Non-Veg
+Tandoori chicken,2.34,16.26,7.93,0.5,145.2,145.2,0.0,Low,Measured,High,0.0,Non-Veg
+Tandoori chicken,2.34,16.26,7.93,0.5,145.2,145.2,0.0,Low,Measured,High,0.0,Non-Veg
+Butter chicken,3.74,10.92,8.7,1.32,137.0,137.0,0.0,Low,Measured,High,0.0,Non-Veg
+Butter chicken,3.74,10.92,8.7,1.32,137.0,137.0,0.0,Low,Measured,High,0.0,Non-Veg
+Chicken kebab,1.11,3.71,78.89,0.21,729.41,729.41,0.0,Low,Measured,High,0.0,Non-Veg
+Chilli chicken,2.86,9.57,16.56,0.99,198.83,198.83,25.0,Low,Estimated(Nutrient),Low,0.72,Non-Veg
+Fried chicken with tomato sauce (Fried chicken tamatar ki chutney kay saath),2.51,11.48,7.61,1.13,125.03,125.03,45.0,Low,Estimated(Category),Medium,1.13,Non-Veg
+Fish curry (Machli curry),3.77,8.76,6.69,1.89,111.13,111.13,0.0,Low,Measured,High,0.0,Non-Veg
+Fish curry (Machli curry),3.77,8.76,6.69,1.89,111.13,111.13,0.0,Low,Measured,High,0.0,Non-Veg
+Fish curry (Machli curry),3.77,8.76,6.69,1.89,111.13,111.13,0.0,Low,Measured,High,0.0,Non-Veg
+Fried fish (Indian style) (Tali hui machli),5.4,4.35,68.88,0.61,658.54,658.54,25.0,Low,Estimated(Nutrient),Low,1.35,Non-Veg
+Fried fish and Chips (English Style) (Tali hui machli aur chips),2.77,3.36,69.69,0.29,651.75,651.75,80.0,High,Estimated(Category),Medium,2.22,Non-Veg
+Tomato fish,3.18,2.39,51.91,0.72,489.79,489.79,45.0,Low,Estimated(Category),Medium,1.43,Non-Veg
+Baked fish with cheese sauce,4.06,8.64,7.02,0.08,113.96,113.96,25.0,Low,Estimated(Nutrient),Low,1.01,Non-Veg
+Fish tikka,3.91,16.0,4.15,1.18,117.33,117.33,25.0,Low,Estimated(Nutrient),Low,0.98,Non-Veg
+Tandoori fish,2.37,11.19,4.64,0.58,95.98,95.98,25.0,Low,Estimated(Nutrient),Low,0.59,Non-Veg
+"Paneer, apple and pineapple salad",8.35,3.88,5.07,1.65,95.08,95.08,45.0,Low,Estimated(Category),Medium,3.76,Veg
+Russian salad,6.5,4.26,7.84,2.57,114.83,114.83,25.0,Low,Estimated(Nutrient),Low,1.62,Veg
+Pasta salad,12.7,4.15,13.92,0.96,190.36,190.36,45.0,Low,Estimated(Category),Medium,5.72,Veg
+Deviled egg,2.23,4.97,7.72,1.15,98.56,98.56,25.0,Low,Estimated(Nutrient),Low,0.56,Non-Veg
+Hawain salad,14.35,4.27,11.37,3.93,175.23,175.23,27.4,Low,Estimated(Nutrient),Low,3.93,Veg
+Mixed pulse and vegetable salad,13.96,4.74,0.84,2.96,83.12,83.12,35.0,Low,Estimated(Category),Medium,4.89,Veg
+Sprouted moong salad ,5.48,2.29,0.74,0.95,37.81,37.81,30.0,Low,Estimated(Category),Medium,1.64,Veg
+Tossed salad,4.95,1.02,4.22,2.15,62.96,62.96,31.0,Low,Estimated(Nutrient),Low,1.53,Veg
+Mixed vegetable salad with curd sauce,7.03,4.23,1.5,3.79,60.28,60.28,35.0,Low,Estimated(Category),Medium,2.46,Veg
+Potato salad (Aloo ka salaad),11.19,1.4,4.4,1.32,89.91,89.91,80.0,High,Estimated(Category),Medium,8.95,Veg
+Waldroff salad,11.02,1.47,10.05,1.87,141.75,141.75,27.8,Low,Estimated(Nutrient),Low,3.06,Veg
+Coleslaw,5.59,1.24,5.32,2.34,76.71,76.71,29.8,Low,Estimated(Nutrient),Low,1.67,Veg
+Fruit salad (Phalon ka salaad),15.96,0.91,1.22,1.58,78.14,78.14,45.0,Low,Estimated(Category),Medium,7.18,Veg
+Tomato onion raita (Tamatar aur pyaaz ka raita),7.08,3.74,1.84,0.97,59.0,59.0,45.0,Low,Estimated(Category),Medium,3.19,Veg
+Peanut raita (Mungfali ka raita),9.3,8.59,8.98,1.89,150.39,150.39,45.0,Low,Estimated(Category),Medium,4.19,Veg
+Sprouted moong raita ,6.13,4.62,2.19,0.16,60.89,60.89,30.0,Low,Estimated(Category),Medium,1.84,Veg
+Bottle gourd raita (Ghiya/Lauki ka raita),5.76,3.98,2.07,0.85,56.31,56.31,31.5,Low,Estimated(Nutrient),Low,1.81,Veg
+Cucumber raita (Kheere ka raita),6.35,4.04,2.08,0.86,59.13,59.13,33.0,Low,Estimated(Nutrient),Low,2.1,Veg
+Carrot and spinach raita (Gajar aur palak ka raita),5.83,4.0,1.99,1.39,56.83,56.83,45.0,Low,Estimated(Category),Medium,2.62,Veg
+Mint raita (Pudinay ka raita),7.65,5.64,2.96,0.34,77.59,77.59,31.0,Low,Estimated(Nutrient),Low,2.37,Veg
+Potato raita (Aloo ka raita),10.24,4.22,2.04,0.75,75.38,75.38,80.0,High,Estimated(Category),Medium,8.19,Veg
+Boondi raita,3.96,2.19,73.83,0.46,687.72,687.72,25.0,Low,Estimated(Nutrient),Low,0.99,Veg
+Sweet raita (Meetha raita),17.93,3.24,1.78,1.02,99.24,99.24,90.0,High,Estimated(Category),Medium,16.14,Veg
+Dahi vadas/Dahi bhalla,5.49,2.96,70.4,0.97,667.73,667.73,80.0,High,Estimated(Category),Medium,4.39,Veg
+Gunjia,5.68,2.98,70.28,1.13,667.34,667.34,25.0,Low,Estimated(Nutrient),Low,1.42,Veg
+Saunth/Sonth chutney with tamarind/imli,33.55,1.01,0.15,0.93,141.53,141.53,65.8,Medium,Estimated(Nutrient),Low,22.08,Veg
+Rice kheer (Chawal ki kheer),10.05,2.3,2.97,0.17,75.03,75.03,75.0,High,Estimated(Category),Medium,7.54,Veg
+Makhana kheer,12.88,3.31,5.0,0.11,107.85,107.85,40.6,Low,Estimated(Nutrient),Low,5.23,Veg
+Vermicelli kheer (Semiya/Seviyan ki kheer),15.87,3.35,5.0,0.5,120.07,120.07,44.0,Low,Estimated(Nutrient),Low,6.98,Veg
+Semolina kheer (Suji/Rava kheer),15.88,3.43,4.2,0.51,113.21,113.21,45.4,Low,Estimated(Nutrient),Low,7.21,Veg
+Paneer kheer,10.03,4.53,5.37,0.07,105.31,105.31,35.0,Low,Estimated(Category),Medium,3.51,Veg
+Cabbage kheer (Pattagobhi ki kheer),9.73,2.87,3.8,0.51,83.51,83.51,55.0,Low,Estimated(Category),Medium,5.35,Veg
+Carrot kheer (Gajar ki kheer),10.09,2.81,3.85,0.73,85.35,85.35,45.0,Low,Estimated(Category),Medium,4.54,Veg
+Cauliflower kheer (Phoolgobhi ki kheer),8.78,3.04,3.95,0.55,81.95,81.95,35.0,Low,Estimated(Category),Medium,3.07,Veg
+Moong dal kheer,9.89,2.95,2.97,0.4,77.16,77.16,30.0,Low,Estimated(Category),Medium,2.97,Veg
+Phirni,16.11,3.49,4.34,0.36,116.12,116.12,45.2,Low,Estimated(Nutrient),Low,7.28,Veg
+Semolina halwa (Suji ka halwa),24.67,2.16,13.38,1.86,225.65,225.65,90.0,High,Estimated(Category),Medium,22.2,Veg
+Shahi suji halwa,44.44,3.48,21.73,2.96,382.34,382.34,90.0,High,Estimated(Category),Medium,40.0,Veg
+Carrot halwa (Gajar ka halwa),18.53,3.11,9.73,2.65,172.64,172.64,45.0,Low,Estimated(Category),Medium,8.34,Veg
+Egg halwa (Ande ka halwa),39.59,7.85,13.41,0.49,299.74,299.74,90.0,High,Estimated(Category),Medium,35.63,Non-Veg
+Potato halwa (Aloo ka halwa),29.18,1.53,3.48,1.64,151.66,151.66,80.0,High,Estimated(Category),Medium,23.34,Veg
+Pumpkin halwa (Kaddu ka halwa),27.6,1.33,8.81,2.97,190.27,190.27,90.0,High,Estimated(Category),Medium,24.84,Veg
+Moong dal halwa,40.23,8.35,17.68,2.65,349.8,349.8,30.0,Low,Estimated(Category),Medium,12.07,Veg
+Caramel custard (steamed),15.02,4.97,4.87,0.0,121.58,121.58,40.7,Low,Estimated(Nutrient),Low,6.11,Veg
+Baked custard,9.45,5.41,5.3,0.0,106.53,106.53,31.3,Low,Estimated(Nutrient),Low,2.96,Veg
+Soft Custard (stirred),11.19,5.01,5.07,0.0,109.18,109.18,35.2,Low,Estimated(Nutrient),Low,3.94,Veg
+Chocolate ice cream,15.41,4.47,11.25,0.0,177.7,177.7,63.0,Medium,Estimated(Category),Medium,9.71,Veg
+Mango ice cream,11.14,3.4,7.62,0.52,125.69,125.69,45.0,Low,Estimated(Category),Medium,5.01,Veg
+Fruit Ice cream (Phalon ka Ice cream),16.05,4.37,10.38,0.33,171.46,171.46,63.0,Medium,Estimated(Category),Medium,10.11,Veg
+Caramel ice cream,14.81,4.31,11.15,0.08,173.52,173.52,63.0,Medium,Estimated(Category),Medium,9.33,Veg
+Lemon souffle,13.43,6.95,10.02,0.0,168.51,168.51,45.0,Low,Estimated(Category),Medium,6.04,Veg
+Orange souffle,14.2,6.8,9.73,0.22,168.28,168.28,45.0,Low,Estimated(Category),Medium,6.39,Veg
+Vanilla souffle,14.78,7.71,11.19,0.0,187.85,187.85,25.0,Low,Estimated(Nutrient),Low,3.7,Veg
+Chocolate souffle,14.74,7.88,11.36,0.0,189.32,189.32,25.0,Low,Estimated(Nutrient),Low,3.68,Veg
+Pineapple souffle ,15.52,8.06,11.72,0.0,196.14,196.14,45.0,Low,Estimated(Category),Medium,6.98,Veg
+Apple mousse,12.77,4.21,4.27,1.6,106.92,106.92,45.0,Low,Estimated(Category),Medium,5.75,Veg
+Rich chocolate mousse,10.84,7.96,12.19,0.0,188.26,188.26,25.0,Low,Estimated(Nutrient),Low,2.71,Veg
+Mango mousse,9.14,3.21,8.47,0.88,124.98,124.98,45.0,Low,Estimated(Category),Medium,4.11,Veg
+Orange and pineapple cream,11.96,1.44,5.43,1.03,101.18,101.18,45.0,Low,Estimated(Category),Medium,5.38,Veg
+Charlotte rousse,34.08,3.95,4.78,1.01,188.29,188.29,54.5,Low,Estimated(Nutrient),Low,18.57,Veg
+Triffle pudding,18.24,2.93,3.93,0.12,116.97,116.97,48.9,Low,Estimated(Nutrient),Low,8.92,Veg
+Snow flakes pudding,8.07,4.67,4.97,0.03,95.21,95.21,30.2,Low,Estimated(Nutrient),Low,2.44,Veg
+Kulfi,11.3,3.21,4.7,0.12,98.43,98.43,39.1,Low,Estimated(Nutrient),Low,4.42,Veg
+Steamed orange pudding,41.53,2.34,12.04,0.58,278.03,278.03,45.0,Low,Estimated(Category),Medium,18.69,Veg
+Meringue and rice pudding,14.6,4.84,4.05,0.17,112.93,112.93,75.0,High,Estimated(Category),Medium,10.95,Veg
+Cheese pudding,19.27,11.29,18.37,0.05,285.01,285.01,25.0,Low,Estimated(Nutrient),Low,4.82,Veg
+Chocolate pudding,29.59,3.55,9.48,0.53,211.96,211.96,47.5,Low,Estimated(Nutrient),Low,14.06,Veg
+Bread and butter pudding ,19.63,5.59,7.88,0.98,167.94,167.94,40.3,Low,Estimated(Nutrient),Low,7.91,Veg
+Queen of pudding,16.35,5.51,5.38,0.27,132.92,132.92,40.5,Low,Estimated(Nutrient),Low,6.62,Veg
+Pineapple upside down pudding,35.73,3.15,11.91,0.8,257.73,257.73,45.0,Low,Estimated(Category),Medium,16.08,Veg
+Date and nut pie,46.86,3.93,13.31,4.13,322.42,322.42,45.4,Low,Estimated(Nutrient),Low,21.27,Veg
+Stewed apple with custard,18.36,1.27,1.82,1.01,92.87,92.87,45.0,Low,Estimated(Category),Medium,8.26,Veg
+Apple snowballs,24.58,0.86,0.31,1.25,101.51,101.51,45.0,Low,Estimated(Category),Medium,11.06,Veg
+Hot orange souffle,18.77,6.87,8.95,0.29,179.97,179.97,45.0,Low,Estimated(Category),Medium,8.45,Veg
+Hot chocolate souffle,26.21,6.7,11.1,0.12,226.09,226.09,35.8,Low,Estimated(Nutrient),Low,9.38,Veg
+Hot vanilla souffle,21.77,6.87,9.07,0.13,192.93,192.93,39.4,Low,Estimated(Nutrient),Low,8.58,Veg
+Plain burfi (Burfi),30.88,9.82,27.96,0.17,408.32,408.32,26.0,Low,Estimated(Nutrient),Low,8.03,Veg
+Coconut burfi (Nariyal ki burfi),32.15,8.81,34.63,3.5,467.64,467.64,25.0,Low,Estimated(Nutrient),Low,8.04,Veg
+Bottle gourd burfi (Ghiya/Lauki burfi),24.51,5.86,17.68,0.73,275.96,275.96,30.0,Low,Estimated(Nutrient),Low,7.35,Veg
+Chocolate burfi,33.15,13.0,17.86,0.0,339.33,339.33,30.7,Low,Estimated(Nutrient),Low,10.18,Veg
+Cashewnut burfi (Kaju burfi/Kaju katli),37.92,5.48,28.46,1.12,421.74,421.74,45.0,Low,Estimated(Category),Medium,17.06,Veg
+Gram flour burfi (Besan burfi),46.59,11.19,22.41,3.41,421.79,421.79,30.0,Low,Estimated(Category),Medium,13.98,Veg
+Semolina ladoo with khoya (Suji/Rava aur khoye ke ladoo ),52.86,6.71,21.86,4.68,428.71,428.71,39.9,Low,Estimated(Nutrient),Low,21.09,Veg
+Semolina ladoo with coconut (Suji/Rava aur nariyal ke ladoo ),50.9,5.68,27.03,6.69,464.43,464.43,27.1,Low,Estimated(Nutrient),Low,13.79,Veg
+Gram flour ladoo (Besan ladoo),62.61,8.93,22.76,4.43,476.91,476.91,30.0,Low,Estimated(Category),Medium,18.78,Veg
+Sesame ladoo (Til ke ladoo),43.5,10.7,19.64,7.72,396.96,396.96,25.7,Low,Estimated(Nutrient),Low,11.18,Veg
+Chenna murki,36.01,10.46,8.2,0.0,252.69,252.69,45.3,Low,Estimated(Nutrient),Low,16.31,Veg
+Milk cake,9.13,3.01,8.93,0.06,127.41,127.41,45.0,Low,Estimated(Category),Medium,4.11,Veg
+Ghujia/Lavang latika,13.0,1.86,78.93,0.52,768.98,768.98,25.0,Low,Estimated(Nutrient),Low,3.25,Veg
+Gulab Jamun with khoya,26.09,2.03,53.23,0.07,586.06,586.06,25.0,Low,Estimated(Nutrient),Low,6.52,Veg
+Mal pua,17.56,1.71,54.64,0.62,566.68,566.68,25.0,Low,Estimated(Nutrient),Low,4.39,Veg
+Shahi tukre,41.46,2.76,2.54,0.51,189.81,189.81,60.8,Medium,Estimated(Nutrient),Low,25.21,Veg
+Potato pakora/pakoda (Aloo pakoda),6.04,1.9,71.84,1.03,677.19,677.19,80.0,High,Estimated(Category),Medium,4.83,Veg
+Onion pakora/pakoda (Pyaaz ke pakode),5.41,1.9,71.84,1.11,674.61,674.61,80.0,High,Estimated(Category),Medium,4.33,Veg
+Cauliflower pakora/pakoda (Phoolgobhi ke pakode),4.52,1.98,71.86,1.26,671.63,671.63,80.0,High,Estimated(Category),Medium,3.62,Veg
+Mixed vegetable pakora/pakoda,5.12,1.94,71.86,1.13,673.81,673.81,80.0,High,Estimated(Category),Medium,4.1,Veg
+Spinach pakora/pakoda (Palak pakoda),4.68,1.96,76.38,1.02,712.62,712.62,80.0,High,Estimated(Category),Medium,3.74,Veg
+Methi pakora/pakoda (Methi ke pakode),4.68,2.06,76.39,1.18,713.25,713.25,80.0,High,Estimated(Category),Medium,3.74,Veg
+Egg pakora/pakoda (Ande ke pakode),4.48,2.83,75.86,0.86,710.51,710.51,80.0,High,Estimated(Category),Medium,3.58,Non-Veg
+Bread pakora/pakoda,8.87,2.57,74.2,1.11,710.99,710.99,80.0,High,Estimated(Category),Medium,7.1,Veg
+Paneer pakora/pakoda,5.52,3.27,76.05,0.89,718.12,718.12,35.0,Low,Estimated(Category),Medium,1.93,Veg
+Potato bonda (Aloo bonda),4.53,1.09,67.8,0.83,632.84,632.84,80.0,High,Estimated(Category),Medium,3.62,Veg
+Potato samosa (Aloo ka samosa),9.21,1.71,59.19,1.19,577.39,577.39,80.0,High,Estimated(Category),Medium,7.37,Veg
+Minced meat samosa (Keema ka samosa),6.14,4.43,64.26,0.39,620.99,620.99,80.0,High,Estimated(Category),Medium,4.91,Non-Veg
+Paneer and pea samosa (Paneer matar ka samosa),8.55,4.02,63.65,1.02,623.81,623.81,35.0,Low,Estimated(Category),Medium,2.99,Veg
+Mathri,12.32,1.75,83.1,0.6,805.12,805.12,25.0,Low,Estimated(Nutrient),Low,3.08,Veg
+Khasta kachori,12.81,2.51,72.27,0.97,712.73,712.73,25.0,Low,Estimated(Nutrient),Low,3.2,Veg
+Vegetable cutlet,4.68,1.25,71.33,0.93,665.45,665.45,35.0,Low,Estimated(Category),Medium,1.64,Veg
+Flattened rice cutlet (Chirwa cutlet/Chivda cutlet/Poha cutlet),7.39,1.76,73.89,0.86,701.71,701.71,75.0,High,Estimated(Category),Medium,5.54,Veg
+Peanut cutlet (Mungfali ke cutlet),5.68,2.63,74.0,1.21,698.77,698.77,45.0,Low,Estimated(Category),Medium,2.56,Veg
+Fish cutlet (Machli ka cutlet),3.13,2.77,70.11,0.54,654.64,654.64,25.0,Low,Estimated(Nutrient),Low,0.78,Non-Veg
+Paneer potato cutlet (Paneer aloo cutlet),5.23,2.47,71.4,0.41,672.94,672.94,80.0,High,Estimated(Category),Medium,4.18,Veg
+Spinach chickpeas cutlet (Palak channa dal cutlet),4.93,1.44,73.6,0.93,688.03,688.03,45.0,Low,Estimated(Category),Medium,2.22,Veg
+Cheese toast,5.49,1.98,84.11,0.31,785.37,785.37,25.0,Low,Estimated(Nutrient),Low,1.37,Veg
+Vegetable burger,13.69,3.26,50.63,1.7,519.93,519.93,35.0,Low,Estimated(Category),Medium,4.79,Veg
+Cheese pizza,30.62,5.79,12.43,1.95,249.5,249.5,80.0,High,Estimated(Category),Medium,24.5,Veg
+Vegetable seekh kebab,5.32,1.57,73.72,0.59,690.73,690.73,35.0,Low,Estimated(Category),Medium,1.86,Veg
+Masala vada,4.06,1.69,89.15,1.07,826.02,826.02,80.0,High,Estimated(Category),Medium,3.25,Veg
+Peanut sago vada (Sabudana mungfali vada),7.14,1.01,79.82,0.62,749.89,749.89,45.0,Low,Estimated(Category),Medium,3.21,Veg
+Vegeterian scotch egg,4.64,2.16,72.77,0.58,681.67,681.67,25.0,Low,Estimated(Nutrient),Low,1.16,Non-Veg
+Paneer shaslik/tikka,7.98,5.11,4.49,1.23,93.85,93.85,35.0,Low,Estimated(Category),Medium,2.79,Veg
+Peanut brittle (Moongfali ki chikki),47.46,6.94,11.13,2.63,320.46,320.46,45.0,Low,Estimated(Category),Medium,21.36,Veg
+Spring roll,8.56,1.81,64.63,0.67,623.87,623.87,25.0,Low,Estimated(Nutrient),Low,2.14,Veg
+Dry mango chutney (Sookhe aam ki chutney),69.17,2.43,0.7,3.74,298.13,298.13,45.0,Low,Estimated(Category),Medium,31.13,Veg
+Peanut chutney (Mungfali ki chutney),9.87,11.8,19.06,5.73,258.37,258.37,45.0,Low,Estimated(Category),Medium,4.44,Veg
+Coconut chutney (Nariyal ki chutney),8.29,3.59,25.0,6.73,265.92,265.92,35.0,Low,Measured,High,2.9,Veg
+Mint and coriander chutney (Pudinay aur dhaniye ki chutney),21.18,2.81,0.51,4.33,102.6,102.6,58.1,Medium,Estimated(Nutrient),Low,12.31,Veg
+Custard tart,28.66,3.72,10.73,0.91,225.6,225.6,40.5,Low,Estimated(Nutrient),Low,11.61,Veg
+Lemon tart,30.68,6.12,17.45,0.81,303.35,303.35,45.0,Low,Estimated(Category),Medium,13.81,Veg
+Jam tart,46.18,4.42,17.35,1.14,360.72,360.72,41.9,Low,Estimated(Nutrient),Low,19.35,Veg
+Orange cream tart,27.43,2.58,8.72,0.64,197.16,197.16,45.0,Low,Estimated(Category),Medium,12.34,Veg
+Pineapple tart,28.62,2.29,8.21,0.87,195.4,195.4,45.0,Low,Estimated(Category),Medium,12.88,Veg
+Cheese and mushroom tart,21.43,5.51,15.28,1.18,246.1,246.1,45.0,Low,Estimated(Category),Medium,9.64,Veg
+Cottage cheese pie,20.66,7.45,13.83,2.21,238.98,238.98,28.7,Low,Estimated(Nutrient),Low,5.93,Veg
+Minced meat pie,18.11,7.38,13.04,2.33,221.55,221.55,27.1,Low,Estimated(Nutrient),Low,4.91,Non-Veg
+Apple cinnamon pie,33.68,3.35,12.21,1.77,258.73,258.73,45.0,Low,Estimated(Category),Medium,15.16,Veg
+Lemon meringue pie,35.11,3.88,8.16,0.44,224.43,224.43,45.0,Low,Estimated(Category),Medium,15.8,Veg
+Chocolate meringue pie,28.8,4.98,9.17,0.37,214.76,214.76,45.9,Low,Estimated(Nutrient),Low,13.22,Veg
+Cream puffs,16.0,4.7,15.48,0.38,221.33,221.33,25.1,Low,Estimated(Nutrient),Low,4.02,Veg
+Chocolate eclairs,26.22,4.24,13.5,0.33,239.42,239.42,35.8,Low,Estimated(Nutrient),Low,9.39,Veg
+Cheese balls,4.81,2.21,72.57,0.18,681.28,681.28,25.0,Low,Estimated(Nutrient),Low,1.2,Veg
+Minced meat patties,15.25,6.88,19.57,0.77,265.72,265.72,25.0,Low,Estimated(Nutrient),Low,3.81,Non-Veg
+Cheese patties,22.23,7.38,22.67,1.24,324.01,324.01,25.0,Low,Estimated(Nutrient),Low,5.56,Veg
+Hot cheese souffle,5.41,9.18,13.23,0.12,177.1,177.1,25.0,Low,Estimated(Nutrient),Low,1.35,Veg
+Hot potato souffle,8.56,5.51,7.64,0.66,125.64,125.64,80.0,High,Estimated(Category),Medium,6.85,Veg
+Hot fish souffle,3.69,11.23,9.24,0.1,142.92,142.92,25.0,Low,Estimated(Nutrient),Low,0.92,Non-Veg
+Hot spinach souffle,4.19,5.43,7.24,0.99,104.25,104.25,25.0,Low,Estimated(Nutrient),Low,1.05,Veg
+Plain cream cake,47.18,6.18,16.17,0.71,353.94,353.94,41.8,Low,Estimated(Nutrient),Low,19.72,Veg
+Apple cake (Seb ka cake),39.48,4.94,12.87,1.22,290.08,290.08,45.0,Low,Estimated(Category),Medium,17.77,Veg
+Marble cake,46.88,6.3,16.27,0.71,354.11,354.11,41.6,Low,Estimated(Nutrient),Low,19.5,Veg
+Chocolate cake,45.14,6.01,15.18,0.64,335.61,335.61,41.9,Low,Estimated(Nutrient),Low,18.91,Veg
+Orange cake,48.28,6.1,16.21,0.83,357.61,357.61,45.0,Low,Estimated(Category),Medium,21.73,Veg
+Fruit Loaf ,46.49,5.36,13.31,0.87,324.19,324.19,45.0,Low,Estimated(Category),Medium,20.92,Veg
+Banana cake (Kele ka cake),40.0,5.77,23.31,1.14,389.51,389.51,63.0,Medium,Estimated(Category),Medium,25.2,Veg
+Chocolate chiffon cake,37.87,5.76,15.8,0.7,311.71,311.71,38.9,Low,Estimated(Nutrient),Low,14.73,Veg
+Christmas cake,48.29,5.49,16.88,1.49,372.95,372.95,42.2,Low,Estimated(Nutrient),Low,20.38,Veg
+Strawberry and vanilla cake with butter icing,44.25,3.89,20.39,0.79,370.54,370.54,45.0,Low,Estimated(Category),Medium,19.91,Veg
+Eggless cake,46.14,8.12,11.75,0.68,318.08,318.08,43.2,Low,Estimated(Nutrient),Low,19.93,Veg
+Swiss roll,48.34,7.3,3.77,0.55,251.87,251.87,56.0,Medium,Estimated(Nutrient),Low,27.07,Veg
+Pineapple pastry ,29.04,6.06,7.87,0.72,208.21,208.21,45.0,Low,Estimated(Category),Medium,13.07,Veg
+Black forest pastry,34.48,6.09,8.46,0.54,233.55,233.55,48.2,Low,Estimated(Nutrient),Low,16.62,Veg
+Coconut finger,42.56,7.09,8.86,1.87,274.86,274.86,50.1,Low,Estimated(Nutrient),Low,21.32,Veg
+Pineapple cake ,23.51,5.01,9.34,0.76,195.57,195.57,45.0,Low,Estimated(Category),Medium,10.58,Veg
+Chocolate walnut cookies (Chocolate aur akhrot ke cookies),47.1,6.56,23.62,1.54,424.8,424.8,37.1,Low,Estimated(Nutrient),Low,17.47,Veg
+Chocolate chip cookies,57.98,5.79,19.38,1.05,425.29,425.29,43.2,Low,Estimated(Nutrient),Low,25.05,Veg
+Sweet plain biscuit,50.29,5.86,17.67,1.07,380.76,380.76,90.0,High,Estimated(Category),Medium,45.26,Veg
+Chocolate biscuit,51.56,5.88,17.09,1.01,379.76,379.76,42.8,Low,Estimated(Nutrient),Low,22.07,Veg
+Coconut biscuit (Nariyal ke biscuit),42.9,5.78,27.16,3.64,434.98,434.98,34.1,Low,Estimated(Nutrient),Low,14.63,Veg
+Sweet and salty biscuit (Meethay aur namkeen biscuit),45.09,6.15,22.39,1.68,407.96,407.96,90.0,High,Estimated(Category),Medium,40.58,Veg
+Peanut biscuit,46.72,8.45,20.41,2.48,401.05,401.05,45.0,Low,Estimated(Category),Medium,21.02,Veg
+Pin wheel biscuit,54.56,5.4,18.66,1.16,404.6,404.6,43.0,Low,Estimated(Nutrient),Low,23.46,Veg
+Saffron biscuit (Kesar biscuit),59.7,6.05,22.01,1.9,458.61,458.61,42.1,Low,Estimated(Nutrient),Low,25.13,Veg
+Masala biscuit,45.18,6.06,20.75,2.14,393.64,393.64,38.3,Low,Estimated(Nutrient),Low,17.3,Veg
+Ice box cookies,56.09,5.7,14.44,1.28,374.24,374.24,45.8,Low,Estimated(Nutrient),Low,25.69,Veg
+Ginger bread man,60.26,6.61,11.01,1.6,365.0,365.0,48.5,Low,Estimated(Nutrient),Low,29.23,Veg
+Danish cookies,58.0,5.33,24.92,1.37,475.33,475.33,40.5,Low,Estimated(Nutrient),Low,23.49,Veg
+Short bread cookies,64.82,6.03,17.98,1.57,443.09,443.09,45.5,Low,Estimated(Nutrient),Low,29.49,Veg
+Coffee biscuit,46.55,6.9,23.0,1.59,416.57,416.57,37.1,Low,Estimated(Nutrient),Low,17.27,Veg
+Melting moments,55.84,5.71,21.78,1.88,437.91,437.91,41.4,Low,Estimated(Nutrient),Low,23.12,Veg
+Ginger biscuit (Adarak ke biscuit),58.44,5.98,18.31,1.49,417.91,417.91,43.9,Low,Estimated(Nutrient),Low,25.66,Veg
+Soyabean muthias,3.7,2.46,90.45,1.47,839.33,839.33,30.0,Low,Estimated(Category),Medium,1.11,Veg
+Soyabean tikki,4.39,3.53,74.02,2.2,698.17,698.17,30.0,Low,Estimated(Category),Medium,1.32,Veg
+Soyabean namak paras,4.65,2.65,89.83,1.41,838.46,838.46,30.0,Low,Estimated(Category),Medium,1.4,Veg
+Peanut burfi (Moongfali ki burfi),48.14,9.31,36.84,4.09,550.99,550.99,45.0,Low,Estimated(Category),Medium,21.66,Veg
+Spinach peanut namak paras (Palak moongfali namak paras),6.62,1.65,78.51,0.81,740.16,740.16,45.0,Low,Estimated(Category),Medium,2.98,Veg
+Gram flour and semolina chilla/cheela/savory pancake (Besan suji chilla/cheela),7.63,2.08,80.04,1.39,758.89,758.89,30.0,Low,Estimated(Category),Medium,2.29,Veg
+Rice moong dal cheela (Chawal aur moong dal ka cheela),11.13,2.74,82.44,1.18,798.26,798.26,75.0,High,Estimated(Category),Medium,8.35,Veg
+Split bengal gram sweet rice (Channa dal sweet rice),41.07,4.15,0.64,2.23,190.21,190.21,75.0,High,Estimated(Category),Medium,30.8,Veg
+Sweet poori (Meethi poori),14.26,2.12,79.63,1.54,782.75,782.75,55.0,Low,Estimated(Category),Medium,7.84,Veg
+Wheat flour and moong dal burfi (Atta aur moong dal ki burfi),60.0,9.84,18.41,6.02,441.08,441.08,55.0,Low,Estimated(Category),Medium,33.0,Veg
+Spinach burfi (Palak burfi),12.76,2.71,6.81,1.17,121.17,121.17,38.4,Low,Estimated(Nutrient),Low,4.9,Veg
+Sweet split chickpea roti (Sweet channa dal roti/Puranpoli),62.66,9.51,7.93,8.16,366.59,366.59,45.0,Low,Estimated(Category),Medium,28.2,Veg
+Sprouted moong daliya ,14.77,2.81,4.71,3.12,111.56,111.56,30.0,Low,Estimated(Category),Medium,4.43,Veg
+Sprouted moong poha ,26.6,5.59,6.89,3.13,192.6,192.6,30.0,Low,Estimated(Category),Medium,7.98,Veg
+Pearl millet ladoo (Bajra ladoo),50.98,9.61,8.06,6.0,319.66,319.66,45.0,Low,Estimated(Category),Medium,22.94,Veg
+Paushtik ladoo,60.34,7.65,24.98,4.57,485.87,485.87,39.9,Low,Estimated(Nutrient),Low,24.08,Veg
+Paushtik roti,26.59,7.17,1.51,5.74,149.26,149.26,55.0,Low,Estimated(Category),Medium,14.62,Veg
+Semolina carrot vada (Suji gajar vada),6.52,1.56,74.07,1.07,699.53,699.53,45.0,Low,Estimated(Category),Medium,2.93,Veg
+Dhokla,30.68,13.45,5.28,4.95,216.49,216.49,85.0,High,Measured,High,26.08,Veg
+Kashmiri tea (Kehwa),5.23,0.17,0.51,0.16,24.9,24.9,53.0,Low,Estimated(Nutrient),Low,2.77,Veg
+Steeped hot coffee,3.01,0.39,0.33,0.0,15.91,15.91,44.5,Low,Estimated(Nutrient),Low,1.34,Veg
+Hot chocolate,9.02,3.43,4.61,0.0,90.01,90.01,35.0,Low,Estimated(Nutrient),Low,3.16,Veg
+Cold coffee (with cream),11.98,1.93,3.29,0.0,82.76,82.76,46.1,Low,Estimated(Nutrient),Low,5.52,Veg
+Banana milkshake with ice cream (Kele ka milkshake ice cream ke saath),11.15,2.01,2.77,0.27,76.45,76.45,63.0,Medium,Estimated(Category),Medium,7.02,Veg
+Flavoured milkshake,8.65,2.06,2.83,0.0,66.78,66.78,45.0,Low,Estimated(Category),Medium,3.89,Veg
+Jal jeera,6.7,0.44,0.26,0.95,30.24,30.24,55.8,Medium,Estimated(Nutrient),Low,3.74,Veg
+Gingo,12.42,0.14,0.06,0.17,48.02,48.02,63.8,Medium,Estimated(Nutrient),Low,7.92,Veg
+Mintade,10.59,0.03,0.02,0.03,40.32,40.32,63.7,Medium,Estimated(Nutrient),Low,6.75,Veg
+Canjee,0.44,0.24,0.42,0.36,6.61,6.61,25.0,Low,Estimated(Nutrient),Low,0.11,Veg
+Cauliflower canjee (Phoolgobhi ki canjee),0.35,0.39,0.42,0.49,6.9,6.9,35.0,Low,Estimated(Category),Medium,0.12,Veg
+Potato canjee (Aloo canjee),2.69,0.44,0.39,0.43,16.26,16.26,80.0,High,Estimated(Category),Medium,2.15,Veg
+Vermicelli porridge (Semiya/Seviyan porridge),10.56,2.5,2.98,0.48,78.4,78.4,43.4,Low,Estimated(Nutrient),Low,4.58,Veg
+Semolina upma (Suji/Rava upma),16.31,3.3,7.49,3.24,147.89,147.89,75.0,High,Estimated(Category),Medium,12.23,Veg
+Vermicelli upma (Semiya/Seviyan upma),16.88,3.11,7.45,3.21,149.11,149.11,75.0,High,Estimated(Category),Medium,12.66,Veg
+Rice upma,17.96,2.63,7.46,2.12,151.27,151.27,75.0,High,Estimated(Category),Medium,13.47,Veg
+Bread upma,12.6,2.8,7.75,1.96,129.51,129.51,75.0,High,Estimated(Category),Medium,9.45,Veg
+Vegetable upma,16.46,4.73,6.63,4.19,146.47,146.47,75.0,High,Estimated(Category),Medium,12.34,Veg
+Poha,35.05,6.09,14.14,3.72,294.53,294.53,38.6,Low,Estimated(Nutrient),Low,13.53,Veg
+Vegetable poha,21.52,4.89,8.07,3.76,180.52,180.52,35.0,Low,Estimated(Category),Medium,7.53,Veg
+Moong dal stuffed cheela/chilla (Moong dal ka cheela/chilla),19.42,6.97,5.11,4.25,154.89,154.89,30.0,Low,Estimated(Category),Medium,5.83,Veg
+Paneer stuffed cheela/chilla,19.16,11.44,8.89,4.03,205.19,205.19,35.0,Low,Estimated(Category),Medium,6.71,Veg
+Indian style egg bhujia (Anda bhujia (Indian style)),3.76,6.1,7.02,1.53,102.83,102.83,25.0,Low,Estimated(Nutrient),Low,0.94,Non-Veg
+French omelette/omlet,0.41,10.03,18.86,0.38,211.04,211.04,25.0,Low,Estimated(Nutrient),Low,0.1,Veg
+Puffy omelette/omlet,0.08,8.82,16.84,0.0,188.15,188.15,25.0,Low,Estimated(Nutrient),Low,0.02,Veg
+Orange omelette/omlet,1.68,8.93,16.84,0.0,194.66,194.66,45.0,Low,Estimated(Category),Medium,0.76,Veg
+Cheese and mushroom omelette/omlet,1.68,9.69,17.82,0.93,205.63,205.63,45.0,Low,Estimated(Category),Medium,0.76,Veg
+Spanish omelette/omlet,5.1,8.25,11.44,2.54,157.45,157.45,25.0,Low,Estimated(Nutrient),Low,1.27,Veg
+Mixed stock,0.33,2.06,1.71,0.15,25.19,25.19,25.0,Low,Estimated(Nutrient),Low,0.08,Veg
+Meat stock,0.0,2.1,1.78,0.0,24.48,24.48,25.0,Low,Estimated(Nutrient),Low,0.0,Non-Veg
+White stock,0.4,0.07,0.56,0.17,6.99,6.99,25.0,Low,Estimated(Nutrient),Low,0.1,Veg
+Meat consomme (with mutton),0.51,14.86,13.68,0.71,29.76,29.76,25.0,Low,Estimated(Nutrient),Low,0.13,Non-Veg
+Consomme au julienne,1.49,12.49,10.66,1.38,27.76,27.76,25.0,Low,Estimated(Nutrient),Low,0.37,Veg
+Consomme au vermicelli,1.3,15.23,12.98,0.81,29.94,29.94,25.0,Low,Estimated(Nutrient),Low,0.32,Veg
+Green pea soup (Matar ka soup),3.63,11.06,12.9,2.49,39.81,39.81,25.0,Low,Estimated(Nutrient),Low,0.91,Veg
+Spinach soup (Palak ka soup),3.03,10.54,14.26,1.98,32.59,32.59,25.0,Low,Estimated(Nutrient),Low,0.76,Veg
+Mixed vegetable soup,2.95,8.22,11.66,1.64,35.71,35.71,35.0,Low,Estimated(Category),Medium,1.03,Veg
+Cheese soup,1.87,12.39,17.07,1.8,41.13,41.13,25.0,Low,Estimated(Nutrient),Low,0.47,Veg
+Mulligatawny soup,8.24,11.26,13.28,2.6,54.42,54.42,25.0,Low,Estimated(Nutrient),Low,2.06,Veg
+Cream of carrot soup,5.69,8.27,12.35,1.98,59.77,59.77,45.0,Low,Estimated(Category),Medium,2.56,Veg
+Cream of broccoli soup,3.72,8.97,12.75,1.89,56.14,56.14,45.0,Low,Estimated(Category),Medium,1.67,Veg
+Cream of potato soup,6.14,8.1,12.05,1.51,60.2,60.2,80.0,High,Estimated(Category),Medium,4.91,Veg
+Almond soup (Badam ka soup),3.68,10.13,13.8,0.91,78.65,78.65,25.0,Low,Estimated(Nutrient),Low,0.92,Veg
+Cold cucumber cream soup ,1.76,0.34,0.34,0.73,11.88,11.88,35.8,Low,Estimated(Nutrient),Low,0.63,Veg
+Cold tomato soup,0.59,0.11,1.56,0.16,16.9,16.9,45.0,Low,Estimated(Category),Medium,0.27,Veg
+Chicken stew,4.44,7.19,8.91,1.82,127.55,127.55,25.0,Low,Estimated(Nutrient),Low,1.11,Non-Veg
+Veg paneer stew,10.22,6.98,8.41,3.08,145.55,145.55,35.0,Low,Estimated(Category),Medium,3.58,Veg
+Onion-green chilli parantha/paratha (Pyaaz aur hari mirch ka parantha/paratha),26.37,4.37,7.27,5.16,191.27,191.27,55.0,Low,Estimated(Category),Medium,14.5,Veg
+Methi parantha/paratha,22.19,4.27,4.34,5.09,148.36,148.36,55.0,Low,Estimated(Category),Medium,12.2,Veg
+Bathua poori,13.85,2.35,59.14,1.87,598.79,598.79,55.0,Low,Estimated(Category),Medium,7.62,Veg
+Gram flour poori (Besan poori),10.93,2.59,71.51,1.94,697.66,697.66,55.0,Low,Estimated(Category),Medium,6.01,Veg
+Beetroot poori (Chukandar ki poori),12.29,1.91,52.18,1.4,527.66,527.66,55.0,Low,Estimated(Category),Medium,6.76,Veg
+Peas poori (Matar ki poori),14.92,3.04,57.69,2.25,592.83,592.83,55.0,Low,Estimated(Category),Medium,8.21,Veg
+Peas kachori (Matar kachori),13.25,3.21,57.51,2.03,584.68,584.68,25.0,Low,Estimated(Nutrient),Low,3.31,Veg
+Pizza,9.94,6.85,8.72,1.71,146.77,146.77,80.0,High,Estimated(Category),Medium,7.95,Veg
+Bacon and mushroom pancake,8.47,6.82,10.6,1.59,157.67,157.67,45.0,Low,Estimated(Category),Medium,3.81,Veg
+Cheese and tomato pancake,10.66,5.15,9.28,1.06,147.39,147.39,45.0,Low,Estimated(Category),Medium,4.8,Veg
+Minced meat pancake (with chicken),8.18,12.01,10.48,0.7,116.04,116.04,25.0,Low,Estimated(Nutrient),Low,2.04,Non-Veg
+Eggplant/Brinjal rice (Vangi bhat),31.74,5.28,3.67,4.44,184.8,184.8,45.0,Low,Estimated(Category),Medium,14.28,Veg
+Kashmiri 'tahar',19.11,1.95,1.37,0.98,98.21,98.21,57.1,Medium,Estimated(Nutrient),Low,10.91,Veg
+Cumin pulao (Jeera/Zeera pulao),23.61,2.47,3.2,1.4,135.24,135.24,54.6,Low,Estimated(Nutrient),Low,12.89,Veg
+Peas pulao (Matar pulao),18.42,3.89,1.9,3.21,108.87,108.87,51.1,Low,Estimated(Nutrient),Low,9.41,Veg
+Split bengal gram dal and vegetable pulao (Channa dal and vegetable pulao),19.72,3.6,2.3,3.16,116.53,116.53,30.0,Low,Estimated(Category),Medium,5.92,Veg
+Black channa pulao/ Bengal gram pulao (Kale chane ka pulao),21.55,3.44,2.58,2.69,125.51,125.51,30.0,Low,Estimated(Category),Medium,6.46,Veg
+Mutton pulao,11.26,6.52,10.78,1.65,130.77,130.77,25.0,Low,Estimated(Nutrient),Low,2.82,Non-Veg
+Chicken pulao,11.17,6.07,8.48,1.64,108.24,108.24,29.3,Low,Estimated(Nutrient),Low,3.27,Non-Veg
+Mexican rice,14.21,4.62,4.88,1.64,120.57,120.57,75.0,High,Estimated(Category),Medium,10.66,Veg
+Plain khitchdi (Plain khichri/khichdi),10.04,1.72,1.01,0.85,57.03,57.03,51.0,Low,Estimated(Nutrient),Low,5.12,Veg
+Instant idli (with semolina),43.4,9.16,3.61,7.13,247.29,247.29,75.0,High,Estimated(Category),Medium,32.55,Veg
+Plain dosa,64.08,10.34,8.43,5.23,380.91,380.91,75.0,High,Estimated(Category),Medium,48.06,Veg
+Masala dosa mixed vegetable fillings,23.02,4.84,3.26,4.31,144.53,144.53,75.0,High,Estimated(Category),Medium,17.26,Veg
+Masala dosa paneer fillings,29.76,10.31,8.84,3.11,243.12,243.12,75.0,High,Estimated(Category),Medium,22.32,Veg
+Uttapam,36.28,6.18,9.03,4.4,255.95,255.95,55.0,Low,Measured,High,19.95,Veg
+Appam,13.28,3.12,22.63,6.19,267.7,267.7,75.0,High,Estimated(Category),Medium,9.96,Veg
+Beans and macaroni,14.24,4.58,7.01,2.05,136.08,136.08,45.0,Low,Estimated(Category),Medium,6.41,Veg
+Spaghetti bolognese,10.04,9.35,9.51,1.08,97.43,97.43,25.0,Low,Estimated(Nutrient),Low,2.51,Veg
+Meat and macaroni casserole,16.12,9.15,10.17,1.19,161.55,161.55,26.0,Low,Estimated(Nutrient),Low,4.19,Non-Veg
+Spaghetti with meat balls and tomato sauce,10.46,5.61,10.64,1.11,158.13,158.13,45.0,Low,Estimated(Category),Medium,4.71,Non-Veg
+Spaghetti with paneer balls and tomato sauce,12.72,3.95,10.44,1.25,158.54,158.54,45.0,Low,Estimated(Category),Medium,5.72,Veg
+Lasagne with meat sauce,5.38,2.9,3.43,0.47,63.38,63.38,29.6,Low,Estimated(Nutrient),Low,1.59,Non-Veg
+Lasagne with vegetables,5.9,1.71,2.16,0.66,49.23,49.23,35.0,Low,Estimated(Category),Medium,2.06,Veg
+Home made egg noodles,42.92,6.55,4.37,1.6,240.84,240.84,54.8,Low,Estimated(Nutrient),Low,23.52,Non-Veg
+Sour lentils (Khatti dal),6.04,2.22,0.12,1.22,34.79,34.79,45.0,Low,Estimated(Category),Medium,2.72,Veg
+Urad special dehusked,8.86,3.14,2.17,2.5,69.43,69.43,40.9,Low,Estimated(Nutrient),Low,3.62,Veg
+Arhar with spinach (Arhar dal aur palak),4.77,2.05,2.76,1.3,52.84,52.84,30.0,Low,Estimated(Category),Medium,1.43,Veg
+Moong dal with vadi,1.0,0.4,2.05,0.39,24.08,24.08,30.0,Low,Estimated(Category),Medium,0.3,Veg
+Rasam with tamarind (Puli rasam/ Chintapandu rasam/ Charu/Saaru),3.37,1.13,0.88,1.6,26.74,26.74,37.0,Low,Estimated(Nutrient),Low,1.25,Veg
+Rasam with lemon (Nimmakaya rasam/Nimmakaya charu/Elumichai rasam/Nimbe hannina saaru),2.85,1.11,0.87,1.54,24.41,24.41,45.0,Low,Estimated(Category),Medium,1.28,Veg
+Green gram whole with baghar (Sabut moong dal with tadka),6.8,3.23,2.48,3.02,63.43,63.43,30.0,Low,Estimated(Category),Medium,2.04,Veg
+Urad sabut special,5.03,2.33,5.46,2.15,79.39,79.39,25.5,Low,Estimated(Nutrient),Low,1.28,Veg
+Kabuli channa curry,7.63,2.92,3.06,1.12,68.57,68.57,40.0,Low,Estimated(Category),Medium,3.05,Veg
+Besan gatte curry,16.26,7.75,10.72,3.25,189.38,189.38,40.0,Low,Estimated(Category),Medium,6.5,Veg
+Dry masala chops,3.3,9.08,9.54,0.86,135.07,135.07,25.0,Low,Estimated(Nutrient),Low,0.82,Veg
+Mutton korma,2.53,7.09,8.54,0.78,115.64,115.64,25.0,Low,Estimated(Nutrient),Low,0.63,Non-Veg
+Shahi keema kofta curry,1.73,4.14,43.83,0.91,418.13,418.13,40.0,Low,Estimated(Category),Medium,0.69,Veg
+Minced meat ball curry,2.86,6.82,7.85,1.49,109.79,109.79,40.0,Low,Estimated(Category),Medium,1.14,Non-Veg
+Boti kebab,3.06,9.22,9.27,0.76,132.86,132.86,25.0,Low,Estimated(Nutrient),Low,0.76,Veg
+Mutton seekh kebab,3.11,11.25,8.43,1.88,133.94,133.94,25.0,Low,Estimated(Nutrient),Low,0.78,Non-Veg
+Indian lamb and egg curry (Nargisi kofta),2.07,3.84,34.7,0.6,335.75,335.75,40.0,Low,Estimated(Category),Medium,0.83,Non-Veg
+Soya chunks sweet and sour (Nutrinugget sweet and sour),3.27,2.85,55.99,0.86,500.94,500.94,90.0,High,Estimated(Category),Medium,2.94,Veg
+Soya chunks korma (Nutrinugget korma),7.67,3.86,9.5,2.57,131.43,131.43,25.0,Low,Estimated(Nutrient),Low,1.92,Veg
+Mushroom matar,5.33,2.79,4.11,3.13,70.77,70.77,45.0,Low,Estimated(Category),Medium,2.4,Veg
+Soya chunks and peas (Nutrinugget matar),5.82,3.03,5.11,2.86,82.62,82.62,27.2,Low,Estimated(Nutrient),Low,1.58,Veg
+Vegetable yakhni,1.94,1.18,43.8,0.61,406.06,406.06,35.0,Low,Estimated(Category),Medium,0.68,Veg
+Spinach mushroom (Palak mushroom),2.95,1.94,2.96,2.27,47.63,47.63,45.0,Low,Estimated(Category),Medium,1.33,Veg
+Vegetarian nargisi kofta curry,6.58,2.29,32.94,0.86,332.15,332.15,40.0,Low,Estimated(Category),Medium,2.63,Veg
+Roast chicken,0.1,20.49,13.06,0.03,199.9,199.9,25.0,Low,Estimated(Nutrient),Low,0.02,Non-Veg
+Shahi chicken masala,4.07,9.82,12.02,0.96,163.7,163.7,25.0,Low,Estimated(Nutrient),Low,1.02,Non-Veg
+Tomato chicken,2.13,10.57,6.71,1.42,111.68,111.68,45.0,Low,Estimated(Category),Medium,0.96,Non-Veg
+Creamy chicken,3.13,13.52,9.57,0.69,152.87,152.87,25.0,Low,Estimated(Nutrient),Low,0.78,Non-Veg
+Broccoli chicken ala king,5.34,7.97,7.57,1.92,119.56,119.56,45.0,Low,Estimated(Category),Medium,2.4,Non-Veg
+Ginger chicken,5.6,8.24,8.24,1.21,129.17,129.17,25.0,Low,Estimated(Nutrient),Low,1.4,Non-Veg
+Chicken sweet and sour,2.67,6.92,47.59,0.58,445.09,445.09,90.0,High,Estimated(Category),Medium,2.4,Non-Veg
+Chicken korma,5.43,9.83,9.67,1.82,147.96,147.96,0.0,Low,Measured,High,0.0,Non-Veg
+Chicken korma,5.43,9.83,9.67,1.82,147.96,147.96,0.0,Low,Measured,High,0.0,Non-Veg
+Bengal fish curry (Bengali machli curry),4.42,7.26,7.03,1.93,109.43,109.43,40.0,Low,Estimated(Category),Medium,1.77,Non-Veg
+Fish finger,4.47,5.66,55.82,0.34,542.9,542.9,25.0,Low,Estimated(Nutrient),Low,1.12,Non-Veg
+Fish in coconut milk (Nariyal ke doodh ke saath machli),2.73,8.66,4.43,1.52,86.21,86.21,45.0,Low,Estimated(Category),Medium,1.23,Non-Veg
+Prawn curry (with coconut) (Jhinga curry),3.1,8.54,6.93,1.56,109.55,109.55,0.0,Low,Measured,High,0.0,Non-Veg
+Baked stuffed fish,2.12,16.14,5.43,0.38,121.96,121.96,25.0,Low,Estimated(Nutrient),Low,0.53,Non-Veg
+Fish pie,7.74,9.25,5.77,0.76,120.9,120.9,25.0,Low,Estimated(Nutrient),Low,1.94,Non-Veg
+Crispy baked fish,9.59,10.95,6.41,1.21,138.4,138.4,25.0,Low,Estimated(Nutrient),Low,2.4,Non-Veg
+Fish souffle,5.14,10.51,8.55,0.19,139.71,139.71,25.0,Low,Estimated(Nutrient),Low,1.28,Non-Veg
+Potato curry (Aloo ki sabzi),10.42,1.52,4.47,2.42,89.56,89.56,80.0,High,Estimated(Category),Medium,8.34,Veg
+Egg curry (Anda curry),4.03,5.38,8.81,2.09,117.52,117.52,40.0,Low,Estimated(Category),Medium,1.61,Non-Veg
+Vegetable curry with coconut ,7.19,2.77,4.66,3.35,83.07,83.07,40.0,Low,Estimated(Category),Medium,2.88,Veg
+Curd with potatoes (Dahi aloo),7.15,1.56,2.72,1.19,59.9,59.9,80.0,High,Estimated(Category),Medium,5.72,Veg
+Potato kofta curry (Aloo kofta curry),2.78,0.56,49.08,0.56,455.4,455.4,80.0,High,Estimated(Category),Medium,2.22,Veg
+Yam kofta curry (Zimikand/Suran kofta curry),3.75,0.71,33.84,1.04,322.88,322.88,40.0,Low,Estimated(Category),Medium,1.5,Veg
+Jackfruit kofta curry (Kathal ka kofta curry),3.17,0.8,33.83,0.96,321.08,321.08,40.0,Low,Estimated(Category),Medium,1.27,Veg
+Spinach and potato (Palak aloo),5.91,1.63,2.82,2.04,57.17,57.17,80.0,High,Estimated(Category),Medium,4.73,Veg
+Mooli bhujia,4.74,1.69,7.25,2.36,91.2,91.2,25.0,Low,Estimated(Nutrient),Low,1.18,Veg
+Bathua bhujia,3.63,2.26,7.29,3.8,90.9,90.9,25.0,Low,Estimated(Nutrient),Low,0.91,Veg
+Cabbage rolls (dry) ((Pattagobhi rolls) (dry)),6.09,8.21,9.36,1.84,142.48,142.48,55.0,Low,Estimated(Category),Medium,3.35,Veg
+Cabbage rolls (curry) ((Pattagobhi rolls)(curry)),7.03,5.76,8.17,2.35,124.63,124.63,55.0,Low,Estimated(Category),Medium,3.87,Veg
+Dry arbi (Sookhi arbi),11.11,2.12,8.97,2.47,134.95,134.95,33.5,Low,Estimated(Nutrient),Low,3.72,Veg
+Masala arbi,16.16,3.01,11.9,3.1,185.38,185.38,30.3,Low,Estimated(Nutrient),Low,4.9,Veg
+Peas brinjal bhartha (Matar baingan bhartha),5.02,2.05,6.05,3.63,84.55,84.55,35.0,Low,Estimated(Category),Medium,1.76,Veg
+Okra/Lady's fingers fry (Bhindi sabzi/sabji/subji),4.5,1.83,9.27,3.57,110.81,110.81,35.0,Low,Estimated(Category),Medium,1.58,Veg
+Crispy okra/Crispy lady's fingers (Karare bhindi),4.35,1.91,70.4,1.75,657.76,657.76,35.0,Low,Estimated(Category),Medium,1.52,Veg
+Beans foogath,3.26,2.03,9.22,4.15,105.06,105.06,45.0,Low,Estimated(Category),Medium,1.47,Veg
+Stuffed bittergourd (wet) (Bharwa karele),4.68,1.36,15.24,2.86,162.36,162.36,25.0,Low,Estimated(Nutrient),Low,1.17,Veg
+Jackfruit/Kathal (dry),4.56,0.93,51.78,1.33,488.97,488.97,45.0,Low,Estimated(Category),Medium,2.05,Veg
+Yam fried (Zimikand/Suran fried),5.47,0.79,51.79,1.44,491.76,491.76,25.0,Low,Estimated(Nutrient),Low,1.37,Veg
+"Cauliflower, pea and potato bhujia (Phoolgobhi, matar aur aloo bhujia)",8.23,2.75,5.54,3.26,95.67,95.67,80.0,High,Estimated(Category),Medium,6.58,Veg
+Vegetable jalfrezi,5.43,1.4,4.38,2.97,68.48,68.48,35.0,Low,Estimated(Category),Medium,1.9,Veg
+Vegetables stir fry ,3.19,1.04,1.47,1.37,30.78,30.78,35.0,Low,Estimated(Category),Medium,1.12,Veg
+Broccoli delight,2.34,2.49,2.48,2.83,40.7,40.7,45.0,Low,Estimated(Category),Medium,1.05,Veg
+Dhansak (vegetarian),7.28,3.32,4.18,4.17,82.8,82.8,32.3,Low,Estimated(Nutrient),Low,2.35,Veg
+Cauliflower basket,3.97,5.21,5.88,2.4,90.95,90.95,35.0,Low,Estimated(Category),Medium,1.39,Veg
+Stuffed bottle gourd (Stuffed ghiya/lauki),4.36,5.84,5.8,1.18,93.19,93.19,25.0,Low,Estimated(Nutrient),Low,1.09,Veg
+Ducheese potato,10.94,3.6,9.01,1.29,140.54,140.54,80.0,High,Estimated(Category),Medium,8.75,Veg
+Roast potatoes ,14.52,1.53,2.35,1.71,87.32,87.32,80.0,High,Estimated(Category),Medium,11.62,Veg
+Stuffed baked potatoes ,11.03,3.82,4.39,1.31,100.2,100.2,80.0,High,Estimated(Category),Medium,8.82,Veg
+Potato nests,11.05,5.71,4.77,2.49,111.62,111.62,80.0,High,Estimated(Category),Medium,8.84,Veg
+Parsley potato,13.81,1.49,6.28,1.59,119.51,119.51,80.0,High,Estimated(Category),Medium,11.05,Veg
+Creamed spinach and mushroom,3.17,2.28,44.14,1.02,419.62,419.62,45.0,Low,Estimated(Category),Medium,1.43,Veg
+Fricassee of Mushroom,8.13,3.65,6.63,1.23,106.66,106.66,45.0,Low,Estimated(Category),Medium,3.66,Veg
+Cauliflower au gratin,9.13,4.45,10.2,1.44,145.9,145.9,35.0,Low,Estimated(Category),Medium,3.2,Veg
+Vegetable and cheese pie,8.76,4.03,8.28,1.91,126.88,126.88,35.0,Low,Estimated(Category),Medium,3.07,Veg
+Spinach souffle ,6.27,7.36,10.52,1.44,150.18,150.18,25.0,Low,Estimated(Nutrient),Low,1.57,Veg
+Beetroot and egg salad (Chukandar aur ande ka salad),3.4,3.36,6.45,0.55,84.92,84.92,25.0,Low,Estimated(Nutrient),Low,0.85,Non-Veg
+Sour cream potato salad,9.05,2.89,8.13,1.21,121.9,121.9,80.0,High,Estimated(Category),Medium,7.24,Veg
+Tossed green salad,3.82,1.33,3.24,1.33,49.88,49.88,28.5,Low,Estimated(Nutrient),Low,1.09,Veg
+Spring basket salad,11.61,3.36,11.3,3.09,160.46,160.46,25.0,Low,Estimated(Nutrient),Low,2.9,Veg
+Cucumber and yogurt salad (Kheere aur dahi ka salad),4.72,2.09,0.93,1.66,36.13,36.13,45.0,Low,Estimated(Category),Medium,2.12,Veg
+Chicken and tomato towers,2.36,6.9,6.99,1.14,100.55,100.55,45.0,Low,Estimated(Category),Medium,1.06,Non-Veg
+Jellied sunshine fruit salad,4.21,5.85,0.85,1.8,48.86,48.86,45.0,Low,Estimated(Category),Medium,1.89,Veg
+Tomato aspic,5.02,6.87,0.26,1.58,50.37,50.37,45.0,Low,Estimated(Category),Medium,2.26,Veg
+Frozen frosty fruit salad (Phalon ka salaad),15.61,1.68,4.17,0.26,103.51,103.51,45.0,Low,Estimated(Category),Medium,7.02,Veg
+French dressing,3.68,0.32,79.65,0.22,733.77,733.77,25.0,Low,Estimated(Nutrient),Low,0.92,Veg
+Mayonnaise without eggs,3.98,2.13,33.84,0.04,329.05,329.05,25.0,Low,Estimated(Nutrient),Low,1.0,Non-Veg
+Curd dressing ,8.03,5.59,2.9,0.22,78.8,78.8,35.0,Low,Estimated(Category),Medium,2.81,Veg
+Carrot raita (Gajar ka raita),7.19,4.14,2.19,1.69,64.78,64.78,45.0,Low,Estimated(Category),Medium,3.24,Veg
+Pumpkin raita (Kaddu ka raita),6.02,3.74,1.88,1.04,55.6,55.6,33.3,Low,Estimated(Nutrient),Low,2.0,Veg
+Mint and peanut raita (Pudinay aur moongfali ka raita),7.31,7.05,6.19,1.79,112.05,112.05,45.0,Low,Estimated(Category),Medium,3.29,Veg
+Spinach raita (Palak ka raita),5.06,3.95,1.86,1.39,52.75,52.75,29.8,Low,Estimated(Nutrient),Low,1.51,Veg
+Bathua raita,5.31,4.13,1.76,2.19,54.4,54.4,30.5,Low,Estimated(Nutrient),Low,1.62,Veg
+Pineapple raita (Ananas ka raita),8.62,3.9,2.02,1.39,67.74,67.74,45.0,Low,Estimated(Category),Medium,3.88,Veg
+Banana raita (Kele ka raita),13.51,4.13,2.07,1.0,89.03,89.03,63.0,Medium,Estimated(Category),Medium,8.51,Veg
+Mango raita (Aam ka raita),8.23,3.9,2.14,0.89,67.37,67.37,45.0,Low,Estimated(Category),Medium,3.7,Veg
+Guava raita (Amarood ka raita),7.27,4.19,2.07,3.0,64.36,64.36,35.0,Low,Estimated(Nutrient),Low,2.54,Veg
+Grapes raita (Angoor ka raita),9.66,3.98,2.07,0.71,72.59,72.59,45.0,Low,Estimated(Category),Medium,4.35,Veg
+Bottle gourd kheer (Ghiya/Lauki kheer),10.0,2.7,3.86,0.55,84.07,84.07,39.9,Low,Estimated(Nutrient),Low,3.99,Veg
+Pumpkin kheer (Kaddu ki kheer),10.44,2.76,3.86,0.63,86.35,86.35,40.5,Low,Estimated(Nutrient),Low,4.23,Veg
+Apple kheer (Seb ki kheer),11.34,2.14,3.18,0.51,81.3,81.3,45.0,Low,Estimated(Category),Medium,5.1,Veg
+Caramel custard (baked),14.95,5.11,5.01,0.0,122.7,122.7,40.1,Low,Estimated(Nutrient),Low,5.99,Veg
+Vanilla ice cream without egg,14.21,2.69,18.15,0.0,228.67,228.67,63.0,Medium,Estimated(Category),Medium,8.95,Non-Veg
+Vanilla ice cream with egg,11.71,4.16,17.02,0.0,214.85,214.85,63.0,Medium,Estimated(Category),Medium,7.38,Non-Veg
+Strawberry ice cream,12.26,4.15,16.96,0.0,215.61,215.61,45.0,Low,Estimated(Category),Medium,5.52,Veg
+Chocochip ice cream,16.75,4.23,17.93,0.0,241.45,241.45,63.0,Medium,Estimated(Category),Medium,10.55,Veg
+Choconut ice cream,23.13,5.04,18.49,0.51,273.96,273.96,63.0,Medium,Estimated(Category),Medium,14.57,Veg
+Pear chocholate sunday,15.02,2.08,13.11,0.07,183.49,183.49,45.0,Low,Estimated(Category),Medium,6.76,Veg
+Chocolate sauce,43.21,1.91,10.39,0.0,263.2,263.2,48.5,Low,Estimated(Nutrient),Low,20.96,Veg
+Coffee ice cream,14.09,3.15,9.43,0.0,150.62,150.62,63.0,Medium,Estimated(Category),Medium,8.88,Veg
+Coffee pear alaska,19.36,2.88,13.22,0.15,203.99,203.99,45.0,Low,Estimated(Category),Medium,8.71,Veg
+Crunchy butterscotch,19.92,3.11,20.99,0.47,277.32,277.32,26.0,Low,Estimated(Nutrient),Low,5.18,Veg
+Peach melba ice cream,16.31,2.06,14.51,0.06,200.85,200.85,45.0,Low,Estimated(Category),Medium,7.34,Veg
+Vanilla ice cream with apples in hot cherry sauce,22.75,1.73,11.45,0.26,196.32,196.32,45.0,Low,Estimated(Category),Medium,10.24,Veg
+Grape and orange whip,6.72,1.41,2.62,0.97,57.39,57.39,45.0,Low,Estimated(Category),Medium,3.02,Veg
+Honey banana cream,13.64,2.78,6.68,0.7,125.49,125.49,63.0,Medium,Estimated(Category),Medium,8.59,Veg
+Raspberry bavarian cream,17.82,3.34,7.88,2.19,150.1,150.1,41.5,Low,Estimated(Nutrient),Low,7.4,Veg
+Fruit delight,9.11,2.09,7.09,0.09,107.09,107.09,45.0,Low,Estimated(Category),Medium,4.1,Veg
+Creamy chocolate mousse,9.53,6.85,18.16,0.0,230.52,230.52,25.0,Low,Estimated(Nutrient),Low,2.38,Veg
+Cold lemon souffle,15.62,5.89,9.78,0.0,169.87,169.87,45.0,Low,Estimated(Category),Medium,7.03,Veg
+Cold orange souffle,16.27,5.94,9.82,0.11,173.19,173.19,45.0,Low,Estimated(Category),Medium,7.32,Veg
+Cold pineapple souffle,16.85,6.23,10.39,0.0,181.22,181.22,45.0,Low,Estimated(Category),Medium,7.58,Veg
+Cold vanilla souffle,16.29,6.22,10.32,0.0,179.54,179.54,28.7,Low,Estimated(Nutrient),Low,4.68,Veg
+Cold chocolate souffle,17.22,6.37,10.86,0.0,187.53,187.53,29.0,Low,Estimated(Nutrient),Low,4.99,Veg
+Stewed fruit (with pear),18.22,0.25,0.32,2.84,74.32,74.32,45.0,Low,Estimated(Category),Medium,8.2,Veg
+Apricot fool,33.64,1.54,11.35,1.0,240.79,240.79,44.5,Low,Estimated(Nutrient),Low,14.97,Veg
+Pavlova,21.84,1.84,12.29,0.06,200.6,200.6,36.4,Low,Estimated(Nutrient),Low,7.95,Veg
+Apple crumb pudding,35.17,1.54,8.87,1.33,220.85,220.85,45.0,Low,Estimated(Category),Medium,15.83,Veg
+Steamed cake with chocolate sauce,29.06,4.49,19.01,0.29,301.91,301.91,33.0,Low,Estimated(Nutrient),Low,9.59,Veg
+Hot lemon souffle,16.31,5.29,7.93,0.14,155.25,155.25,45.0,Low,Estimated(Category),Medium,7.34,Veg
+Gulab jamun with milk powder,28.24,0.85,40.15,0.05,471.15,471.15,45.0,Low,Estimated(Category),Medium,12.71,Veg
+Chum chum,28.27,1.52,1.92,0.02,130.05,130.05,60.5,Medium,Estimated(Nutrient),Low,17.1,Veg
+Dil bahar,28.27,1.52,1.92,0.02,130.05,130.05,60.5,Medium,Estimated(Nutrient),Low,17.1,Veg
+Rasbhari,28.27,1.52,1.92,0.02,130.05,130.05,60.5,Medium,Estimated(Nutrient),Low,17.1,Veg
+Rajbogh,28.16,1.71,2.28,0.11,133.7,133.7,59.5,Medium,Estimated(Nutrient),Low,16.76,Veg
+Rasgulla,25.79,1.38,1.75,0.01,118.64,118.64,86.0,High,Measured,High,22.18,Veg
+Rasgulla,25.79,1.38,1.75,0.01,118.64,118.64,65.0,Medium,Measured,High,16.76,Veg
+Rasmalai,29.17,1.61,2.11,0.07,135.55,135.55,60.3,Medium,Estimated(Nutrient),Low,17.59,Veg
+Khoa coconut burfi,36.55,9.98,26.01,4.07,411.45,411.45,29.8,Low,Estimated(Nutrient),Low,10.89,Veg
+Danedar burfi,12.33,3.24,4.72,0.09,102.68,102.68,40.5,Low,Estimated(Nutrient),Low,4.99,Veg
+Semolina burfi (Suji/Rava burfi),47.1,3.47,16.86,2.8,348.67,348.67,43.2,Low,Estimated(Nutrient),Low,20.35,Veg
+Pumpkin coconut burfi (Kaddu aur nariyal ki burfi),17.02,1.75,12.66,4.29,186.18,186.18,31.7,Low,Estimated(Nutrient),Low,5.4,Veg
+Khoa ladoo,34.43,12.21,24.09,3.08,396.02,396.02,28.6,Low,Estimated(Nutrient),Low,9.85,Veg
+Wheat and gram flour ladoo (Atta besan ladoo),50.5,9.38,29.86,6.01,501.7,501.7,55.0,Low,Estimated(Category),Medium,27.78,Veg
+Semolina ladoo with nuts (Suji/Rava ladoo with nuts),48.02,5.44,25.45,4.27,441.84,441.84,37.1,Low,Estimated(Nutrient),Low,17.82,Veg
+Sesame chickpeas brittle (Til aur channe ki chikki),50.49,8.5,4.66,5.54,282.74,282.74,45.0,Low,Estimated(Category),Medium,22.72,Veg
+Murmura chikki,59.59,2.12,0.32,0.37,253.82,253.82,66.2,Medium,Estimated(Nutrient),Low,39.45,Veg
+Masala onion pakora/pakoda (Pyaaz ke pakode),6.48,2.05,57.61,1.44,551.64,551.64,80.0,High,Estimated(Category),Medium,5.18,Veg
+Masala green chilli pakora/pakoda (Hari mirch kay pakode),5.55,2.22,71.01,1.34,668.76,668.76,80.0,High,Estimated(Category),Medium,4.44,Veg
+Chicken pakora/pakoda,4.55,6.03,60.98,0.96,590.09,590.09,80.0,High,Estimated(Category),Medium,3.64,Non-Veg
+Fish pakora/pakoda,4.55,5.97,59.52,0.96,577.03,577.03,80.0,High,Estimated(Category),Medium,3.64,Non-Veg
+Paneer cutlet,7.62,4.59,69.38,0.39,672.2,672.2,35.0,Low,Estimated(Category),Medium,2.67,Veg
+Sago cutlet/vadas (Sabudana cutlet/vadas),11.23,0.56,56.97,0.54,558.76,558.76,80.0,High,Estimated(Category),Medium,8.98,Veg
+Poshtik cutlet,7.39,2.0,50.94,1.35,496.45,496.45,25.0,Low,Estimated(Nutrient),Low,1.85,Veg
+Egg cutlet (Anda cutlet),5.77,2.45,60.25,0.58,575.02,575.02,25.0,Low,Estimated(Nutrient),Low,1.44,Non-Veg
+Minced meat cutlet,5.61,5.1,54.47,0.4,531.86,531.86,25.0,Low,Estimated(Nutrient),Low,1.4,Non-Veg
+Vegetable samosa,13.22,2.21,42.22,1.52,443.11,443.11,80.0,High,Estimated(Category),Medium,10.58,Veg
+Plain urad dal vada (Uzunne vada/Minapa garelu/Ulundu vadai/Medu vada),9.7,4.39,76.32,2.27,745.5,745.5,30.0,Low,Estimated(Category),Medium,2.91,Veg
+Masala urad dal vada,9.93,4.32,71.62,2.71,703.78,703.78,30.0,Low,Estimated(Category),Medium,2.98,Veg
+Khaman (dhokla),5.36,1.92,2.8,1.49,54.73,54.73,33.9,Low,Estimated(Nutrient),Low,1.82,Veg
+Instant dhokla,24.11,7.66,9.37,3.57,207.11,207.11,40.0,Low,Estimated(Nutrient),Low,9.64,Veg
+Tomato ginger chutney (Tamatar adarak ki chutney),9.11,1.05,0.32,2.14,44.66,44.66,45.0,Low,Estimated(Category),Medium,4.1,Veg
+Mint tomato chutney (Pudinay aur tamatar ki chutney),8.22,1.53,0.36,2.63,43.65,43.65,45.0,Low,Estimated(Category),Medium,3.7,Veg
+Coriander chutney (Hare dhaniye ki chutney),8.16,1.38,0.37,2.47,42.86,42.86,52.4,Low,Estimated(Nutrient),Low,4.28,Veg
+Gooseberry chutney (Amla chutney),8.83,1.44,0.62,4.58,43.02,43.02,52.0,Low,Estimated(Nutrient),Low,4.59,Veg
+Walnut chutney (Akhrot ki chutney),8.91,9.44,33.46,3.04,370.43,370.43,25.0,Low,Estimated(Nutrient),Low,2.23,Veg
+Saunth/Sonth chutney with ginger,20.62,0.28,0.11,0.31,84.22,84.22,65.6,Medium,Estimated(Nutrient),Low,13.53,Veg
+Gun powder chutney,47.65,21.55,2.67,13.95,312.34,312.34,35.8,Low,Estimated(Nutrient),Low,17.06,Veg
+Dessicated coconut chutney (Sookhe kase nariyal ki chutney) ,36.72,12.88,15.88,13.16,346.36,346.36,25.0,Low,Estimated(Nutrient),Low,9.18,Veg
+Curd mint dip ,9.11,4.82,2.44,0.77,76.13,76.13,35.0,Low,Estimated(Category),Medium,3.19,Veg
+Curd vegetable dip,6.04,3.88,1.94,0.63,56.21,56.21,35.0,Low,Estimated(Category),Medium,2.11,Veg
+Mayonnaise vegetable dip,4.8,3.01,23.44,0.41,241.27,241.27,35.0,Low,Estimated(Category),Medium,1.68,Veg
+Tomato and cucumber sandwich (Tamatar aur kheere ka sandwich),20.51,4.03,6.31,2.1,150.68,150.68,45.0,Low,Estimated(Category),Medium,9.23,Veg
+Tomato sandwich (grilled),21.29,6.26,9.39,1.91,189.92,189.92,45.0,Low,Estimated(Category),Medium,9.58,Veg
+French sandwich (toasted),14.82,6.82,11.51,1.37,186.75,186.75,25.4,Low,Estimated(Nutrient),Low,3.76,Veg
+Peanut butter cucumber sandwich,29.76,9.04,10.56,3.35,243.33,243.33,45.0,Low,Estimated(Category),Medium,13.39,Veg
+Mint and peanut sandwich,31.83,7.18,13.88,3.67,273.59,273.59,45.0,Low,Estimated(Category),Medium,14.32,Veg
+Spicy chutney sandwich,34.03,8.74,9.58,3.73,249.58,249.58,44.7,Low,Estimated(Nutrient),Low,15.21,Veg
+Chicken walnut sandwich (Chicken aur akhrot ke sandwich),22.62,12.58,16.77,1.53,285.78,285.78,25.0,Low,Estimated(Nutrient),Low,5.66,Non-Veg
+Rolled sandwich,34.69,6.45,15.29,2.07,293.07,293.07,37.3,Low,Estimated(Nutrient),Low,12.94,Veg
+Ribbon sandwich,24.76,6.26,13.37,2.92,239.26,239.26,33.2,Low,Estimated(Nutrient),Low,8.22,Veg
+Checker board sandwich,25.94,7.37,24.65,2.22,348.37,348.37,25.8,Low,Estimated(Nutrient),Low,6.69,Veg
+Submarine sandwich,13.6,6.09,15.32,1.24,216.92,216.92,25.0,Low,Estimated(Nutrient),Low,3.4,Veg
+Cheese open sandwich,28.42,9.84,14.24,1.74,274.07,274.07,32.2,Low,Estimated(Nutrient),Low,9.15,Veg
+Sunset and sunrise open sandwich,18.89,8.58,15.14,1.39,241.31,241.31,25.3,Low,Estimated(Nutrient),Low,4.78,Veg
+Danish luncheon sandwich,17.77,9.03,10.1,1.52,193.82,193.82,27.8,Low,Estimated(Nutrient),Low,4.94,Veg
+Chicken and corn open sandwich,19.21,8.63,8.83,1.67,188.16,188.16,35.7,Low,Estimated(Nutrient),Low,6.86,Non-Veg
+Chocolate sponge cake,39.54,9.13,5.51,0.52,239.86,239.86,50.2,Low,Estimated(Nutrient),Low,19.85,Veg
+Chocolate swiss roll,26.97,6.01,19.76,0.29,306.08,306.08,30.1,Low,Estimated(Nutrient),Low,8.12,Veg
+Lemon curd filling,26.41,3.43,12.58,0.0,225.62,225.62,45.0,Low,Estimated(Category),Medium,11.88,Veg
+Jam filling,46.15,0.0,0.0,0.0,184.62,184.62,68.5,Medium,Estimated(Nutrient),Low,31.61,Veg
+Chocolate pastry,32.24,7.05,10.12,0.32,243.37,243.37,39.8,Low,Estimated(Nutrient),Low,12.83,Veg
+Assorted pastry,31.99,6.78,8.91,0.43,230.74,230.74,46.0,Low,Estimated(Nutrient),Low,14.72,Veg
+Orange gateau,27.01,4.78,6.02,0.68,178.05,178.05,45.0,Low,Estimated(Category),Medium,12.15,Veg
+Black forest gateau,30.57,5.94,8.58,0.28,217.82,217.82,46.4,Low,Estimated(Nutrient),Low,14.18,Veg
+Lemon cake,43.1,5.29,20.63,0.62,373.85,373.85,45.0,Low,Estimated(Category),Medium,19.4,Veg
+Dundee cake,41.4,7.78,22.7,1.81,396.62,396.62,34.8,Low,Estimated(Nutrient),Low,14.41,Veg
+Victorian sandwich cake,44.74,5.18,19.83,0.59,373.09,373.09,39.3,Low,Estimated(Nutrient),Low,17.58,Veg
+Chocolate eggless cake,43.45,6.66,13.19,0.32,312.01,312.01,42.3,Low,Estimated(Nutrient),Low,18.38,Veg
+Orange eggless cake,52.65,7.16,13.82,0.56,355.62,355.62,45.0,Low,Estimated(Category),Medium,23.69,Veg
+Chocolate glace icing,62.43,3.22,20.8,0.0,436.29,436.29,45.0,Low,Estimated(Nutrient),Low,28.09,Veg
+Butter icing,71.64,0.19,25.37,0.0,500.72,500.72,46.1,Low,Estimated(Nutrient),Low,33.03,Veg
+Chocolate butter icing,61.72,3.21,24.77,0.0,469.59,469.59,42.6,Low,Estimated(Nutrient),Low,26.29,Veg
+Almond biscuit (Badam ke biscuit),52.14,6.25,19.7,1.5,407.74,407.74,41.1,Low,Estimated(Nutrient),Low,21.43,Veg
+Orange biscuit,62.11,3.63,11.01,0.75,354.78,354.78,45.0,Low,Estimated(Category),Medium,27.95,Veg
+Gingerman biscuit,55.24,6.26,12.73,2.0,357.43,357.43,46.4,Low,Estimated(Nutrient),Low,25.63,Veg
+Coffee drops,43.06,7.57,27.16,1.88,443.07,443.07,33.3,Low,Estimated(Nutrient),Low,14.34,Veg
+Christmas biscuit,60.97,5.67,15.88,2.17,406.07,406.07,46.1,Low,Estimated(Nutrient),Low,28.11,Veg
+Christmas wreath biscuit,58.07,5.43,15.01,2.28,386.05,386.05,46.1,Low,Estimated(Nutrient),Low,26.77,Veg
+Christmas bell biscuit,60.79,5.66,15.84,2.33,404.85,404.85,46.1,Low,Estimated(Nutrient),Low,28.02,Veg
+Christmas star biscuit,74.54,3.54,10.04,1.47,392.03,392.03,53.5,Low,Estimated(Nutrient),Low,39.88,Veg
+Christmas tree biscuit,58.41,5.43,15.0,2.65,385.63,385.63,46.2,Low,Estimated(Nutrient),Low,26.99,Veg
+Chocolate cream shells,59.26,5.1,19.34,0.9,427.17,427.17,44.0,Low,Estimated(Nutrient),Low,26.07,Veg
+Jelly biscuit,55.24,4.23,19.33,2.02,404.61,404.61,43.5,Low,Estimated(Nutrient),Low,24.03,Veg
+Cherry and walnut cookies,59.35,5.63,18.75,1.3,422.6,422.6,44.0,Low,Estimated(Nutrient),Low,26.11,Veg
+Cheese straws,30.61,9.83,24.28,1.29,382.0,382.0,27.6,Low,Estimated(Nutrient),Low,8.45,Veg
+Butterfly biscuit,25.33,9.98,22.11,1.02,341.45,341.45,25.4,Low,Estimated(Nutrient),Low,6.43,Veg
+Flan pastry,47.84,6.72,25.04,1.58,445.8,445.8,36.5,Low,Estimated(Nutrient),Low,17.46,Veg
+Fruit flan,34.71,3.3,12.48,0.71,261.35,261.35,45.0,Low,Estimated(Category),Medium,15.62,Veg
+Orange cream flan,36.16,4.73,13.59,0.63,280.28,280.28,45.0,Low,Estimated(Category),Medium,16.27,Veg
+Fruit puree tart,30.42,3.35,16.83,1.31,286.5,286.5,45.0,Low,Estimated(Category),Medium,13.69,Veg
+Apple banana pie,32.12,3.13,11.39,1.89,243.99,243.99,45.0,Low,Estimated(Category),Medium,14.45,Veg
+Lemon chiffon pie,27.63,4.88,14.52,0.66,259.31,259.31,45.0,Low,Estimated(Category),Medium,12.43,Veg
+Orange chiffon pie,23.14,3.89,11.16,0.7,207.57,207.57,45.0,Low,Estimated(Category),Medium,10.41,Veg
+Cream buns,14.16,4.45,15.81,0.31,215.74,215.74,25.0,Low,Estimated(Nutrient),Low,3.54,Veg
+Savoury puffs,10.8,9.51,15.24,0.33,190.79,190.79,25.0,Low,Estimated(Nutrient),Low,2.7,Veg
+Choux swans,14.92,4.35,15.6,0.35,216.34,216.34,25.0,Low,Estimated(Nutrient),Low,3.73,Veg
+Potato aigrettes,8.01,2.35,54.24,0.45,530.03,530.03,80.0,High,Estimated(Category),Medium,6.41,Veg
+Cream horns,23.12,3.42,33.55,0.6,408.23,408.23,25.0,Low,Estimated(Nutrient),Low,5.78,Veg
+Savoury cheese horns,21.38,5.66,20.71,0.73,295.15,295.15,25.7,Low,Estimated(Nutrient),Low,5.49,Veg
+Paneer patties,22.79,7.6,23.96,1.18,338.58,338.58,35.0,Low,Estimated(Category),Medium,7.98,Veg
+Vegetable patties ,20.98,4.01,17.74,2.62,261.92,261.92,35.0,Low,Estimated(Category),Medium,7.34,Veg
+Pearl millet infant food (Bajra shishu aahaar),62.1,11.98,6.62,7.84,362.44,362.44,45.0,Low,Estimated(Category),Medium,27.94,Veg
+Sajina,66.87,10.81,3.03,7.62,345.26,345.26,47.3,Low,Estimated(Nutrient),Low,31.63,Veg
+Cereal mix ,21.84,3.32,2.02,2.03,120.81,120.81,80.0,High,Estimated(Category),Medium,17.47,Veg
+Pulse mix,16.0,3.16,0.54,2.25,83.29,83.29,54.1,Low,Estimated(Nutrient),Low,8.66,Veg
+Shishu ahar,17.42,2.61,1.43,1.02,93.37,93.37,54.3,Low,Estimated(Nutrient),Low,9.46,Veg
+Cereal pulse mix with amylase rice flour,27.8,4.27,2.74,3.47,151.57,151.57,80.0,High,Estimated(Category),Medium,22.24,Veg
+Banana groundnut paste/puree,36.15,4.27,5.45,1.7,213.19,213.19,63.0,Medium,Estimated(Category),Medium,22.77,Veg
+Rice dal porridge (Chawal dal ki khichdi/khichri),65.04,10.8,8.33,4.51,383.33,383.33,75.0,High,Estimated(Category),Medium,48.78,Veg
+Lentils and semolina porridge (Dal suji porridge/daliya),23.19,3.26,1.06,1.44,117.29,117.29,45.0,Low,Estimated(Category),Medium,10.44,Veg
+Spinach khichri (Palak khichri/khichdi),17.35,3.43,1.91,1.56,102.18,102.18,51.3,Low,Estimated(Nutrient),Low,8.9,Veg
+Vegetable mix,36.02,4.7,0.94,1.93,174.21,174.21,35.0,Low,Estimated(Category),Medium,12.61,Veg
+Lentils and wheat porridge (Dal wheat porridge/daliya ),8.36,2.71,0.94,1.28,52.54,52.54,45.0,Low,Estimated(Category),Medium,3.76,Veg
+Maize porridge,15.64,2.14,1.89,1.68,89.57,89.57,53.0,Low,Estimated(Nutrient),Low,8.29,Veg
+Spinach peanut burfi (Palak aur mungfali ki burfi),13.59,3.36,4.39,2.07,105.37,105.37,45.0,Low,Estimated(Category),Medium,6.12,Veg
+Split bengal gram burfi/fudge (Channa dal burfi),54.63,4.65,7.09,2.06,287.36,287.36,30.0,Low,Estimated(Category),Medium,16.39,Veg
+Chickpea flour cookies (Sweet besan rounds/cookies),39.64,4.29,3.42,2.56,207.01,207.01,45.0,Low,Estimated(Category),Medium,17.84,Veg
+Pearl millet mathri (Bajra mathri),7.42,1.82,83.12,1.36,785.08,785.08,45.0,Low,Estimated(Category),Medium,3.34,Veg
+Sesame biscuit (Til ke biscuit),53.65,8.27,19.34,6.83,424.03,424.03,30.7,Low,Estimated(Nutrient),Low,16.47,Veg
+Fermented bengal gram vada (Khameerikrit/Ufna hua channa dal ka vada),8.68,4.05,67.19,2.65,657.57,657.57,30.0,Low,Estimated(Category),Medium,2.6,Veg
+Poshtik namak paras,19.52,6.49,56.58,4.55,613.39,613.39,25.0,Low,Estimated(Nutrient),Low,4.88,Veg
+Soya chikki,62.89,7.18,15.51,3.55,423.7,423.7,45.8,Low,Estimated(Nutrient),Low,28.8,Veg
+Besan bathua chilla/cheela,40.65,11.48,18.57,7.79,373.82,373.82,25.0,Low,Estimated(Nutrient),Low,10.16,Veg
+Wheat flour and nuts ladoos (Atta nuts ladoos),44.31,9.46,19.19,7.3,391.9,391.9,55.0,Low,Estimated(Category),Medium,24.37,Veg
+Gram flour and semolina dhokla (Besan suji dhokla),25.92,8.52,7.1,4.59,198.91,198.91,30.0,Low,Estimated(Category),Medium,7.78,Veg
+Atta dal burfi ,40.64,6.66,12.47,4.08,298.8,298.8,55.0,Low,Estimated(Category),Medium,22.35,Veg
+Soya roti,40.03,9.18,9.23,8.71,283.96,283.96,55.0,Low,Estimated(Category),Medium,22.02,Veg
+Poshtik khichdi/khichri,15.64,3.04,1.88,2.0,93.37,93.37,50.8,Low,Estimated(Nutrient),Low,7.95,Veg
+Namkeen daliya,49.32,8.29,7.99,8.57,295.11,295.11,30.0,Low,Estimated(Category),Medium,14.8,Veg
+Sprouts upma ,44.96,9.5,10.44,7.16,316.25,316.25,75.0,High,Estimated(Category),Medium,33.72,Veg
+Semolina idli (Suji/Rava idli),33.67,9.34,3.47,5.85,206.39,206.39,75.0,High,Estimated(Category),Medium,25.25,Veg
+Poshtik chilla/cheela,27.47,4.85,3.04,4.91,159.53,159.53,52.9,Low,Estimated(Nutrient),Low,14.53,Veg
+Stuffed bittergourd (dry) (Bharwa karela),2.49,1.29,22.38,3.0,217.65,217.65,25.0,Low,Estimated(Nutrient),Low,0.62,Veg
+Cauliflower potato canjee,2.63,0.57,0.39,0.69,16.79,16.79,80.0,High,Estimated(Category),Medium,2.1,Veg
+Creamed spinach,4.44,5.18,6.39,1.33,96.91,96.91,25.0,Low,Estimated(Nutrient),Low,1.11,Veg
+Mango milkshake with ice cream (Aam milkshake ice cream ke saath),9.18,1.93,2.8,0.23,68.35,68.35,45.0,Low,Estimated(Category),Medium,4.13,Veg
+Pineapple milkshake with ice cream (Ananas milkshake ice cream ke saath),9.33,1.93,2.75,0.42,68.49,68.49,45.0,Low,Estimated(Category),Medium,4.2,Veg
+Orange milkshake with ice cream (Narangi milkshake ice cream ke saath),9.15,1.95,2.75,0.16,67.82,67.82,45.0,Low,Estimated(Category),Medium,4.12,Veg
+Woodapple juice (Bel ka sharbat),6.51,0.63,0.7,1.03,34.18,34.18,45.0,Low,Estimated(Category),Medium,2.93,Veg
+Sattu drink,5.16,0.56,0.14,0.4,23.38,23.38,52.7,Low,Estimated(Nutrient),Low,2.72,Veg
+Apple and honey sorbet (Seb aur shehad ka sharbat),30.74,0.15,0.29,1.13,121.3,121.3,45.0,Low,Estimated(Category),Medium,13.83,Veg
+Thandai,9.13,3.59,5.89,0.8,101.18,101.18,32.6,Low,Estimated(Nutrient),Low,2.98,Veg
+Cucumber sharbat (Kheere ka sharbat),6.64,0.26,0.06,0.78,27.28,27.28,58.4,Medium,Estimated(Nutrient),Low,3.88,Veg
+Apple oats chia seed smoothie,13.07,3.49,2.48,1.44,85.64,85.64,45.0,Low,Estimated(Category),Medium,5.88,Veg
+Nannari sharbat,23.62,0.01,0.01,0.0,88.79,88.79,67.1,Medium,Estimated(Nutrient),Low,15.85,Veg
+Semolina milk drink (Thari kanji),6.93,0.98,1.36,0.72,44.16,44.16,45.0,Low,Estimated(Category),Medium,3.12,Veg
+Saffron milk (Kesariya doodh),12.64,3.17,4.57,0.14,102.18,102.18,45.0,Low,Estimated(Category),Medium,5.69,Veg
+Black rice kheer (Chak-hao kheer),22.93,4.37,4.91,0.76,147.94,147.94,75.0,High,Estimated(Category),Medium,17.2,Veg
+Coconut kheer (Nariyal ki kheer),14.42,3.4,10.55,1.53,162.61,162.61,29.4,Low,Estimated(Nutrient),Low,4.24,Veg
+Apple sago payasam (Seb aur sabudana ki kheer),14.4,3.13,7.66,0.38,136.5,136.5,45.0,Low,Estimated(Category),Medium,6.48,Veg
+Kesari bath,31.38,2.4,12.59,1.65,244.57,244.57,41.4,Low,Estimated(Nutrient),Low,12.99,Veg
+Putharekulu,59.61,3.66,7.55,1.75,318.3,318.3,58.1,Medium,Estimated(Nutrient),Low,34.63,Veg
+Mango malpua,12.84,1.65,30.67,2.08,334.64,334.64,45.0,Low,Estimated(Category),Medium,5.78,Veg
+Mango vanilla custard,18.41,3.43,7.04,0.99,147.63,147.63,45.0,Low,Estimated(Category),Medium,8.28,Veg
+Kiwi granola pudding,32.33,5.6,15.36,3.71,280.99,280.99,36.7,Low,Estimated(Nutrient),Low,11.87,Veg
+Oats burfi,62.47,8.89,17.27,4.96,425.19,425.19,43.8,Low,Estimated(Nutrient),Low,27.36,Veg
+Lotus seed halwa (Kamal gattay ka halwa),39.56,7.79,20.69,0.42,370.55,370.55,55.0,Low,Estimated(Category),Medium,21.76,Veg
+Amaranth ladoo (Rajgira ladoo),51.33,10.12,22.7,5.11,454.15,454.15,27.2,Low,Estimated(Nutrient),Low,13.96,Veg
+Chhena poda,33.64,13.68,17.94,1.4,344.57,344.57,30.5,Low,Estimated(Nutrient),Low,10.26,Veg
+Sweet couscous dessert,29.69,3.81,7.69,2.18,196.2,196.2,63.0,Medium,Estimated(Category),Medium,18.7,Veg
+Sweetened yogurt (Shrikhand),16.02,5.27,2.89,0.08,107.18,107.18,45.0,Low,Estimated(Category),Medium,7.21,Veg
+Thickened sweetened milk (Rabri),10.55,3.52,5.35,0.19,102.79,102.79,45.0,Low,Estimated(Category),Medium,4.75,Veg
+Gram flour halwa (Besan halwa),25.78,5.88,17.3,1.82,276.79,276.79,30.0,Low,Estimated(Category),Medium,7.73,Veg
+Prawn sandwich,11.89,10.36,9.27,1.55,169.65,169.65,25.6,Low,Estimated(Nutrient),Low,3.04,Non-Veg
+Watercress sandwich,28.03,5.17,11.47,2.26,229.42,229.42,38.0,Low,Estimated(Nutrient),Low,10.65,Veg
+Fish sandwich ,10.09,4.72,10.37,1.23,150.2,150.2,25.0,Low,Estimated(Nutrient),Low,2.52,Non-Veg
+Kidney bean sandwich with cottage cheese,18.86,9.85,6.84,3.66,176.64,176.64,30.0,Low,Estimated(Category),Medium,5.66,Veg
+Finger millet biscuit (Ragi biscuit),52.69,4.03,25.79,5.97,458.56,458.56,29.2,Low,Estimated(Nutrient),Low,15.39,Veg
+Buttermilk biscuit,34.93,5.76,17.5,1.18,322.54,322.54,45.0,Low,Estimated(Category),Medium,15.72,Veg
+Lemon cookies,42.19,5.63,23.02,0.78,394.48,394.48,45.0,Low,Estimated(Category),Medium,18.99,Veg
+Sweet potato biscuit (Shakarkand ke biscuit),38.13,5.14,13.31,2.27,296.4,296.4,63.0,Medium,Estimated(Category),Medium,24.02,Veg
+Raspberry shortbread cookies,61.25,3.0,21.25,0.75,441.12,441.12,44.6,Low,Estimated(Nutrient),Low,27.32,Veg
+Pumpkin cookies ,44.69,2.51,3.93,1.06,218.4,218.4,60.0,Medium,Estimated(Nutrient),Low,26.81,Veg
+Greenpea cookies,23.07,6.53,4.24,5.32,159.42,159.42,36.4,Low,Estimated(Nutrient),Low,8.4,Veg
+Sunflower cookies,40.06,9.49,36.28,3.95,520.62,520.62,27.3,Low,Estimated(Nutrient),Low,10.94,Veg
+Cardamom cookies (Elaichi cookies),53.99,5.1,19.12,2.79,400.49,400.49,42.7,Low,Estimated(Nutrient),Low,23.05,Veg
+Hazelnut cookies,39.44,6.25,34.97,2.45,493.32,493.32,28.8,Low,Estimated(Nutrient),Low,11.36,Veg
+Milk cookies,48.43,10.49,24.96,0.99,459.43,459.43,45.0,Low,Estimated(Category),Medium,21.79,Veg
+Cranberry cookies,36.39,3.92,12.66,1.13,272.48,272.48,42.2,Low,Estimated(Nutrient),Low,15.36,Veg
+Olive biscuit,55.01,3.2,23.75,0.82,438.29,438.29,41.4,Low,Estimated(Nutrient),Low,22.77,Veg
+Tutti fruitti biscuit,53.12,5.21,17.9,5.43,420.78,420.78,45.0,Low,Estimated(Category),Medium,23.9,Veg
+Peach blueberry preserves,45.76,0.53,0.2,1.14,177.38,177.38,45.0,Low,Estimated(Category),Medium,20.59,Veg
+Pear preserves (Naashpati ka murabba),25.67,0.25,0.19,3.06,101.24,101.24,45.0,Low,Estimated(Category),Medium,11.55,Veg
+Starfruit preserves ,33.62,0.24,0.12,0.78,128.93,128.93,45.0,Low,Estimated(Category),Medium,15.13,Veg
+Gooseberry pickle (Amla ka achaar),7.61,1.55,27.61,3.7,278.58,278.58,25.0,Low,Estimated(Nutrient),Low,1.9,Veg
+Lotus stem pickle (Kamal kakdi ka achar),20.07,1.44,1.6,8.58,102.69,102.69,48.3,Low,Estimated(Nutrient),Low,9.69,Veg
+Date pickle (Khajoor ka achaar),34.66,1.68,4.21,5.2,182.29,182.29,48.4,Low,Estimated(Nutrient),Low,16.78,Veg
+Garlic pickle (Lahasun ka achar),9.75,3.72,39.88,5.13,413.62,413.62,25.0,Low,Estimated(Nutrient),Low,2.44,Veg
+Fermented bamboo shoot pickle (Mesu pickle),1.73,1.58,5.59,2.24,59.83,59.83,25.0,Low,Estimated(Nutrient),Low,0.43,Veg
+Sweet peach pickle (Aadoo ka achaar),37.01,0.46,0.2,1.32,144.64,144.64,45.0,Low,Estimated(Category),Medium,16.65,Veg
+Pickled mustard greens ,1.05,1.51,0.22,1.7,13.12,13.12,25.0,Low,Estimated(Nutrient),Low,0.26,Veg
+Small onion pickle ,2.76,1.65,0.64,1.09,16.86,16.86,31.9,Low,Estimated(Nutrient),Low,0.88,Veg
+Green tomato pickle (Haray tamatar ka achaar),2.87,1.23,19.67,1.74,193.26,193.26,45.0,Low,Estimated(Category),Medium,1.29,Veg
+Pickled cabbage ,2.56,0.39,0.14,0.61,13.69,13.69,35.0,Low,Estimated(Category),Medium,0.9,Veg
+Coconut pickle (Nariyal ka aachar),11.53,3.02,51.71,6.35,517.26,517.26,25.0,Low,Estimated(Nutrient),Low,2.88,Veg
+Potato pickle (Aloo ka achaar),7.87,2.07,36.46,2.21,369.14,369.14,80.0,High,Estimated(Category),Medium,6.3,Veg
+Mango murabba candy,77.32,0.27,0.05,0.95,293.35,293.35,45.0,Low,Estimated(Category),Medium,34.79,Veg
+Afghani chicken,1.95,15.66,9.07,0.31,151.51,151.51,25.0,Low,Estimated(Nutrient),Low,0.49,Non-Veg
+Fish orly,4.27,5.87,58.18,0.33,563.7,563.7,25.0,Low,Estimated(Nutrient),Low,1.07,Non-Veg
+Hariyali Fish Tikka,2.21,14.01,9.41,0.99,150.24,150.24,25.0,Low,Estimated(Nutrient),Low,0.55,Non-Veg
+Chicken manchurian,6.06,9.53,11.96,0.41,142.34,142.34,25.0,Low,Estimated(Nutrient),Low,1.52,Non-Veg
+Handi chicken,1.49,12.32,12.46,0.67,166.02,166.02,25.0,Low,Estimated(Nutrient),Low,0.37,Non-Veg
+Lemon chicken,0.55,20.2,9.66,0.16,169.79,169.79,45.0,Low,Estimated(Category),Medium,0.25,Non-Veg
+Lemon butter fish,0.75,16.38,10.26,0.36,160.25,160.25,45.0,Low,Estimated(Category),Medium,0.34,Non-Veg
+Baked eggs in tomato sauce,3.78,4.92,5.22,0.01,80.05,80.05,45.0,Low,Estimated(Category),Medium,1.7,Non-Veg
+Egg in a pepper,0.17,12.64,8.68,0.17,128.78,128.78,45.0,Low,Estimated(Category),Medium,0.08,Non-Veg
+Spinach mushroom scrambled egg (Palak mushroom bhurji),0.59,13.28,11.51,0.39,158.85,158.85,45.0,Low,Estimated(Category),Medium,0.27,Non-Veg
+Corn omelette/omlet,1.57,11.37,12.89,0.02,166.93,166.93,25.0,Low,Estimated(Nutrient),Low,0.39,Veg
+Cajun chicken,1.94,12.69,13.99,0.89,184.94,184.94,25.0,Low,Estimated(Nutrient),Low,0.48,Non-Veg
+Paaner do pyaza,3.41,4.22,10.87,0.84,127.7,127.7,25.0,Low,Estimated(Nutrient),Low,0.85,Veg
+Cabbage manchurian (Pattagobhi manchurian),4.85,0.64,22.48,0.37,224.26,224.26,55.0,Low,Estimated(Category),Medium,2.67,Veg
+Gobi 65,3.59,0.56,29.11,0.57,278.29,278.29,25.0,Low,Estimated(Nutrient),Low,0.9,Veg
+Paneer lababdar,3.37,3.98,8.46,1.16,105.48,105.48,35.0,Low,Estimated(Category),Medium,1.18,Veg
+Roasted cauliflower steak,2.02,2.05,6.7,3.53,78.68,78.68,35.0,Low,Estimated(Category),Medium,0.71,Veg
+Sauteed radishes with green beans,6.04,2.41,6.61,3.52,94.32,94.32,45.0,Low,Estimated(Category),Medium,2.72,Veg
+Garlic chutney/Poondu chutney (Lahasun ki chutney),20.44,3.34,17.55,5.15,255.51,255.51,25.0,Low,Estimated(Nutrient),Low,5.11,Veg
+Schezwan chutney,10.79,3.33,17.72,5.72,205.19,205.19,25.0,Low,Estimated(Nutrient),Low,2.7,Veg
+Onion chutney (Pyaaz ki chutney/Vengaya chutney),13.52,2.97,8.38,4.6,143.94,143.94,36.6,Low,Estimated(Nutrient),Low,4.95,Veg
+Dates chutney (Khajoor ki chutney),21.69,1.07,1.12,3.41,103.57,103.57,61.0,Medium,Estimated(Nutrient),Low,13.23,Veg
+Chicken salad,1.3,15.33,30.26,2.0,338.19,338.19,10.0,Low,Measured,High,0.13,Non-Veg
+Chicken salad,1.3,15.33,30.26,2.0,338.19,338.19,0.0,Low,Measured,High,0.0,Non-Veg
+Macaroni salad,21.63,5.02,17.78,0.56,262.19,262.19,28.3,Low,Estimated(Nutrient),Low,6.12,Veg
+Cabbage raita (Pattagobhi raita),5.25,3.24,5.76,0.93,84.84,84.84,55.0,Low,Estimated(Category),Medium,2.89,Veg
+Pomegranate raita (Anaar ka raita),7.15,4.05,3.24,0.6,72.64,72.64,32.4,Low,Estimated(Nutrient),Low,2.32,Veg
+Onion raita (Pyaaz ka raita),7.86,4.86,2.43,0.65,71.56,71.56,34.1,Low,Estimated(Nutrient),Low,2.68,Veg
+Green chilli raita (Hari mirch ka raita),7.66,5.58,2.92,0.26,77.13,77.13,31.2,Low,Estimated(Nutrient),Low,2.39,Veg
+Kale salad,5.01,4.86,15.33,1.36,177.71,177.71,25.0,Low,Estimated(Nutrient),Low,1.25,Veg
+Spinach and paneer souffle ,9.64,7.56,13.49,1.07,186.19,186.19,35.0,Low,Estimated(Category),Medium,3.37,Veg
+Masala souffle ,8.02,6.38,7.37,1.24,123.51,123.51,25.0,Low,Estimated(Nutrient),Low,2.0,Veg
+Chicken and cheese souffle,3.47,9.07,14.74,0.26,182.35,182.35,25.0,Low,Estimated(Nutrient),Low,0.87,Non-Veg
+Tamarind chutney (Chintapandu pachadi/Puli chutney),25.07,0.88,0.48,1.65,109.15,109.15,64.0,Medium,Estimated(Nutrient),Low,16.04,Veg
+Pav bhaji masala,29.15,9.13,10.96,24.3,230.47,230.47,25.6,Low,Estimated(Nutrient),Low,7.46,Veg
+Green chutney,10.01,5.42,1.6,5.84,79.42,79.42,28.9,Low,Estimated(Nutrient),Low,2.89,Veg
+Sago khitchdi/khichri (Sabudana khitchdi/khichri),22.41,2.72,10.1,1.82,187.16,187.16,38.3,Low,Estimated(Nutrient),Low,8.58,Veg
+Gram flour chilla/cheela (Besan chilla/cheela),21.03,7.8,2.85,4.25,135.93,135.93,30.0,Low,Estimated(Category),Medium,6.31,Veg
+Vegetable namkeen jave,18.98,2.93,2.51,2.86,112.23,112.23,35.0,Low,Estimated(Category),Medium,6.64,Veg
+Khakhra,27.66,4.78,5.32,5.43,178.5,178.5,40.0,Low,Estimated(Nutrient),Low,11.06,Veg
+Moong bean dosa (Pesarattu),31.91,12.32,11.67,6.04,285.96,285.96,75.0,High,Estimated(Category),Medium,23.93,Veg
+Methi thepla,41.34,8.98,15.95,7.56,346.16,346.16,45.0,Low,Measured,High,18.6,Veg
+Rice puttu (Ari puttu),11.82,1.26,3.13,0.76,81.98,81.98,75.0,High,Estimated(Category),Medium,8.86,Veg
+Buckwheat pancake (Khura),27.28,2.91,16.43,0.56,263.3,263.3,35.1,Low,Estimated(Nutrient),Low,9.58,Veg
+Quinoa khichdi/khichri,8.83,3.18,1.59,2.58,64.01,64.01,45.0,Low,Estimated(Category),Medium,3.97,Veg
+Khakhra chaat,16.64,4.52,30.65,3.04,358.66,358.66,25.0,Low,Estimated(Nutrient),Low,4.16,Veg
+Banana appam,20.06,1.17,42.53,0.67,469.81,469.81,63.0,Medium,Estimated(Category),Medium,12.64,Veg
+Veg manchurian,6.82,0.89,61.65,1.16,585.64,585.64,25.0,Low,Estimated(Nutrient),Low,1.7,Veg
+Pav bhaji,11.99,2.66,4.32,1.98,96.53,96.53,65.0,Medium,Measured,High,7.79,Veg
+Pav bhaji,11.99,2.66,4.32,1.98,96.53,96.53,70.0,High,Measured,High,8.39,Veg
+Pav bhaji,11.99,2.66,4.32,1.98,96.53,96.53,55.0,Low,Measured,High,6.59,Veg
+Rice murukku,33.29,5.41,48.22,2.18,593.99,593.99,75.0,High,Estimated(Category),Medium,24.97,Veg
+Bhel puri ,16.47,3.52,47.91,2.24,509.89,509.89,55.0,Low,Estimated(Category),Medium,9.06,Veg
+Semolina dhokla (Suji/Rava dhokla),30.86,5.44,5.2,5.12,194.91,194.91,40.8,Low,Estimated(Nutrient),Low,12.59,Veg
+Spicy corn chaat ,11.45,4.61,46.55,2.17,479.8,479.8,25.0,Low,Estimated(Nutrient),Low,2.86,Veg
+Jackfruit fritters (Ponsa mulik/Kathal ka pakora),24.0,2.34,54.41,1.5,597.79,597.79,45.0,Low,Estimated(Category),Medium,10.8,Veg
+Banana chips (Kele ke chips),7.32,0.37,70.46,0.65,665.67,665.67,63.0,Medium,Estimated(Category),Medium,4.61,Veg
+Wheat cake,41.13,4.79,14.95,2.76,314.63,314.63,41.5,Low,Estimated(Nutrient),Low,17.07,Veg
+Mango cheesecake,20.06,2.39,7.3,1.14,152.46,152.46,45.0,Low,Estimated(Category),Medium,9.03,Veg
+Carrot cake (Gajar ka cake),35.98,5.6,10.27,2.93,255.59,255.59,45.0,Low,Estimated(Category),Medium,16.19,Veg
+Semolina cake (Suji/Rava cake),31.32,6.58,25.18,5.37,374.14,374.14,25.0,Low,Estimated(Nutrient),Low,7.83,Veg
+Finger millet cake (Ragi cake),38.93,3.96,12.27,2.35,279.46,279.46,43.5,Low,Estimated(Nutrient),Low,16.93,Veg
+Honey cake,49.04,3.08,14.7,0.51,333.59,333.59,63.0,Medium,Estimated(Category),Medium,30.9,Veg
+Almond cardamom cake (Badam elaichi cake),34.53,7.18,21.36,2.35,356.35,356.35,32.7,Low,Estimated(Nutrient),Low,11.29,Veg
+Tutti frutti cake,52.94,4.49,12.68,0.85,347.72,347.72,47.1,Low,Estimated(Nutrient),Low,24.93,Veg
+Ham and Bean soup,4.18,10.61,4.15,0.54,96.04,96.04,30.0,Low,Estimated(Category),Medium,1.25,Veg
+Whey soup,6.26,3.45,3.34,0.84,68.91,68.91,31.2,Low,Estimated(Nutrient),Low,1.95,Veg
+Bottle gourd soup (Ghiya/Lauki soup),1.16,0.45,1.79,0.96,23.05,23.05,25.0,Low,Estimated(Nutrient),Low,0.29,Veg
+Baked potato soup,5.85,5.73,11.21,0.3,147.05,147.05,80.0,High,Estimated(Category),Medium,4.68,Veg
+Pumpkin soup,2.08,0.47,3.2,1.19,40.05,40.05,25.0,Low,Estimated(Nutrient),Low,0.52,Veg
+Sweet corn soup,3.56,0.99,1.63,0.31,32.25,32.25,90.0,High,Estimated(Category),Medium,3.2,Veg
+Paneer soup,2.42,3.22,2.8,0.28,47.85,47.85,35.0,Low,Estimated(Category),Medium,0.85,Veg
+Curried Cauliflower soup,3.12,6.72,9.77,2.34,37.32,37.32,35.0,Low,Estimated(Category),Medium,1.09,Veg
+Millet soup,8.22,11.26,12.57,2.82,55.99,55.99,25.0,Low,Estimated(Nutrient),Low,2.06,Veg
+Lemon coriander soup,10.32,2.27,6.26,6.77,108.06,108.06,45.0,Low,Estimated(Category),Medium,4.64,Veg
+Garlic soup,6.99,2.38,17.62,1.66,194.86,194.86,25.0,Low,Estimated(Nutrient),Low,1.75,Veg
+Dal makhani,7.96,3.32,3.06,2.27,74.04,74.04,30.0,Low,Estimated(Category),Medium,2.39,Veg
+Dalma,15.04,4.91,4.58,2.16,118.93,118.93,30.0,Low,Estimated(Category),Medium,4.51,Veg
+Split bengal gram dal (Channa dal),9.99,4.15,4.62,3.72,99.67,99.67,30.0,Low,Estimated(Category),Medium,3.0,Veg
+Horsegram dal (Kulthi dal) ,8.21,2.91,1.13,1.52,55.65,55.65,30.0,Low,Estimated(Category),Medium,2.46,Veg
+Panchmel dal,10.71,4.63,5.36,3.2,111.22,111.22,30.0,Low,Estimated(Category),Medium,3.21,Veg
+Dal dhokli,8.55,2.96,2.47,1.86,68.74,68.74,30.0,Low,Estimated(Category),Medium,2.56,Veg
+Gujarati handvo ,31.86,8.24,4.8,4.95,207.09,207.09,48.6,Low,Estimated(Nutrient),Low,15.48,Veg
+Sev (Omapodi/Karapusa),12.87,5.12,60.08,2.35,609.14,609.14,25.0,Low,Estimated(Nutrient),Low,3.22,Veg
+Papdi,12.89,1.83,72.11,0.56,708.96,708.96,25.0,Low,Estimated(Nutrient),Low,3.22,Veg
+Jowar dosa,40.53,8.5,10.28,5.56,294.35,294.35,75.0,High,Estimated(Category),Medium,30.4,Veg
+Bread roll,16.12,2.85,40.25,1.45,435.46,435.46,25.0,Low,Estimated(Nutrient),Low,4.03,Veg
+Soya seekh kebab,10.0,5.4,5.88,2.24,115.05,115.05,31.4,Low,Estimated(Nutrient),Low,3.14,Veg
+Classic seasoned black beans,7.66,8.01,8.28,3.51,28.78,28.78,45.0,Low,Estimated(Category),Medium,3.45,Veg
+Maa chaane ki dal,43.11,19.8,9.5,13.45,344.67,344.67,30.0,Low,Estimated(Category),Medium,12.93,Veg
+Garlic chickpea soup (Lahasun aur chane ka shoraba),13.92,4.45,2.01,2.84,89.53,89.53,45.0,Low,Estimated(Category),Medium,6.26,Veg
+White sauce (thin),6.58,3.31,8.41,0.07,115.17,115.17,25.0,Low,Estimated(Nutrient),Low,1.64,Veg
+White sauce (medium),7.98,3.36,11.76,0.14,151.27,151.27,25.0,Low,Estimated(Nutrient),Low,2.0,Veg
+White sauce (thick),10.24,3.43,17.19,0.24,209.69,209.69,25.0,Low,Estimated(Nutrient),Low,2.56,Veg
+Cheese sauce,7.08,7.68,15.12,0.12,194.76,194.76,25.0,Low,Estimated(Nutrient),Low,1.77,Veg
+Egg sauce,5.88,5.97,11.08,0.12,146.85,146.85,25.0,Low,Estimated(Nutrient),Low,1.47,Non-Veg
+Mushroom sauce,7.31,3.39,10.51,0.47,137.56,137.56,45.0,Low,Estimated(Category),Medium,3.29,Veg
+Mustard sauce,8.29,3.98,12.17,0.13,158.58,158.58,25.0,Low,Estimated(Nutrient),Low,2.07,Veg
+Brown sauce,5.38,11.92,23.67,1.69,109.18,109.18,25.0,Low,Estimated(Nutrient),Low,1.34,Veg
+Classic italian pasta,4.4,0.57,2.45,1.36,42.12,42.12,45.0,Low,Estimated(Category),Medium,1.98,Veg
+Pasta spinach sauce,1.76,1.76,7.9,0.86,85.46,85.46,45.0,Low,Estimated(Category),Medium,0.79,Veg
+Pasta cheese sauce,9.0,4.33,10.84,0.14,149.26,149.26,45.0,Low,Estimated(Category),Medium,4.05,Veg
+Mayonnaise,1.65,1.86,84.52,0.11,774.86,774.86,25.0,Low,Estimated(Nutrient),Low,0.41,Veg
+Low calorie quick mayonnaise,4.71,1.41,24.35,0.06,242.89,242.89,25.0,Low,Estimated(Nutrient),Low,1.18,Veg
+Thousand island dressing,4.49,1.37,42.87,0.46,407.87,407.87,25.0,Low,Estimated(Nutrient),Low,1.12,Veg
+Curd dip,7.95,5.04,3.36,0.1,79.95,79.95,35.0,Low,Estimated(Category),Medium,2.78,Veg
+Short crust pastry,44.72,6.11,23.98,1.58,422.1,422.1,36.3,Low,Estimated(Nutrient),Low,16.23,Veg
+Choux pastry,16.2,5.55,14.96,0.56,222.37,222.37,25.1,Low,Estimated(Nutrient),Low,4.07,Veg
+Flaky pastry,33.61,4.69,31.99,1.25,443.94,443.94,28.0,Low,Estimated(Nutrient),Low,9.41,Veg
+Sponge cake ,44.63,9.18,4.74,0.69,253.77,253.77,52.5,Low,Estimated(Nutrient),Low,23.43,Veg
+Glace icing,86.31,0.01,0.01,0.0,323.51,323.51,69.2,High,Estimated(Nutrient),Low,59.73,Veg
+Royal icing,86.53,1.74,0.02,0.0,332.58,332.58,67.8,Medium,Estimated(Nutrient),Low,58.67,Veg
+American frosting,67.48,1.05,0.01,0.0,257.57,257.57,67.9,Medium,Estimated(Nutrient),Low,45.82,Veg
+Gum icing,53.19,5.94,0.0,0.0,223.07,223.07,61.9,Medium,Estimated(Nutrient),Low,32.92,Veg
+Channa murmura premix,72.59,10.59,3.28,8.21,339.09,339.09,48.1,Low,Estimated(Nutrient),Low,34.92,Veg
+Cracked wheat and green gram dal premix (Dalia moong dal premix),64.75,15.89,5.11,11.66,362.16,362.16,30.0,Low,Estimated(Category),Medium,19.42,Veg
+Rice flakes and roasted channa ,71.94,10.57,2.94,8.84,333.4,333.4,75.0,High,Estimated(Category),Medium,53.96,Veg
+Spinach soup in milk ,3.98,2.89,3.2,0.79,56.72,56.72,45.0,Low,Estimated(Category),Medium,1.79,Veg
+Vegetable soup,7.6,2.22,1.55,3.01,55.21,55.21,10.0,Low,Measured,High,0.76,Veg
+Mashed banana with milk,14.62,2.51,2.99,0.71,95.43,95.43,63.0,Medium,Estimated(Category),Medium,9.21,Veg
+Poha with curd (Poha aur dahi),26.72,6.01,4.65,1.09,173.32,173.32,35.0,Low,Estimated(Category),Medium,9.35,Veg
+Potato with curd,12.01,3.19,1.33,1.02,73.18,73.18,80.0,High,Estimated(Category),Medium,9.61,Veg
+Sweet wheat porridge (Sweet dalia),23.77,5.11,2.79,2.37,140.66,140.66,30.0,Low,Estimated(Category),Medium,7.13,Veg
+Vegetable khichdi/khichri,19.57,5.61,4.53,2.45,143.17,143.17,35.0,Low,Estimated(Category),Medium,6.85,Veg
+Moong dal mixture,33.93,4.62,1.0,1.9,158.84,158.84,30.0,Low,Estimated(Category),Medium,10.18,Veg
+Cracked wheat khichri/khichdi (Dalia khichri/khichdi),22.35,7.56,5.52,3.74,167.45,167.45,30.0,Low,Estimated(Category),Medium,6.7,Veg
+Stewed apple,22.49,0.17,0.37,1.48,91.93,91.93,45.0,Low,Estimated(Category),Medium,10.12,Veg
+Lemon squash (Nimbu ka squash),48.88,0.15,0.06,0.0,184.56,184.56,45.0,Low,Estimated(Category),Medium,22.0,Veg
+Orange squash (Santre ka squash),50.88,0.22,0.04,0.4,193.26,193.26,45.0,Low,Estimated(Category),Medium,22.9,Veg
+Lichi squash,51.96,0.3,0.08,0.41,198.33,198.33,68.2,Medium,Estimated(Nutrient),Low,35.44,Veg
+Mango squash (Aam ka squash),50.96,0.17,0.17,0.58,194.66,194.66,45.0,Low,Estimated(Category),Medium,22.93,Veg
+Pineapple squash (Ananas ka squash),51.34,0.16,0.05,1.06,195.02,195.02,45.0,Low,Estimated(Category),Medium,23.1,Veg
+Lemon and ginger squash (Nimbu aur adrak ka squash),44.06,0.54,0.21,1.07,170.34,170.34,45.0,Low,Estimated(Category),Medium,19.83,Veg
+Apple jam (Seb ka murabba),48.56,0.14,0.32,1.29,188.79,188.79,45.0,Low,Estimated(Category),Medium,21.85,Veg
+Plum jam (Aloo bukhara jam),46.2,0.31,0.19,1.0,178.89,178.89,67.8,Medium,Estimated(Nutrient),Low,31.32,Veg
+Pineapple jam ,38.27,0.32,0.15,2.2,149.18,149.18,45.0,Low,Estimated(Category),Medium,17.22,Veg
+Guava jelly (Amrood ki jelly),28.18,1.11,0.25,6.61,115.74,115.74,54.6,Low,Estimated(Nutrient),Low,15.39,Veg
+Orange marmalade (Santray ka murabba),25.94,0.66,0.13,1.97,104.17,104.17,45.0,Low,Estimated(Category),Medium,11.67,Veg
+Carrot murabba (Gajar ka murabba),45.6,0.32,0.16,1.39,175.24,175.24,45.0,Low,Estimated(Category),Medium,20.52,Veg
+Gooseberry marmalade (Amla murabba),32.34,0.14,0.03,0.0,123.16,123.16,67.6,Medium,Estimated(Nutrient),Low,21.86,Veg
+Ginger candy (Adrak ki candy),50.38,0.69,0.27,1.67,195.71,195.71,67.4,Medium,Estimated(Nutrient),Low,33.96,Veg
+Mango pickle (Aam ka achaar),8.11,1.6,17.89,3.68,192.12,192.12,40.0,Low,Measured,High,3.24,Veg
+Mixed vegetable pickle (Sabziyoon ka achaar),7.48,1.9,19.68,2.76,211.2,211.2,35.0,Low,Estimated(Category),Medium,2.62,Veg
+Sweet lemon pickle (Neembu ka meetha achaar),16.87,1.22,0.21,2.13,69.54,69.54,45.0,Low,Estimated(Category),Medium,7.59,Veg
+Plum chutney (Aloo bukhara ki chutney),44.95,0.47,0.29,1.37,177.11,177.11,67.4,Medium,Estimated(Nutrient),Low,30.3,Veg
+Raw mango chutney (Kachhe aam/Kairi ki chutney),49.94,0.51,0.16,2.17,193.13,193.13,45.0,Low,Estimated(Category),Medium,22.47,Veg
+Tomato sauce,7.23,0.81,0.27,1.79,34.33,34.33,45.0,Low,Estimated(Category),Medium,3.25,Veg
+Tomato puree,3.68,0.75,0.25,1.56,20.62,20.62,45.0,Low,Estimated(Category),Medium,1.66,Veg
+Garam masala,26.2,9.89,10.97,35.56,254.21,254.21,25.0,Low,Estimated(Nutrient),Low,6.55,Veg
+Chat masala,23.87,8.19,9.91,18.62,222.58,222.58,28.9,Low,Estimated(Nutrient),Low,6.9,Veg
+Kashmiri masala,23.16,8.26,31.03,12.12,389.02,389.02,25.0,Low,Estimated(Nutrient),Low,5.79,Veg
+Rasam powder (Rasam masala),25.19,12.04,11.8,35.71,267.96,267.96,25.0,Low,Estimated(Nutrient),Low,6.3,Veg
+Sambar powder (Sambar masala),23.38,12.5,15.58,34.56,297.46,297.46,40.0,Low,Estimated(Category),Medium,9.35,Veg
+Tartare sauce,2.96,1.44,66.12,0.42,610.93,610.93,25.0,Low,Estimated(Nutrient),Low,0.74,Veg
+Barbeque sauce,20.46,0.96,4.51,0.69,121.93,121.93,53.2,Low,Estimated(Nutrient),Low,10.88,Veg
+Bread sauce,8.69,3.46,7.05,0.56,111.04,111.04,30.1,Low,Estimated(Nutrient),Low,2.62,Veg
+Green chilli sauce,7.36,1.25,0.27,1.77,46.06,46.06,52.1,Low,Estimated(Nutrient),Low,3.83,Veg
+Home made plain noodles,44.5,6.21,3.56,1.65,238.78,238.78,56.4,Medium,Estimated(Nutrient),Low,25.1,Veg
+Dal moong,4.92,2.2,1.62,1.08,43.69,43.69,30.0,Low,Estimated(Category),Medium,1.48,Veg
+Cumin seeds baghar (Jeera baghar/tadka),5.22,3.34,78.77,6.01,736.81,736.81,25.0,Low,Estimated(Nutrient),Low,1.3,Veg
+Onion tomato baghar (Pyaaz tamatar ka tadka),6.17,1.26,11.98,2.12,137.52,137.52,45.0,Low,Estimated(Category),Medium,2.78,Veg
+Mustard seeds baghar (Mustard seed tadka),10.45,4.73,54.3,9.74,552.59,552.59,25.0,Low,Estimated(Nutrient),Low,2.61,Veg
+Hot cherry sauce,67.95,0.13,0.07,0.0,252.74,252.74,68.8,Medium,Estimated(Nutrient),Low,46.75,Veg
+Apple jelly (Seb ki jelly),39.37,0.1,0.21,0.86,152.13,152.13,45.0,Low,Estimated(Category),Medium,17.72,Veg
+Marmalade (Murabba),37.64,0.23,0.04,0.43,143.76,143.76,67.7,Medium,Estimated(Nutrient),Low,25.48,Veg
+Plum squash (Aloo bukhara squash),55.51,0.16,0.1,0.52,211.17,211.17,68.4,Medium,Estimated(Nutrient),Low,37.97,Veg
+Lemon green chilli pickle (Nimboo aur hari mirch ka achaar),2.14,0.85,0.24,1.07,14.07,14.07,45.0,Low,Estimated(Category),Medium,0.96,Veg
+Brinjal pickle (Baingan ka achaar),4.23,2.24,12.98,4.62,139.01,139.01,35.0,Low,Estimated(Category),Medium,1.48,Veg
+Sweet and sour tomato pickle (Khatta meetha tamatar ka achaar),6.55,1.26,3.24,2.2,60.88,60.88,45.0,Low,Estimated(Category),Medium,2.95,Veg
+Jhatpat achar with carrot (Jhatpat achaar gajar ke saath),6.32,1.98,6.55,5.08,91.21,91.21,45.0,Low,Estimated(Category),Medium,2.84,Veg
+Tomato chutney (Tamatar ki chutney),31.85,0.97,6.01,1.49,176.07,176.07,45.0,Low,Estimated(Category),Medium,14.33,Veg
+Tomato ketchup,6.48,0.91,0.3,1.9,33.07,33.07,45.0,Low,Estimated(Category),Medium,2.92,Veg
+Bengal 5 Spice Blend (Panch Phoran),20.0,18.26,22.16,18.4,289.79,289.79,25.0,Low,Estimated(Nutrient),Low,5.0,Veg

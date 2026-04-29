@@ -1,0 +1,17 @@
+venv/
+.venv/
+venv*/
+**/venv*/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.vscode/
+*.db
+*.log
+node_modules/
+build/
+.dart_tool/
+evaluation_results/
+*.pkl
+**/*.pkl

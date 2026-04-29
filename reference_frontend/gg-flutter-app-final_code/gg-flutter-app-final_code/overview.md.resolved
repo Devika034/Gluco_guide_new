@@ -1,0 +1,91 @@
+# GlucoGuide: Frontend UI and Data Flow Overview
+
+This document provides a comprehensive map of the GlucoGuide application's user interface, navigation flow, and data architecture.
+
+## 1. Frontend UI Overview
+
+### Application Entry and Authentication
+The app starts with a splash screen and proceeds to authentication if the user is not logged in.
+
+- **[SplashScreen](file:///c:/Users/user/gg_flutter/lib/screens/splash_screen.dart)**: Initial loading screen with brand identity.
+- **[LoginScreen](file:///c:/Users/user/gg_flutter/lib/screens/login_screen.dart)**: User authentication (Email/Password).
+- **[SignupScreen](file:///c:/Users/user/gg_flutter/lib/screens/signup_screen.dart)**: New user registration.
+- **[PreferencesScreen](file:///c:/Users/user/gg_flutter/lib/screens/preferences_screen.dart)**: Initial onboarding questionnaire for medical history and dietary choices.
+
+### Core Experience (Post-Login)
+Once authenticated, the user interacts with the dashboard and specialized feature screens.
+
+- **[HomeScreen](file:///c:/Users/user/gg_flutter/lib/screens/home_screen.dart)**: The central hub featuring daily reminders, quick access to diet plans, and spike predictions.
+- **[UserDashboardScreen](file:///c:/Users/user/gg_flutter/lib/screens/user_dashboard_screen.dart)**: Displays personal details, medical metrics (BMI, HbA1c), and profile management.
+
+### Specialized Health Features
+- **[DietPlanScreen](file:///c:/Users/user/gg_flutter/lib/screens/diet_plan_screen.dart)**: Daily meal suggestions and nutritional targets based on glycemic load.
+- **[LogMealScreen](file:///c:/Users/user/gg_flutter/lib/screens/log_meal_screen.dart)**: Interface to record actual food consumption.
+- **[SpikePredictionScreen](file:///c:/Users/user/gg_flutter/lib/screens/spike_prediction_screen.dart)**: Visualizes potential glucose spikes based on planned meals.
+- **[ComplicationsScreen](file:///c:/Users/user/gg_flutter/lib/screens/complications_screen.dart)**: Educational and risk assessment dashboard for diabetic complications (Nephropathy, Neuropathy, etc.).
+- **[SymptomCheckScreen](file:///c:/Users/user/gg_flutter/lib/screens/symptom_check_screen.dart)**: Interactive questionnaire to track and assess physical symptoms.
+- **[StatsScreen](file:///c:/Users/user/gg_flutter/lib/screens/stats_screen.dart)**: Detailed historical data visualization for glucose levels and other metrics.
+
+---
+
+## 2. Navigation Flow
+
+```mermaid
+graph TD
+    Splash[Splash Screen] --> Login[Login Screen]
+    Login --> Signup[Signup Screen]
+    Login --> Home[Home Screen]
+    Signup --> Prefs[Preferences Screen]
+    Prefs --> Home
+    
+    Home <--> Dashboard[User Dashboard]
+    Home <--> Diet[Diet Plan]
+    Home <--> Spike[Spike Prediction]
+    Home <--> Stats[Stats]
+    Home <--> Comp[Complications]
+    
+    Diet --> Log[Log Meal]
+    Comp --> Symptoms[Symptom Check]
+```
+
+---
+
+## 3. Data Flow and Architecture
+
+GlucoGuide uses a **Service-Oriented Architecture** with `ChangeNotifier` for state management. Services are implemented as singletons to ensure consistent data across the application.
+
+### Core Services
+1.  **[ProfileService](file:///c:/Users/user/gg_flutter/lib/services/profile_service.dart)**:
+    - **Responsibility**: Manages user identity, physical metrics (weight, height), and dietary preferences.
+    - **Key Data**: `name`, `age`, `diet` (Veg/Non-Veg), `medication`, calculated `BMI`.
+    - **Data Flow**: Populated during `PreferencesScreen` and updated in `UserDashboard`.
+
+2.  **[HealthService](file:///c:/Users/user/gg_flutter/lib/services/health_service.dart)**:
+    - **Responsibility**: Manages clinical metrics and complication risk logic.
+    - **Key Data**: `currentGlucose`, `hbA1c`, `yearsWithDiabetes`, `systolicBP`.
+    - **Data Flow**: Provides risk assessment logic used by `ComplicationsScreen`.
+
+3.  **[DietService](file:///c:/Users/user/gg_flutter/lib/models/food_model.dart)** (contained within [food_model.dart](file:///c:/Users/user/gg_flutter/lib/models/food_model.dart)):
+    - **Responsibility**: Manages meal planning, logging, and nutritional calculations.
+    - **Key Data**: `logs` (MealLog), `todaysPlan` (DietPlan), `consumedGL`, `consumedCarbs`.
+    - **Data Flow**: Dynamically adjusts future meal suggestions based on logged intake and user preferences from [ProfileService](file:///c:/Users/user/gg_flutter/lib/services/profile_service.dart#3-71).
+
+4.  **[SymptomTrackerService](file:///c:/Users/user/gg_flutter/lib/services/symptom_service.dart)**:
+    - **Responsibility**: Handles symptom assessments and history.
+    - **Key Data**: [AssessmentResult](file:///c:/Users/user/gg_flutter/lib/services/symptom_service.dart#5-20) history.
+    - **Data Flow**: Processes answers from `SymptomCheckScreen` to calculate risk levels for specific complications.
+
+### Data Synchronization Pattern
+The application follows a **Reactive Data Pattern**:
+1.  **Trigger**: User interacts with a screen (e.g., logs a meal in `LogMealScreen`).
+2.  **Update**: The screen calls a method on the relevant Service (e.g., `DietService.logMeal()`).
+3.  **Logic**: The Service updates its internal state and potentially interacts with other services (e.g., [DietService](file:///c:/Users/user/gg_flutter/lib/models/food_model.dart#57-167) checking [ProfileService](file:///c:/Users/user/gg_flutter/lib/services/profile_service.dart#3-71) for diet preferences).
+4.  **Notify**: The Service calls `notifyListeners()`.
+5.  **Re-render**: All screens listening to that Service (via `AnimatedBuilder` or `ListenableBuilder`) automatically refresh to show updated information.
+
+---
+
+## 4. Key Data Models
+
+- **[FoodItem](file:///c:/Users/user/gg_flutter/lib/models/food_model.dart)**: Defines nutritional properties like Glycemic Index (GI), Glycemic Load (GL), protein, and fiber.
+- **[AssessmentResult](file:///c:/Users/user/gg_flutter/lib/services/symptom_service.dart)**: Represents a point-in-time health assessment.

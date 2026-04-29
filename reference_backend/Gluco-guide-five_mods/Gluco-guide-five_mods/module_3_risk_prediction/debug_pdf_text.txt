@@ -1,0 +1,50 @@
+
+--- Page 1 ---
+LABORATORY TEST REPORT
+Patient Information
+PatientName: JohnSmith
+PatientID: #58921-A
+Age/Sex: 54/Male
+DateofCollection: January15,2026
+ReferredBy: Dr. S.Patel,Endocrinology
+1. Glycemic Control
+Primaryindicatorsforlong-termbloodsugarmanagement.
+TestName Result Units ReferenceRange
+HemoglobinA1c(HbA1c) 7.8 % <5.7(Normal)
+5.7–6.4(Prediabetes)
+>6.5(Diabetes)
+FastingPlasmaGlucose 142 mg/dL 70–99
+PostprandialGlucose(2hr) 195 mg/dL <140
+MeanEstimatedGlucose 177 mg/dL N/A
+2. Renal Function Profile (Kidney Health)
+Markersoftenassociatedwithdiabeticnephropathyrisk.
+TestName Result Units ReferenceRange
+SerumCreatinine 1.25 mg/dL 0.74–1.35(Male)
+BloodUreaNitrogen(BUN) 22 mg/dL 6–20
+eGFR (Non-African Ameri- 68 mL/min >90(Normal)
+can)
+60–89(MildDecrease)
+UrineAlbumin/CreatRatio 35 mg/g <30(Normal)
+30–300(Microalbuminuria)
+SerumElectrolytes(K+) 4.8 mmol/L 3.5–5.1
+1
+--- Page 2 ---
+3. Lipid Profile
+Vascularhealthmarkersrelevanttoretinopathyandcirculatoryhealth.
+TestName Result Units ReferenceRange
+TotalCholesterol 235 mg/dL <200
+Triglycerides 180 mg/dL <150
+HDLCholesterol(Good) 38 mg/dL >40
+LDLCholesterol(Bad) 158 mg/dL <100
+VLDLCholesterol 36 mg/dL 2–30
+Chol/HDLRatio 6.1 Ratio <5.0
+4. Clinical Vitals & Physical
+Recordedattimeofsamplecollection.
+Measure Value Units Reference
+SystolicBloodPressure 138 mmHg <120
+DiastolicBloodPressure 88 mmHg <80
+BodyMassIndex(BMI) 28.4 kg/m2 18.5–24.9
+WaistCircumference 102 cm <94(Male)
+EndofReport
+AuthorizedSignatory: CentralDiagnosticLabs
+2

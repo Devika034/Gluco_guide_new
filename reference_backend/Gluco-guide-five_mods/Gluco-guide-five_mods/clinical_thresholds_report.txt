@@ -1,0 +1,108 @@
+# GlucoGuide Clinical Logic & Thresholds Report
+
+This document outlines the medical thresholds, clinical logic, and standard guidelines used to power the 4 modules of GlucoGuide.
+
+---
+
+## 📚 Primary Reference Standards
+The clinical logic across GlucoGuide is derived from globally recognized standards for diabetes care:
+1.  **ADA (American Diabetes Association)** - *Standards of Medical Care in Diabetes (2023/2024)*
+2.  **WHO (World Health Organization)** - *Diagnostic Criteria for Diabetes*
+3.  **IDF (International Diabetes Federation)** - *Postmeal Glucose Management Guidelines*
+
+---
+
+## 🟢 Module 1: Recommendation & Analysis
+
+### 1. Diabetic "Strict Mode" Triggers
+The system switches to **Strict Portion Control** (e.g., 1/2 cup rice vs 1 cup) if **ANY** of the following are met.
+*   **Code Location:** `module_1_recommendation_analysis/app.py` -> `generate_meal_plan`
+
+| Parameter | Threshold Used | Clinical Source / Rationale |
+| :--- | :--- | :--- |
+| **HbA1c** | `> 6.5%` | **ADA Diagnostic Criteria**: ≥ 6.5% indicates Diabetes. |
+| **Fasting Glucose** | `> 130 mg/dL` | **ADA Target**: Fasting target for diabetics is 80–130 mg/dL. Above 130 implies poor control. |
+| **Current Glucose** | `> 180 mg/dL` | **ADA Target**: Peak postprandial target is < 180 mg/dL. |
+
+### 2. Meal Risk Classification (Predicted Spike)
+*   **Code Location:** `module_1_recommendation_analysis/app.py` -> `analyze_meal`
+
+| Classification | Predicted 2hr Spike | Source |
+| :--- | :--- | :--- |
+| **Low Risk** | `< 120 mg/dL` | Normal post-meal range for healthy individuals. |
+| **Moderate Risk** | `120 – 160 mg/dL` | Acceptable excursion range for managed diabetes. |
+| **High Risk** | `> 160 mg/dL` | Approaches the ADA upper limit (180 mg/dL) for safety. |
+
+---
+
+## 🔵 Module 2: Spike Prediction
+
+### 1. Alert Thresholds
+The Machine Learning model predicts the raw glucose number. The *advice* is generated based on these heuristic cutoffs.
+*   **Code Location:** `module_2_spike_prediction/app.py` -> `predict`
+
+| Alert Level | Glucose Value | Advice Logic |
+| :--- | :--- | :--- |
+| **Hypoglycemia** | `< 70 mg/dL` | **ADA Level 1 Hypoglycemia**: Defined as glucose < 70 mg/dL. Requires immediate carbohydrate intake. |
+| **Critical Spike** | `> 200 mg/dL` | **Clinical Hyperglycemia**: Levels consistently > 200 mg/dL suggest severe insulin deficiency/resistance. |
+| **Moderate Spike** | `> 160 mg/dL` | Warning zone indicating need for activity (walking) or hydration. |
+
+### 2. Input Mapping Logic
+| Variable | Mapped Value | Rationale |
+| :--- | :--- | :--- |
+| **Sedentary** | `2500 steps` | Represents "Basal activity only" (Source: NIH Step Count Studies). |
+| **Active** | `8500 steps` | Meets WHO recommendation of >8000 steps/day for active lifestyle. |
+| **Night** | `20:00 (8 PM)` | Circadian Rhythm studies show insulin sensitivity drops in the evening. |
+
+---
+
+## 🟠 Module 3: Complication Risk Prediction
+
+This module uses a **Probabilistic Heuristic Model** based on risk multipliers.
+*   **Code Location:** `module_3_risk_prediction/app.py` -> `likelihood_*` functions
+
+### 1. HbA1c Risk Tiers (Long-term Control)
+*Source: DCCT (Diabetes Control and Complications Trial) establishes strong link between HbA1c and complications.*
+
+| HbA1c Level | Assigned Risk Probability | Clinical Status |
+| :--- | :--- | :--- |
+| `< 7.0%` | **10%** (0.10) | **ADA Goal**: Good control, low risk of retinopathy/neuropathy. |
+| `7.0% - 8.0%` | **30%** (0.30) | **Fair Control**: Moderate risk accumulation. |
+| `8.0% - 9.0%` | **60%** (0.60) | **Poor Control**: Significant risk increase. |
+| `> 9.0%` | **85%** (0.85) | **Critical**: High immediate risk of microvascular damage. |
+
+### 2. Blood Pressure Tiers (Vascular Risk)
+*Source: JNC 8 / ACC/AHA Hypertension Guidelines*
+
+| Systolic BP | Risk Probability | Clinical Status |
+| :--- | :--- | :--- |
+| `< 130 mmHg` | **20%** (0.20) | **Diabetic Target**: Tighter than general pop (<130/80). |
+| `130 - 150 mmHg` | **50%** (0.50) | **Stage 1 Hypertension**: Increased strain on kidneys/eyes. |
+| `> 150 mmHg` | **80%** (0.80) | **Stage 2 Hypertension**: Severe vascular risk. |
+
+### 3. Cholesterol & Lifestyle
+| Parameter | Threshold | Value | Source |
+| :--- | :--- | :--- | :--- |
+| **Cholesterol** | `> 240 mg/dL` | High Risk (0.75) | **NCEP ATP III**: High Total Cholesterol marker. |
+| **Smoking** | Present | +30% Risk | Major accelerant for neuropathy/nephropathy. |
+
+---
+
+## 🟣 Module 4: Disease Progress Tracker
+
+### 1. Symptom Scoring Scoring
+Scores are normalized to a `0.0` - `1.0` scale.
+*   **Code Location:** `module_4_tracker/app.py` -> `interpret_score`
+
+| Total Score | Classification | Clinical Interpretation |
+| :--- | :--- | :--- |
+| `< 0.3` | **Stable** | Patient is asymptomatic or successfully managing condition. |
+| `0.3 – 0.6` | **Watchful** | Emerging symptoms (Grade 1). Requires routine monitoring. |
+| `> 0.6` | **High Risk** | Significant symptomatic burden (Grade 2+). Referral recommended. |
+
+### 2. Trend Logic
+| Change in Score | Classification | Meaning |
+| :--- | :--- | :--- |
+| `± 0.1` | **Stable** | Normal fluctuation. |
+| `> +0.1` | **Worsening** | Clear progression of disease symptoms. |
+| `< -0.1` | **Improving** | Effective management/treatment response. |

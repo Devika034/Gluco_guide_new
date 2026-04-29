@@ -1,0 +1,138 @@
+Food Name,Glycemic Index,Calories (per 100g),Carbs (g),Protein (g),Fat (g),Fiber (g),Meal Type,Veg/Non-Veg,Diabetic Suitability
+Idli,60,130,25,6,0.5,2,Breakfast|Dinner,Veg,0.8
+Dosa (Plain),65,168,29,3.9,3.7,0.9,Breakfast|Dinner,Veg,0.7
+Masala Dosa,70,190,32,4,6,2,Breakfast|Dinner,Veg,0.6
+Set Dosa,68,175,30,4,5,1.5,Breakfast|Dinner,Veg,0.65
+Appam,75,150,30,2,3,1,Breakfast|Dinner,Veg,0.5
+Idiyappam,58,120,26,3,0.4,1.2,Breakfast|Dinner,Veg,0.85
+Puttu,78,165,35,4,1,1,Breakfast|Dinner,Veg,0.45
+Ragi Puttu,52,145,27,5,1.5,5.5,Breakfast|Dinner,Veg,0.9
+Wheat Puttu,58,150,29,5,1.8,4,Breakfast|Dinner,Veg,0.85
+Oats Puttu,52,135,24,5,2,4,Breakfast|Dinner,Veg,0.9
+Upma,68,140,23,4,4,2,Breakfast,Veg,0.7
+Aval Upma,62,135,22,3,3,2,Breakfast,Veg,0.8
+Kozhukatta,60,210,34,4,6,2,Breakfast|Snack,Veg,0.7
+Ela Ada,65,220,36,3,8,3,Snack,Veg,0.6
+Unniyappam,72,260,38,4,10,2,Snack,Veg,0.45
+Banana (Nendran),55,120,31,1.3,0.4,2.6,Breakfast|Snack,Veg,0.8
+Chapati,62,104,20,3,1,3,Lunch|Dinner,Veg,0.8
+Wheat Roti,60,150,28,5,2,4,Lunch|Dinner,Veg,0.8
+Multigrain Roti,55,155,26,6,2,6,Lunch|Dinner,Veg,0.9
+Rice Rotti,72,175,36,3,2,1,Dinner,Veg,0.5
+Pathiri,75,180,38,3,1,1,Dinner,Veg,0.45
+Wheat Pathiri,62,165,32,5,2,4,Dinner,Veg,0.8
+Multigrain Pathiri,55,160,30,6,2,6,Dinner,Veg,0.9
+Oats Roti,52,150,25,6,3,6,Dinner,Veg,0.9
+Ragi Roti,52,145,26,4,2,5,Dinner,Veg,0.85
+Jowar Roti,50,140,25,4,2,5,Dinner,Veg,0.9
+Broken Wheat Roti,55,150,27,5,2,4,Dinner,Veg,0.85
+Red Rice (Cooked),58,110,23,2.6,0.9,1.8,Lunch,Veg,0.85
+Parboiled Rice (Cooked),60,115,24,2.7,0.8,1.5,Lunch,Veg,0.8
+Broken Rice (Cooked),68,125,27,2.4,0.4,0.6,Lunch,Veg,0.6
+Rice and Green Gram Mix,55,140,26,5,1.2,3.5,Lunch,Veg,0.9
+Rice and Lentil Mix,57,145,27,5.5,1.5,3,Lunch,Veg,0.85
+Millet Rice (Mixed),52,120,24,3.8,1.5,4.5,Lunch,Veg,0.9
+Foxtail Millet Rice,50,120,24,3.5,1.5,4,Lunch,Veg,0.9
+Little Millet Rice,52,118,23,3.6,1.4,4.2,Lunch,Veg,0.9
+Barnyard Millet Rice,48,110,22,3.8,1.2,4.8,Lunch,Veg,0.92
+Pearl Millet Rice,54,125,25,4.2,1.5,4.5,Lunch,Veg,0.88
+Sorghum Rice,50,120,24,4,1.4,4,Lunch,Veg,0.9
+Broken Wheat (Cooked),55,135,26,4.5,1.8,4.2,Lunch,Veg,0.85
+Whole Wheat Kernels,52,130,25,5,1.5,5,Lunch,Veg,0.9
+Rice Kanji,65,90,20,2,0.3,0.4,Breakfast|Lunch,Veg,0.7
+Rice Kanji with Green Gram,48,110,18,4.5,0.8,3.2,Breakfast|Lunch,Veg,0.95
+Millet Kanji,50,115,22,4,1.2,4.5,Breakfast|Dinner,Veg,0.9
+Ragi Kanji,50,120,24,4,1,5,Breakfast,Veg,0.9
+Broken Wheat Upma,55,145,22,4,3,3,Breakfast,Veg,0.85
+Green Gram Porridge,45,130,20,6,1.5,5,Breakfast,Veg,0.95
+Sprouted Ragi Porridge,48,125,22,4.5,1.2,5.5,Breakfast,Veg,0.95
+White Rice (Cooked),73,130,28,2.7,0.3,0.4,Lunch,Veg,0.55
+Ghee Rice,75,220,32,4,9,1,Lunch,Veg,0.4
+Vegetable Biriyani,68,190,30,4,6,2,Lunch,Veg,0.6
+Chicken Biriyani,70,230,34,7,8,1,Lunch,Non-Veg,0.55
+Fish Biriyani,65,210,32,8,6,1,Lunch,Non-Veg,0.6
+Curd Rice,55,150,24,4,3,1,Lunch,Veg,0.8
+Lemon Rice,60,170,26,3,4,2,Lunch,Veg,0.75
+Coconut Rice,62,185,28,3,6,3,Lunch,Veg,0.7
+Sambar,50,75,10,4,2,3,Lunch,Veg,0.85
+Rasam,20,35,5,1,0.5,1,Lunch,Veg,0.95
+Mor Curry,25,60,6,2,2,1,Lunch,Veg,0.9
+Avial,40,110,14,3,5,5,Lunch|Dinner,Veg,0.9
+Olan,30,95,10,2,6,3,Lunch|Dinner,Veg,0.95
+Kootu Curry,50,180,28,6,6,7,Lunch,Veg,0.8
+Erissery,55,170,26,5,6,6,Lunch,Veg,0.75
+Theeyal,45,150,18,4,7,5,Lunch,Veg,0.85
+Pulissery,35,90,8,3,4,1,Lunch,Veg,0.9
+Moru Kachiyathu,30,80,7,2,3,1,Lunch,Veg,0.9
+Cabbage Thoran,35,90,12,2,4,4,Lunch,Veg,0.9
+Beans Thoran,38,95,13,2.5,4,4,Lunch,Veg,0.9
+Carrot Thoran,40,100,14,2,4,3,Lunch,Veg,0.85
+Beetroot Thoran,45,110,16,2.5,4,3,Lunch,Veg,0.8
+Spinach Thoran,30,85,10,3,3,4,Lunch,Veg,0.95
+Pumpkin Thoran,42,105,15,2,3,3,Lunch,Veg,0.85
+Bitter Gourd Thoran,40,95,10,3,4,3,Lunch,Veg,0.9
+Fish Curry,45,140,5,18,7,1,Lunch|Dinner,Non-Veg,0.85
+Meen Pollichathu,45,220,4,22,14,0,Dinner,Non-Veg,0.8
+Fish Fry,50,240,6,20,16,0,Dinner,Non-Veg,0.6
+Chicken Curry,45,160,6,15,10,1,Lunch|Dinner,Non-Veg,0.8
+Chicken Stew,45,190,8,14,12,1,Dinner,Non-Veg,0.75
+Beef Curry,40,250,6,20,18,0,Lunch|Dinner,Non-Veg,0.75
+Beef Roast,42,280,5,22,20,0,Dinner,Non-Veg,0.7
+Mutton Curry,42,270,5,18,20,0,Lunch|Dinner,Non-Veg,0.7
+Egg Roast,30,200,4,12,16,0,Dinner,Non-Veg,0.85
+Duck Curry,44,290,4,19,22,0,Lunch|Dinner,Non-Veg,0.75
+Pazham Pori,75,280,40,3,12,2,Snack,Veg,0.4
+Achappam,70,260,36,4,10,1,Snack,Veg,0.5
+Kuzhalappam,68,240,34,3,9,2,Snack,Veg,0.55
+Sharkara Varatti,65,220,32,2,8,3,Snack,Veg,0.6
+Avalose Unda,60,210,30,6,6,4,Snack,Veg,0.75
+Sukhiyan,72,290,42,3,12,2,Snack,Veg,0.45
+Uzhunnu Vada,68,310,30,7,18,3,Snack,Veg,0.5
+Black Tea,25,2,0.5,0,0,0,Drink,Veg,1.0
+Milk Tea,45,60,7,2,2,0,Drink,Veg,0.75
+Filter Coffee,35,40,5,1,1,0,Drink,Veg,0.8
+Tender Coconut Water,30,19,4,0.7,0.2,0,Drink,Veg,0.95
+Tender Coconut Flesh,35,90,6,1,9,4,Snack,Veg,0.8
+Plain Wheat Toast,65,260,49,9,4,6,Breakfast,Veg,0.6
+Vegetable Oats Porridge,50,120,21,4,2,4,Breakfast,Veg,0.9
+Sprouted Green Gram Salad,35,110,18,7,1,6,Breakfast|Lunch,Veg,0.95
+Boiled Corn Kernels,60,96,21,3.4,1.5,2.4,Breakfast|Lunch,Veg,0.75
+Vegetable Semolina Porridge,62,135,24,4,3,2,Breakfast,Veg,0.75
+Broken Rice Dosa,66,160,28,4,3,2,Breakfast|Dinner,Veg,0.7
+Fermented Rice Porridge,55,95,20,2.5,0.6,2,Breakfast,Veg,0.85
+Steamed Rice Cakes,65,150,30,4,1,1.5,Breakfast,Veg,0.65
+Vegetable Wheat Upma,58,145,23,4.5,3,3,Breakfast,Veg,0.85
+Vegetable Millet Pongal,52,155,26,5,3,4,Breakfast|Lunch,Veg,0.9
+Steamed Red Rice,58,110,23,2.6,0.9,1.8,Lunch,Veg,0.85
+Steamed Brown Rice,55,108,22,2.8,0.8,2.1,Lunch,Veg,0.9
+Rice with Buttermilk,52,120,22,3,1.2,1.5,Lunch,Veg,0.9
+Vegetable Barley Rice,48,123,24,3.5,1.2,5,Lunch,Veg,0.92
+Boiled Horse Gram,45,140,24,9,2,7,Lunch,Veg,0.85
+Boiled Black Chickpeas,42,160,27,8,3,8,Lunch,Veg,0.9
+Steamed Little Millet,52,118,23,3.6,1.4,4.2,Lunch,Veg,0.9
+Steamed Foxtail Millet,50,120,24,3.5,1.5,4,Lunch,Veg,0.9
+Vegetable Khichdi (Millet),50,150,24,6,3,4,Lunch,Veg,0.9
+Vegetable Broken Wheat Khichdi,55,160,26,6,3,4,Lunch,Veg,0.85
+Steamed Pumpkin Mash,45,90,18,2,1,3,Lunch,Veg,0.85
+Steamed Ash Gourd Mash,40,70,10,2,1,2,Lunch,Veg,0.9
+Rice with Green Gram Curry,55,165,28,7,2,4,Lunch,Veg,0.85
+Rice with Vegetable Stew,60,180,30,4,6,3,Lunch|Dinner,Veg,0.7
+Steamed Wheat Noodles,58,155,27,5,1.5,3,Dinner,Veg,0.85
+Vegetable Millet Roti,52,150,25,5,2,5,Dinner,Veg,0.9
+Vegetable Wheat Wrap,60,190,32,6,5,4,Dinner,Veg,0.75
+Vegetable Stuffed Chapati,58,180,28,6,4,4,Dinner,Veg,0.8
+Vegetable Rice Noodles,65,170,32,4,3,2,Dinner,Veg,0.65
+Steamed Rice Dumplings,68,190,34,4,2,2,Dinner,Veg,0.6
+Vegetable Tapioca Mash,75,170,35,2,2,3,Dinner,Veg,0.45
+Steamed Sweet Corn Meal,60,140,29,3,2,3,Dinner,Veg,0.75
+Vegetable Millet Upma,52,145,24,5,2.5,4,Dinner,Veg,0.9
+Vegetable Broken Wheat Roti,55,150,27,5,2,4,Dinner,Veg,0.85
+Plain Omelette,30,154,2,11,12,0,Breakfast|Dinner,Non-Veg,0.9
+Boiled Egg Whites,25,52,1,11,0.2,0,Breakfast,Non-Veg,0.95
+Egg Bhurji (Dry),35,180,4,12,14,0,Breakfast|Dinner,Non-Veg,0.85
+Grilled Fish Fillet,40,160,0,26,6,0,Dinner,Non-Veg,0.9
+Steamed Fish with Spices,38,150,0,24,5,0,Dinner,Non-Veg,0.9
+Chicken Breast (Boiled),35,165,0,31,3.6,0,Lunch|Dinner,Non-Veg,0.95
+Chicken Mince Stir Fry,40,210,3,22,12,0,Dinner,Non-Veg,0.85
+Fish and Vegetable Stew,42,180,6,18,10,1,Dinner,Non-Veg,0.8
+Prawn Stir Fry,44,200,3,20,12,0,Dinner,Non-Veg,0.8

@@ -1,0 +1,7 @@
+Patient: John Doe
+HbA1c: 5.7%
+Fasting Glucose: 110 mg/dL
+BP: 130/85 mmHg
+Total Cholesterol: 210 mg/dL
+Age: 45
+Sex: Male

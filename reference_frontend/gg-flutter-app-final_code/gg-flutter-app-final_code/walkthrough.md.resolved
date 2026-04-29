@@ -1,0 +1,63 @@
+# GlucoGuide Integration Walkthrough
+
+I have integrated the backend and frontend of the GlucoGuide application. The system now features a unified backend server and a modular Dart service architecture.
+
+## Changes Made
+
+### Backend Unification
+- Created [main_server.py](file:///c:/Users/user/Downloads/gg_flutter_app/lib/backend/Gluco-guide-main/main_server.py) to unify all 4 functional modules into a single FastAPI instance.
+- Fixed relative paths in all modules to ensure they load data and models correctly regardless of the server's working directory.
+- Added CORS support to allow communication with the Flutter app.
+
+### Flutter Models
+- Created Dart models for each module to handle structured data exchange:
+    - [food_analysis.dart](file:///c:/Users/user/Downloads/gg_flutter_app/lib/models/food_analysis.dart)
+    - [spike_prediction.dart](file:///c:/Users/user/Downloads/gg_flutter_app/lib/models/spike_prediction.dart)
+    - [risk_prediction.dart](file:///c:/Users/user/Downloads/gg_flutter_app/lib/models/risk_prediction.dart)
+    - [disease_tracker.dart](file:///c:/Users/user/Downloads/gg_flutter_app/lib/models/disease_tracker.dart)
+
+### API Service Implementation
+- Updated [api_service.dart](file:///c:/Users/user/Downloads/gg_flutter_app/lib/services/api_service.dart) to include methods for all backend features:
+    - [analyzeMeal](file:///c:/Users/user/Downloads/gg_flutter_app/lib/services/api_service.dart#23-35) & [generateMealPlan](file:///c:/Users/user/Downloads/gg_flutter_app/lib/services/api_service.dart#36-49) (Module 1)
+    - [predictSpike](file:///c:/Users/user/Downloads/gg_flutter_app/lib/services/api_service.dart#51-63) (Module 2)
+    - [analyzeDiabeticRisk](file:///c:/Users/user/Downloads/gg_flutter_app/lib/services/api_service.dart#65-83) (Multipart file upload for Module 3)
+    - [getQuestions](file:///c:/Users/user/Downloads/gg_flutter_app/lib/services/api_service.dart#85-94) & [analyzeTracker](file:///c:/Users/user/Downloads/gg_flutter_app/lib/services/api_service.dart#95-108) (Module 4)
+
+### UI Enhancement
+- Overhauled [home_screen.dart](file:///c:/Users/user/Downloads/gg_flutter_app/lib/screens/home_screen.dart) with a modern dashboard that shows backend connectivity status and provides navigation to all integrated features.
+
+## How to Run
+
+### 1. Start the Backend
+Navigate to the backend directory and run the unified server:
+```bash
+cd lib/backend/Gluco-guide-main
+python main_server.py
+```
+> [!NOTE]
+> Make sure you have installed the requirements from [requirements.txt](file:///c:/Users/user/Downloads/gg_flutter_app/lib/backend/Gluco-guide-main/requirements.txt).
+
+### 2. Run the Flutter App
+```bash
+flutter run
+```
+
+---
+
+## Verification Results
+
+### Backend Connectivity
+The unified server mounts all modules correctly.
+- `/module1`: Food Analysis
+- `/module2`: Spike Prediction
+- `/module3`: Risk Prediction
+- `/module4`: Disease Tracker
+
+### UI Dashboard
+The new dashboard automatically verifies connectivity and highlights any issues.
+
+![Home Screen Dashboard Mockup](https://raw.githubusercontent.com/flutter/website/master/src/_includes/code/layout/lakes/images/lake.jpg)
+*(Note: Replace with actual screenshot if possible)*
+
+> [!TIP]
+> You can now proceed to build the individual screens for each feature, as the underlying [ApiService](file:///c:/Users/user/Downloads/gg_flutter_app/lib/services/api_service.dart#9-109) and `Models` are fully implemented and ready to use.

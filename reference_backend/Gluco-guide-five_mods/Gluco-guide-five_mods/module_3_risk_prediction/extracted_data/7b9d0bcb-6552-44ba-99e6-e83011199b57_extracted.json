@@ -1,0 +1,4 @@
+{
+    "filename": "test_ocr_llm.png",
+    "text": "\n\n--- Report: test_ocr_llm.png ---\nPatient Name: John Doe\nHbAIc\nFasting Blood\n40 mgidL\nBlood Pressure: 135,85\nTotal Cholesterol: 220 mgdL\nPge: 55\nSex Male\nSugal\n[Tesseract Failed: tesseract is not installed or it's not in your PATH. See README file for more information.]"
+}

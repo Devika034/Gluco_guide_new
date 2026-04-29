@@ -1,0 +1,500 @@
+CLINICAL GUIDELINES FOR DIABETIC COMPLICATIONS (RETINOPATHY, NEPHROPATHY, NEUROPATHY)
+
+
+--- Page 1 ---
+12.
+RETINOPATHY,
+NEUROPATHY,
+AND
+FOOT
+CARE
+Diabetes Care Volume 49, Supplement 1, January 2026 S261
+12. Retinopathy, Neuropathy, and
+American Diabetes Association
+Professional Practice Committee for
+Foot Care: Standards of Care in
+Diabetes*
+Diabetes—2026
+Diabetes Care 2026;49(Suppl. 1):S261–S276 | https://doi.org/10.2337/dc26-S012
+The American Diabetes Association (ADA) “Standards of Care in Diabetes” includes the
+ADA’s current clinical practice recommendations and is intended to provide the compo-
+nents of diabetes care, general treatment goals and guidelines, and tools to evaluate
+quality of care. Members of the ADA Professional Practice Committee for Diabetes,
+an interprofessional expert committee, are responsible for updating the Standards
+of Care annually, or more frequently as warranted. For a detailed description of
+ADA standards, statements, and reports, as well as the evidence-grading system
+for ADA’s clinical practice recommendations and a full list of Professional Practice
+Committee members, please refer to Introduction and Methodology. Readers who
+wish to comment on the Standards of Care are invited to do so at professional
+.diabetes.org/SOC.
+Diabetes is defined by hyperglycemia (1). Chronic hyperglycemia is the best-established
+concomitant risk factor associated with microvascular complications (e.g., diabetic reti-
+nopathy and neuropathy). Optimizing glycemic management has the beneficial impact
+of preventing or delaying microvascular disease in diabetes. For example, the Diabetes
+Control and Complications Trial/Epidemiology of Diabetes Interventions and Compli-
+cations (DCCT/EDIC) study in people with type 1 diabetes showed that the early ben-
+*A complete list of members of the American
+eficial effects of intensive (A1C ∼7% [∼53 mmol/mol]) versus conventional (A1C ∼9%
+Diabetes Association Professional Practice Committee
+[∼75 mmol/mol]) therapy on microvascular complications persisted for ∼10 years after for Diabetes can be found at https://doi.org/
+the convergence of A1C levels in the two groups during the EDIC follow-up—a novel 10.2337/dc26-SINT.
+concept, termed metabolic memory, in which a period of near-normal glycemia produ- Duality of interest information for each contributor
+ces long-term beneficial effects on complications, with such effects persisting even is available at https://doi.org/10.2337/dc26-SDIS.
+though subsequent levels of glycemia may have risen (2,3). Many mechanisms Suggested citation: American Diabetes Association
+may mediate the effects of chronic hyperglycemia on complications, including Professional Practice Committee for Diabetes. 12.
+Retinopathy, neuropathy, and foot care: Standards
+glycation, lipoxidation, inflammation, apoptosis, and epigenetic and other intra-
+of Care in Diabetes—2026. Diabetes Care 2026;
+cellular processes (4).
+49(Suppl. 1):S261–S276
+© 2025 by the American Diabetes Association.
+DIABETIC RETINOPATHY
+Readers may use this work for educational,
+noncommercial purposes if properly cited and
+Recommendations
+unaltered. The version of record may be linked
+12.1 Implement strategies to help people with diabetes reach glycemic goals at https://diabetesjournals.org/care, but ADA
+to reduce the risk or slow the progression of diabetic retinopathy. A permission is required to post this work on any
+12.2 Implement strategies to help people with diabetes reach blood pres- third-party site or platform. This publication and its
+contents may not be reproduced, distributed, or
+sure and lipid goals to reduce the risk or slow the progression of diabetic
+used for text or data mining, machine learning,
+retinopathy. A
+or similar technologies without prior written
+permission. Requests to reuse, adapt, or distribute
+this work may be sent to permissions@diabetes
+Diabetic retinopathy is a highly specific neurovascular complication of diabetes, with
+.org. More information is available at https://
+prevalence strongly related to both the duration of diabetes and the level of chronic diabetesjournals.org/journals/pages/license.
+Downloaded
+from
+http://diabetesjournals.org/care/article-pdf/49/Supplement_1/S261/848830/dc26s012.pdf
+by
+guest
+on
+21
+January
+2026
+
+--- Page 2 ---
+S262 Retinopathy, Neuropathy, and Foot Care Diabetes Care Volume 49, Supplement 1, January 2026
+hyperglycemia (5). Diabetic retinopathy is In contrast, GLP-1 RAs may have ocular people with vision-threatening retinopa-
+characterized by microaneursyms in the benefits. For example, several studies have thy may be asymptomatic. Additionally,
+earliest stage, followed by retinal hemor- shown an association with GLP-1 RAs and current therapies can not only prevent
+rhages and ischemia. In response to ische- lower intraocular pressure (23) as well as a vision loss but also help improve vision
+mia, neovascularization can occur; this is reduced risk of glaucoma (24,25). for many individuals. Prompt diagnosis
+proliferative diabetic retinopathy (PDR). At allows triage of people with diabetes and
+any point along this spectrum, the retina timely intervention that may prevent vi-
+Screening
+vasculature can leak fluid (and exudates) sion loss in individuals who are asymptom-
+leading to diabetic macular edema (DME). Recommendations atic despite advanced diabetes-related eye
+12.3 Adults with type 1 diabetes should
+Other ocular complications include vitreous disease.
+have an initial dilated and comprehen-
+hemorrhage and tractional retinal detach- Diabetic retinopathy screening should
+sive eye examination by an ophthal-
+ment. Diabetic retinopathy is the most fre- be performed using validated approaches
+mologist or optometrist 5 years after
+quent cause of new cases of blindness and methodologies. Children and adoles-
+among adults aged 20–74 years in high- the onset of diabetes. B cents with type 1 or type 2 diabetes are
+income countries (1). Glaucoma and cata- 12.4 People with type 2 diabetes should also at risk for complications and need
+racts occur earlier and more frequently in have an initial dilated and comprehen- to be screened for diabetic retinopathy
+people with diabetes. sive eye examination by an ophthalmol- (26–28) (see section 14, “Children and
+In addition to diabetes duration, fac- ogist or optometrist at the time of the Adolescents”). If diabetic retinopathy is ev-
+tors that increase the risk of, or are associ- diabetes diagnosis. B ident on screening, prompt referral to an
+ated with, retinopathy include chronic 12.5 If there is no evidence of retinop- ophthalmologist is recommended. Subse-
+hyperglycemia (6,7), nephropathy (8), hy- athy from one or more annual eye ex- quent examinations for individuals with
+pertension (9), and dyslipidemia (10–12). ams and glycemic indicators are within type 1 or type 2 diabetes are generally
+Intensive diabetes management with the the goal range, then screening every repeated annually for individuals without
+goal of achieving early and/or subsequent 1–2 years may be considered. If any or with mild retinopathy. Exams every
+level of diabetic retinopathy is present, 1–2 years may be cost-effective after one
+near-normoglycemia has been shown in
+subsequent dilated retinal examinations or more normal eye exams. In a popula-
+large prospective randomized studies to
+prevent and/or delay the onset and pro- should be repeated at least annually tion with well-managed type 2 diabetes,
+gression of diabetic retinopathy, reduce by an ophthalmologist or optometrist. there was little risk of development of sig-
+the need for future ocular procedures, If retinopathy is progressing or sight- nificant retinopathy within a 3-year inter-
+and potentially improve self-reported vi- threatening, then examinations by an val after a normal examination (29), and
+sual function (6,10,13–15). ophthalmologist will be required more less frequent intervals have been found
+There are conflicting data on the im- frequently. B in simulated modeling to be potentially
+pact of glucagon-like peptide 1 receptor 12.6 Programs that use retinal photog- effective in screening for diabetic retinop-
+agonist (GLP-1 RA) treatment on various raphy with remote reading or the use athy in individuals without diabetic reti-
+facets of eye health, including development of U.S. Food and Drug Administration– nopathy (30). However, it is important to
+of nonarteritic anterior ischemic optic neu- approved artificial intelligence algo- adjust screening intervals based on the
+presence of specific risk factors for reti-
+ropathy, glaucoma, neovascular age-related rithms to improve access to diabetic
+nopathy onset and worsening retinopa-
+macular degeneration (AMD), and diabetic retinopathy screening are appropriate
+thy. More frequent examinations by the
+retinopathy progression (16). GLP-1 RAs in- screening strategies for diabetic reti-
+ophthalmologist will be required if reti-
+cluding liraglutide, semaglutide, and dula- nopathy. Such programs need to pro-
+nopathy is progressing or risk factors such
+glutide have been shown to be associated vide pathways for timely referral for a
+as not meeting glycemic goals, advanced
+with a risk of mildly worsening diabetic reti- comprehensive eye examination when
+retinopathy, or DME are present.
+nopathy in randomized trials (17,18). Fur- indicated. B
+Retinal photography with remote read-
+ther data from clinical studies with longer 12.7 Counsel individuals of childbear-
+ing by experts has great potential to pro-
+follow-up purposefully designed for diabetic ing potential with preexisting type 1 or
+vide screening services in areas where
+retinopathy risk assessment, particularly in- type 2 diabetes who are planning preg-
+qualified eye care professionals are not
+cluding individuals with established diabetic nancy or who are pregnant on the risk
+readily available (31,32). High-quality fun-
+retinopathy, are needed. Retinopathy status of development and/or progression of
+dus photographs can detect most clinically
+should be assessed when glucose-lowering diabetic retinopathy. B
+significant diabetic retinopathy. Interpreta-
+therapies are intensified, such as those us- 12.8 Individuals with preexisting type 1
+tion of the images should be performed by
+ing GLP-1 RAs, since rapid reductions in or type 2 diabetes should receive an
+a trained eye care professional or reading
+A1C have been shown to be associated eye exam before pregnancy as well as
+center technician or by artificial intelligence
+with a risk of initial worsening of retinopa- in the first trimester and may need to (AI) programs that are U.S. Food and Drug
+thy (19). There have been matched cohort be monitored every trimester and for Administration (FDA) approved for this pur-
+studies linking GLP-1 RAs with various ocu- 1 year postpartum as indicated by the pose. Retinal photography may also en-
+lar complications such as nonarteritic ante- degree of retinopathy. B hance efficiency and reduce costs when
+rior ischemic optic neuropathy (20,21) and the expertise of ophthalmologists can be
+AMD (22) in people with diabetes, but data Identifying individuals with diabetes- used for more complex examinations and
+are limited and further studies are needed. related eye disease is important because for treatment (31,33,34). In-person exams
+Downloaded
+from
+http://diabetesjournals.org/care/article-pdf/49/Supplement_1/S261/848830/dc26s012.pdf
+by
+guest
+on
+21
+January
+2026
+
+--- Page 3 ---
+diabetesjournals.org/care Retinopathy, Neuropathy, and Foot Care S263
+are still necessary when the retinal pho- progression of diabetic retinopathy. In a
+tographs are of unacceptable quality and systematic review and meta-analysis of Recommendations
+for follow-up if abnormalities are de- 18 observational studies of pregnant indi- 12.9 Promptly refer individuals with
+tected. Retinal photographs are not a viduals with preexisting type 1 or type 2 any level of diabetic macular edema,
+substitute for dilated comprehensive eye diabetes, the prevalence of any diabetic moderate or worse nonproliferative di-
+exams, which should be performed at retinopathy and PDR in early pregnancy abetic retinopathy (a precursor of pro-
+least initially and at yearly intervals there- was 52.3% and 6.1%, respectively. The liferative diabetic retinopathy [PDR]),
+after or more frequently as recommended pooled progression rate per 100 pregnan- or any PDR to an ophthalmologist
+by an eye care professional. AI systems cies for new diabetic retinopathy develop- who is knowledgeable and experi-
+that detect more than mild diabetic reti- ment was 15.0 (95% CI 9.9–20.8), enced in the management of diabetic
+nopathy and DME that have been autho- worsened nonproliferative diabetic reti- retinopathy. A
+rized for use by the FDA represent an nopathy was 31.0 (95% CI 23.2–39.2), 12.10 Panretinal laser photocoagula-
+alternative to traditional screening ap- pooled sight-threatening progression rate tion therapy is indicated to reduce the
+proaches (35). Three AI platforms have from nonproliferative diabetic retinopa- risk of vision loss in individuals with
+been approved by the FDA for diabetic thy to PDR was 6.3 (95% CI 3.3–10.0), and high-risk PDR and, in some cases, se-
+retinopathy screening and examination: vere nonproliferative diabetic retinop- worsened PDR was 37.0 (95% CI 21.2–
+AEYE diagnostic screening technology, or athy. A
+54.0), demonstrating that close follow-up
+AEYE-DS (AEYE Health); EyeArt AI screening 12.11 Intravitreous injections of anti–
+should be maintained during pregnancy
+system (Eyenuk); and LumineticsCore, for- vascular endothelial growth factor (anti-
+to prevent vision loss (38). In addition,
+merly IDx-DR (Digital Diagnostics). These VEGF) are a reasonable alternative to
+rapid implementation of intensive glyce-
+services are covered by most insurance traditional panretinal laser photocoag-
+mic management in the setting of reti-
+plans. Prospective multicenter clinical tri- ulation for some individuals with PDR
+nopathy may be associated with early
+als on diagnostic accuracy have been pub- and also reduce the risk of vision loss
+worsening of retinopathy (similar to what
+lished for each platform (36). However, in these individuals. A
+has been seen with GLP-1 RA therapy in
+the benefits and optimal utilization of this 12.12 Intravitreous injections of anti-
+nonpregnancy settings), and these indi-
+type of screening have yet to be fully de- VEGF are indicated as first-line treat-
+viduals may also benefit from more fre-
+termined. Results of all screening eye ment for most eyes with diabetic mac-
+quent follow-up initially (39).
+examinations should be documented and ular edema that involves the foveal
+A systematic review and meta-analysis
+transmitted to the referring health care center and impairs visual acuity. A
+and a randomized controlled trial demon-
+professional. 12.13 Macular focal/grid photocoagu-
+strate that pregnancy in individuals with
+lation and intravitreal injections of cor-
+type 1 diabetes may aggravate retinopa-
+Type 1 Diabetes ticosteroid are reasonable treatments
+thy and threaten vision, especially when
+Because retinopathy is estimated to take in eyes with persistent diabetic macu-
+glycemic management is suboptimal or
+at least 5 years to develop after the onset
+lar edema despite previous anti-VEGF
+retinopathy severity is advanced at the
+of hyperglycemia, people with type 1 dia-
+therapy or eyes that are not candi-
+time of conception (38,39). Laser photo-
+betes should have an initial dilated and
+dates for this first-line approach. A
+coagulation can minimize the risk of vi-
+comprehensive eye examination 5 years
+12.14 The presence of retinopathy is
+sion loss during pregnancy for individuals
+after the diagnosis of diabetes (30).
+not a contraindication to aspirin ther-
+with high-risk PDR or center-involved
+apy for cardioprotection, as aspirin does
+DME (39). The use of anti–vascular endo-
+Type 2 Diabetes not increase the risk of retinal hemor-
+thelial growth factor (anti-VEGF) injections People with type 2 diabetes who may
+rhage. A in pregnant individuals may be justified if
+have had undiagnosed hyperglycemia for
+the potential benefit outweighs the poten-
+years and have a significant risk of preva-
+lent diabetic retinopathy at the time of tial risk to the fetus and only if clearly indi- Photocoagulation Therapy
+diabetes diagnosis should have an initial cated (40). Current anti-VEGF medications Two large trials, the Diabetic Retinopathy
+dilated and comprehensive eye examina- have been assigned to pregnancy category Study (DRS) in individuals with PDR and
+tion at the time of diagnosis. C by the FDA (animal studies have revealed the Early Treatment Diabetic Retinopathy
+evidence of embryo-fetal toxicity, but there Study (ETDRS) in individuals with macular
+Pregnancy are no controlled data in human preg- edema, provide the strongest support for
+Individuals who develop gestational diabe- nancy), and caution should be used in the therapeutic benefits of laser photoco-
+tes mellitus do not require eye examina- pregnant individuals with diabetes because agulation therapy. The DRS (41) showed
+tions during pregnancy, since they do not of theoretical risks to the vasculature of that panretinal photocoagulation reduced
+appear to be at increased risk of develop- the developing fetus. the risk of severe vision loss from PDR
+ing diabetic retinopathy during pregnancy from 15.9% in untreated eyes to 6.4% in
+(37). However, individuals of childbearing Treatment treated eyes with the greatest benefit ra-
+potential with preexisting type 1 or type 2 Two of the main motivations for screen- tio in those with more advanced baseline
+diabetes who are planning pregnancy ing for diabetic retinopathy are to prevent disease (disc neovascularization or vit-
+or who have become pregnant should loss of vision and to intervene with treat- reous hemorrhage). Later, the ETDRS
+be counseled on the baseline preva- ment when vision loss can be prevented verified the benefits of panretinal pho-
+lence and risk of development and/or or reversed. tocoagulation for high-risk PDR and in
+Downloaded
+from
+http://diabetesjournals.org/care/article-pdf/49/Supplement_1/S261/848830/dc26s012.pdf
+by
+guest
+on
+21
+January
+2026
+
+--- Page 4 ---
+S264 Retinopathy, Neuropathy, and Foot Care Diabetes Care Volume 49, Supplement 1, January 2026
+older-onset individuals with severe non- therapy in eyes with clinically significant (55–57). Statins are widely used to reduce
+proliferative diabetic retinopathy or less- macular edema (defined as retinal edema the risk of vascular disease, including dia-
+than-high-risk PDR (42). Panretinal laser located at or threatening the macular betic retinopathy. Their beneficial role in
+photocoagulation is still commonly used center), current data from well-designed type 2 diabetes is well established even
+to manage PDR. A macular focal/grid clinical trials demonstrate that intravitreal in individuals with retinopathy at diagnosis.
+laser photocoagulation technique was anti-VEGF agents provide more effective In particular, the sight-threatening types of
+shown in the ETDRS to be effective in treatment of center-involved DME than retinopathy, including DME and PDR, are
+treating eyes with clinically significant mac- monotherapy with laser (47,48). Five anti- reduced with statin use (58). Pioglitazone
+ular edema from diabetes (42), but this is VEGF agents currently are used to treat and rosiglitazone treatment might be as-
+now largely considered a second-line treat- eyes with center-involved DME, namely, sociated with development or worsening
+ment of DME. bevacizumab (used off-label) and the on- of DME, although the evidence is conflict-
+label medications ranibizumab, aflibercept ing (59).
+Anti-VEGF Treatment (2 mg and 8 mg), brolucizumab, and farici-
+Data from the DRCR Retina Network (for- mab (5). A comparative effectiveness study
+Visual Rehabilitation
+merly the Diabetic Retinopathy Clinical demonstrated that aflibercept provides vi-
+Recommendations
+Research Network) and others demon- sion outcomes superior to those of beva-
+12.15 People who experience diabetes-
+strate that intravitreal injections of anti- cizumab when eyes have moderate visual
+related vision loss should be counseled
+VEGF agents are effective at regressing impairment (vision of 20/50 or worse)
+on the availability and scope of vision
+proliferative disease and lead to noninfe- from DME (49). With ranibizumab and
+rehabilitation care and provided, or re-
+rior or superior visual acuity outcomes aflibercept, most individuals require ad-
+compared with panretinal laser over 2 years ministration of intravitreal therapy with ferred for, a comprehensive evaluation
+of follow-up (43,44). In addition, it was ob- anti-VEGF agents every 4–8 weeks dur- of their visual impairment by a practi-
+served that individuals treated with ranibi- ing the first 12 months of treatment, tioner experienced in vision rehabilita-
+zumab tended to have less peripheral with fewer injections needed in subse- tion. E
+visual field loss, fewer vitrectomy surgeries quent years to maintain remission from 12.16 People with diabetes-related vi-
+for secondary complications from their pro- center-involved DME. The more recently sion loss should receive educational
+liferative disease, and a lower risk of de- approved medications faricimab and afli- materials and resources for eye care
+veloping DME (43). However, a potential bercept 8 mg can achieve visual acuity support in addition to self-management
+drawback in using anti-VEGF therapy to and anatomic gains similar to those of education (e.g., glycemic management
+manage proliferative disease is that indi- aflibercept 2 mg with adjustable dosing and hypoglycemia awareness). E
+viduals were required to have a greater up to every 16 weeks (50,51). For eyes
+number of visits and received a greater that have good vision (20/25 or better)
+In the U.S., ∼12% of adults with diabetes
+number of treatments than is typically re- despite DME, close monitoring with initia-
+have some level of vision impairment
+quired for management by panretinal la- tion of anti-VEGF therapy if vision worsens
+(60). They may have difficulty reaching
+ser, which may not be optimal for some provides 2-year vision outcomes similar to
+their diabetes treatment goals and per-
+individuals. Additionally, unlike panretinal those of immediate initiation of anti-VEGF
+forming many other activities of daily liv-
+laser, anti-VEGF therapy requires partici- therapy (52).
+ing, which can lead to depression, anxiety,
+pation in scheduled follow-up. Individuals Eyes that have persistent DME despite
+social isolation, and difficulties at home,
+with nonintentional lapses in treatment anti-VEGF treatment may benefit from
+in the workplace, or at school (61).
+are at risk for worse visual acuity and ana- macular laser photocoagulation or intra-
+People with diabetes are at increased
+tomic outcomes (45). Subsequently, there vitreal therapy with corticosteroids (53).
+risk of chronic vision loss, subsequent
+is variability in treatment patterns among Both of these therapies are also reason-
+functional decline, and resulting disability.
+eye specialists, with treatment plans tai- able first-line approaches for individuals
+Vision impairment has physical, psycho-
+lored to the individual person. who are not candidates for anti-VEGF treat-
+logical, behavioral, and social consequen-
+The FDA has approved aflibercept and ment due to systemic considerations such
+ces that affect people with diabetes, their
+ranibizumab for the treatment of eyes as pregnancy.
+families, friends, and caregivers. Health
+with diabetic retinopathy. Other emerging
+care professionals and stakeholders may not
+therapies for retinopathy that may use Adjunctive Therapy
+be aware of the overall impact of vision loss
+sustained intravitreal delivery of pharma- Lowering blood pressure has been shown
+on an individual’s health and well-being.
+cologic agents are currently under investi- to decrease retinopathy progression, al-
+People with diabetes-related vision loss
+gation. Anti-VEGF treatment of eyes with though strict goals (systolic blood pressure
+should be evaluated to determine their po-
+nonproliferative diabetic retinopathy has <120 mmHg) do not impart additional ben-
+tential to benefit from comprehensive vision
+been demonstrated to reduce subsequent efit (10). The presence of retinopathy is not
+restoration. Vision rehabilitation can help
+development of retinal neovascularization a contraindication to aspirin therapy for
+people with vision loss achieve maximum
+and DME but has not been shown to im- cardioprotection, as aspirin does not in-
+function, independence, and quality of life.
+prove visual outcomes over 2 years of crease the risk of retinal hemorrhage
+therapy and therefore has not been (54). In individuals with dyslipidemia, reti-
+widely adopted for this indication (46). nopathy progression may be slowed by NEUROPATHY
+While the ETDRS (42) established the the addition of fenofibrate, particularly Diabetic neuropathies are a heterogeneous
+benefit of focal laser photocoagulation with early diabetic retinopathy at baseline group of disorders with diverse clinical
+Downloaded
+from
+http://diabetesjournals.org/care/article-pdf/49/Supplement_1/S261/848830/dc26s012.pdf
+by
+guest
+on
+21
+January
+2026
+
+--- Page 5 ---
+diabetesjournals.org/care Retinopathy, Neuropathy, and Foot Care S265
+manifestations (4). The early recognition those treated chronically with metformin)
+with evidence of other microvascular
+and appropriate management of neurop- and other nutritional deficiencies (e.g., ac-
+complications, particularly kidney dis-
+athy in people with diabetes is important quired copper deficiency after metabolic
+ease and diabetic peripheral neuropa-
+(62). Points to be aware of include the surgery), hypothyroidism, kidney disease,
+thy. Screening can include asking about
+following: malignancies (e.g., multiple myeloma, bron-
+orthostatic dizziness, syncope, early sa-
+chogenic carcinoma), infections (e.g., HIV,
+tiety, erectile dysfunction, changes in
+1. Diabetic neuropathy is a diagnosis of sweating patterns, or dry cracked skin in hepatitis C), chronic inflammatory de-
+exclusion. Nondiabetic neuropathies the extremities. Signs of autonomic neu- myelinating neuropathy, inherited neu-
+may be present in people with diabe- ropathy include orthostatic hypotension, ropathies, and vasculitis (67). See the
+tes and may be treatable. a resting tachycardia, or evidence of pe- American Diabetes Association position
+2. Up to 50% of diabetic peripheral neu- ripheral dryness or cracking of skin. E statement “Diabetic Neuropathy” for more
+ropathy (DPN) cases may be asymp- details (63).
+tomatic (63). If not recognized and if
+preventive foot care is not imple- Diagnosis Diabetic Autonomic Neuropathy
+mented, people with diabetes are at Individuals who have had type 1 diabetes
+Diabetic Peripheral Neuropathy
+risk for injuries as well as diabetic foot Individuals who have had type 1 diabetes for 5 years and all individuals with type 2
+ulcers (DFUs) and amputations. DFUs for 5 years and all individuals with type 2 diabetes should be assessed annually for
+can be defined as a break of the epi- diabetes should be assessed annually for autonomic neuropathy (63). The symp-
+dermis and at least part of the dermis, toms and signs of autonomic neuropathy
+DPN using medical history and simple
+below the ankle, in a person with should be elicited carefully during the his-
+clinical tests (63). Symptoms and signs of
+diabetes. Consequences of DFUs include tory and physical examination. Major clin-
+DPN vary according to the class of sen-
+decline in functional status and reduced ical manifestations of diabetic autonomic
+sory fibers involved. The most common
+independence with daily activities, de- neuropathy include resting tachycardia,
+early symptoms are induced by the in-
+creased quality of life, cost of wound orthostatic hypotension, gastroparesis, con-
+volvement of small fibers and include
+care, infection, hospitalization, lower- stipation, diarrhea, fecal incontinence,
+pain and dysesthesia (unpleasant sensa-
+extremity amputation, and death. erectile dysfunction, neurogenic bladder,
+tions of burning and tingling). The involve-
+3. Recognition and treatment of autonomic and sudomotor dysfunction with either
+ment of large fibers may cause balance
+neuropathy may improve symptoms, re- increased or decreased sweating. Screen-
+issues (including falls), numbness, and
+duce sequelae, and improve quality of ing for symptoms of autonomic neuropa-
+loss of protective sensation (LOPS). LOPS
+life (63). Cardiovascular autonomic neu- thy includes asking about symptoms of
+is a risk factor for DFU due to predisposi-
+ropathy (CAN) can be a serious complica- orthostatic intolerance (dizziness, light-
+tion to unrecognized minor trauma. The
+tion, as it can exacerbate cardiovascular headedness, or weakness with standing),
+following clinical tests may be used to as-
+disease and contribute to heart failure syncope, exercise intolerance, constipa-
+sess small- and large-fiber function and
+and sudden cardiac death (62). tion, diarrhea, urinary retention, urinary
+protective sensation:
+incontinence, or changes in sweat func-
+Screening tion. Further testing can be considered if
+1. Small-fiber function: pinprick and tem-
+symptoms are present and will depend
+Recommendations perature sensation
+on the end organ involved but might in-
+12.17 All people with diabetes should
+2. Large-fiber function: lower-extremity
+clude cardiovascular autonomic testing,
+be assessed for diabetic peripheral neu-
+reflexes, vibration perception, propri-
+sweat testing, urodynamic studies, gastric
+ropathy starting at diagnosis of type 2
+oception, and 10-g monofilament emptying, endoscopy or colonoscopy. Im-
+diabetes and 5 years after the diagnosis 3. Protective sensation: 10-g monofila-
+paired counterregulatory responses to hy-
+of type 1 diabetes and at least annually
+ment, Ipswich touch test (64,65)
+poglycemia in type 1 and type 2 diabetes
+thereafter. B
+can lead to impaired hypoglycemia aware-
+12.18 Assessment for distal symmetric
+These tests not only screen for the
+ness but are not directly linked to auto-
+polyneuropathy should include a careful
+presence of dysfunction but also predict nomic neuropathy.
+history and assessment of either temper-
+future risk of complications. Electrophysi-
+ature or pinprick sensation (small-fiber
+ological testing, magnetic resonance im-
+Cardiovascular Autonomic Neuropathy
+function) and vibration sensation using
+aging (MRI) scan of the spine (66), or CAN is associated with mortality indepen-
+a 128-Hz tuning fork (large-fiber func-
+referral to a neurologist is rarely needed, dent of other cardiovascular risk factors
+tion). All people with diabetes should
+except in situations where the clinical (68,69). In its early stages, CAN may be
+have annual 10-g monofilament testing
+features are atypical (acute or subacute completely asymptomatic and detected
+to identify feet at risk for ulceration
+presentation, non–length dependent, asym- only by decreased heart rate variability
+and amputation. B
+metric, and/or motor involvement) or the with deep breathing. Advanced disease
+12.19 Symptoms and signs of auto-
+diagnosis is unclear. may be associated with resting tachycar-
+nomic neuropathy should be assessed
+In all people with diabetes and DPN, dia (>100 bpm) and orthostatic hypoten-
+in people with diabetes starting at di-
+causes of neuropathy other than diabetes sion (a fall in systolic or diastolic blood
+agnosis of type 2 diabetes and 5 years
+should be considered, including toxins pressure by >20 mmHg or >10 mmHg,
+after the diagnosis of type 1 diabetes,
+(e.g., alcohol), neurotoxic medications (e.g., respectively, upon standing without an
+and at least annually thereafter, and
+chemotherapy), vitamin B12 (especially in appropriate increase in heart rate).
+Downloaded
+from
+http://diabetesjournals.org/care/article-pdf/49/Supplement_1/S261/848830/dc26s012.pdf
+by
+guest
+on
+21
+January
+2026
